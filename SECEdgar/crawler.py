@@ -28,16 +28,38 @@ class SecCrawler():
 
     def save_in_directory(self, company_code, cik, priorto, doc_list,
         doc_name_list, filing_type):
+
         # Save every text document into its respective folder
         for j in range(len(doc_list)):
             base_url = doc_list[j]
             r = requests.get(base_url)
             data = r.text
+
             path = os.path.join(DEFAULT_DATA_PATH, company_code, cik,
                 filing_type, doc_name_list[j])
 
             with open(path, "ab") as f:
                 f.write(data.encode('ascii', 'ignore'))
+
+    def filing_DEF14A(self, company_code, cik, priorto, count):
+        self.make_directory(company_code, cik,priorto, 'DEF 14A')
+
+        # generate the url to crawl
+        base_url = "http://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=" + str(
+            cik) + "&type=def+14a&dateb=" + str(priorto) + "&owner=exclude&output=xml&count=" + str(count)
+        print ("started DEF 14A " + str(company_code))
+        r = requests.get(base_url)
+        data = r.text
+
+        # get doc list data
+        doc_list, doc_name_list = self.create_document_list(data)
+
+        try:
+            self.save_in_directory(company_code, cik, priorto, doc_list, doc_name_list, 'DEF 14A')
+        except Exception as e:
+            print (str(e))
+
+        print ("Successfully downloaded all the files")
 
     def filing_10Q(self, company_code, cik, priorto, count):
 
@@ -128,7 +150,8 @@ class SecCrawler():
 
     def create_document_list(self, data):
         # parse fetched data using beatifulsoup
-        soup = BeautifulSoup(data)
+        #todo change it to  BeautifulSoup([your markup], "lxml")
+        soup = BeautifulSoup(data,"lxml")
         # store the link in the list
         link_list = list()
 
@@ -155,5 +178,6 @@ class SecCrawler():
             docname = txtdoc.split("/")[-1]
             doc_list.append(txtdoc)
             doc_name_list.append(docname)
+
         return doc_list, doc_name_list
 

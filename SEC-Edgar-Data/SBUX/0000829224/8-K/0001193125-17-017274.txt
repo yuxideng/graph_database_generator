@@ -1,0 +1,887 @@
+<SEC-DOCUMENT>0001193125-17-017274.txt : 20170125
+<SEC-HEADER>0001193125-17-017274.hdr.sgml : 20170125
+<ACCEPTANCE-DATETIME>20170125060856
+ACCESSION NUMBER:		0001193125-17-017274
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20170124
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170125
+DATE AS OF CHANGE:		20170125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		IRS NUMBER:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		17544961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d311595d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, DC 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): January&nbsp;24, 2017 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g311595txpg1.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Washington</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>0-20322</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>91-1325671</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2401 Utah Avenue South, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Seattle, Washington 98134 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(206)&nbsp;447-1575 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On January&nbsp;24, 2017, Starbucks Corporation (the &#147;Company&#148;)
+issued a press release announcing the nomination of Rosalind Brewer, J&oslash;rgen Vig Knudstorp and Satya Nadella for election to the Company&#146;s Board of Directors at the Company&#146;s 2017 Annual Meeting of Shareholders. The Company also
+announced that James G. Shennan, Jr. will retire from the Company&#146;s Board of Directors immediately prior to the Annual Meeting in accordance with the Company&#146;s Corporate Governance Principles and Practices&#146; mandatory retirement age
+requirements. A copy of the press release is attached hereto as Exhibit 99.1. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="97%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP STYLE="BORDER-BOTTOM:1.00pt solid #000000" BGCOLOR="#00704a"><FONT COLOR="#ffffff"><B>Exhibit&nbsp;No.</B></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" BGCOLOR="#00704a" STYLE="BORDER-BOTTOM:1.00pt solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1.00pt solid #000000" BGCOLOR="#00704a"><FONT COLOR="#ffffff"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description</B></FONT></TD></TR>
+
+
+<TR STYLE="font-size:1pt" BGCOLOR="#d7e4bc">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#d7e4bc" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press release of Starbucks Corporation dated January&nbsp;24, 2017</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>STARBUCKS CORPORATION</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: January 24, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Lucy Lee Helm</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Lucy Lee Helm</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">executive vice president, general counsel and secretary</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="97%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" NOWRAP STYLE="BORDER-BOTTOM:1.00pt solid #000000" BGCOLOR="#00704a"><FONT COLOR="#ffffff"><B>Exhibit&nbsp;No.</B></FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" BGCOLOR="#00704a" STYLE="BORDER-BOTTOM:1.00pt solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1.00pt solid #000000" BGCOLOR="#00704a"><FONT COLOR="#ffffff"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description</B></FONT></TD></TR>
+
+
+<TR STYLE="font-size:1pt" BGCOLOR="#d7e4bc">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR BGCOLOR="#d7e4bc" STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Press release of Starbucks Corporation dated January&nbsp;24, 2017</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d311595dex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g311595ex991pg1.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Contact: </B> </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Starbucks
+Media Relations </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">+1-206-318-7100 </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><U>press@starbucks.com</U>
+</P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Nominates Rosalind Brewer, J&oslash;rgen Vig Knudstorp and Satya Nadella to its Board of Directors </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>Starbucks board member James G. Shennan, Jr. to retire following 27 years of service; company expands its board of world-class, values-based
+leaders, attracting diversity in global technology, retail and consumer experience as it pursues its long-term plan for strong global growth and innovation</I> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>SEATTLE, January&nbsp;24, 2017</B> &#150; Starbucks Corporation (NASDAQ: SBUX) announced today the nominations of Rosalind Brewer, President and Chief
+Executive Officer of Sam&#146;s Club, and executive vice president of Wal-Mart Stores, Inc.; J&oslash;rgen Vig Knudstorp, Executive Chairman of the LEGO Brand Group; and Satya Nadella, CEO of Microsoft Corporation, to the Starbucks Board of
+Directors. Each are nominated for election to the Board at the company&#146;s Annual Meeting of Shareholders on March&nbsp;22, 2017, along with the nomination of the company&#146;s current directors other than Mr.&nbsp;Shennan who is retiring from
+the Board immediately prior to the meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;For 45 years, the success of the Starbucks brand has been built upon the preservation of the trust,
+confidence and connection we have with our customers and partners,&#148; said Howard Schultz, Starbucks chairman and ceo. &#147;Innovation and pushing to&nbsp;alter the status&nbsp;quo are also core to our culture, and by welcoming three
+world-class, values-based leaders &#151;&nbsp;Roz, J&oslash;rgen and Satya &#151; to Starbucks Board of Directors upon their election at the Annual Meeting, we will strengthen our leadership and add unmatched expertise in technology, strategy, and
+retail to the&nbsp;company at a time of unprecedented change for our industry. I look forward to welcoming each of these leaders to Starbucks Board of Directors.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Rosalind Brewer </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rosalind Brewer will bring to the Board
+extensive insight on large-scale operations and supply chain logistics based on her senior leadership positions with Sam&#146;s Club and Walmart, as well as valuable experience in consumer products and distribution. Brewer will also provide vast
+experience in product development, product management, leadership, digital technology and innovation, and international operations and distribution. Brewer has served as President and Chief Executive Officer of Sam&#146;s Club, a division of
+Walmart, since February 2012. Walmart recently announced her retirement from the company effective February&nbsp;1, 2017. She currently serves on the Board of Directors for Lockheed Martin Corporation and is Chair of the Board of Trustees for
+Spelman College, and formerly served as a director of Molson Coors Brewing Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;For many years, I&#146;ve looked to Starbucks as a leader in
+how companies should stay ahead of innovation, build trust and loyalty with customers and deeply engage in local and global communities.&nbsp;As an avid customer, I am delighted every day to see just how much this company focuses on honing its
+craft.&nbsp;It will be an honor to put my many years of retail and customer engagement to work on behalf of the brand, and to serve alongside such a talented group in doing so,&#148; said Brewer. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 1 of 3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>J&oslash;rgen Vig Knudstorp </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">To the Starbucks Board of Directors, J&oslash;rgen Vig Knudstorp will provide global executive leadership experience from one of the world&#146;s most renowned
+toy manufacturers and recognizable brands. He will also bring a proven record of innovation and unique insight of brand and digital marketing, strategy, consumer products, and international operations and distribution to the Board. Knudstorp has
+served as Executive Chairman of the LEGO Brand Group, the controlling company to the LEGO Group since January 2017. From October 2004 to December 2016, he served as President and Chief Executive Officer of the LEGO Group. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;I find Starbucks truly fascinating and inspiring because of its high quality products and customer experiences, the authenticity of the brand, the
+company&#146;s caring approach to consumers and employees and not least the ambitious responsibility agenda,&#148; said Knudstorp. &#147;Starbucks was founded on a simple, essential idea and now the company has grown in to becoming a very strong,
+innovative brand with the potential to expand its global presence further. I am very excited to have been nominated to join the Board and to contribute to the continued development of this fantastic company.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Satya Nadella </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Satya Nadella will bring to the Starbucks
+Board extensive experience and an understanding of how technology will be used and experienced around the world. He will provide the Board with invaluable insight in international operations and distribution as Starbucks continues focus on
+innovative ways to use technology to elevate the brand and grow its business. Nadella has served as Chief Executive Officer and a member of the Board of Directors of Microsoft Corporation, a leading productivity and platform company, since February
+2014. He has held various leadership positions at Microsoft since joining the company in 1992. Nadella currently serves on the Fred Hutchinson Cancer Research Center board of trustees. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;I&#146;m honored to have been nominated to join the Board of this world-renowned company,&#148; said Nadella. &#147;As a regular customer myself,
+I&#146;ve&nbsp;always admired Starbucks focus and deep passion for its customers and the communities it does business in and hope my years of experience in the technology industry will be of value to the company.&#148; </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>James G. Shennan, Jr. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additionally, James (Jamie)
+Shennan, a Starbucks director since March 1990, will retire from the Board effective immediately prior to the shareholder meeting in accordance with the company&#146;s Corporate Governance Principles and Practices&#146; mandatory retirement age
+requirements. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;For nearly three decades Jamie has been instrumental in the building of the Starbucks brand, our go-to-market strategy, and the
+globalization of our operations,&#148; said Schultz. &#147;He has fully appreciated the Starbucks culture and our mission from our earliest of days, and has made significant contributions in the evolution of our business. I&#146;m eternally grateful
+to Jamie for his knowledge and counsel to me, personally, and to the Starbucks Board of Directors over the years.&#148; </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If all nominees are elected by
+our shareholders at the Annual Meeting, the Board will have 14 members, including: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">Howard Schultz, chairman and chief executive officer, Starbucks </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">William W. Bradley, managing director, Allen&nbsp;&amp; Company LLC </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top">Rosalind Brewer, president and ceo, Sam&#146;s Club, and executive vice president of Wal-Mart Stores, Inc. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top">Mary N. Dillon, chief executive officer, Ulta Salon, Cosmetics&nbsp;&amp; Fragrances, Inc. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top">Robert M. Gates, former Secretary of Defense </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top">Mellody Hobson, president and director, Ariel Investments, LLC </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">7.</TD>
+<TD ALIGN="left" VALIGN="top">Kevin R. Johnson, president, chief operating officer, Starbucks </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 2 of 3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">8.</TD>
+<TD ALIGN="left" VALIGN="top">J&oslash;rgen Vig Knudstorp, executive chairman, LEGO Brand Group </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">9.</TD>
+<TD ALIGN="left" VALIGN="top">Satya Nadella, chief executive officer, Microsoft </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">10.</TD>
+<TD ALIGN="left" VALIGN="top">Joshua Cooper Ramo, co-ceo and vice chairman, Kissinger Associates </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">11.</TD>
+<TD ALIGN="left" VALIGN="top">Clara Shih, chief executive officer, Hearsay Systems, Inc. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">12.</TD>
+<TD ALIGN="left" VALIGN="top">Javier G. Teruel, retired vice chairman, Colgate - Palmolive Company </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">13.</TD>
+<TD ALIGN="left" VALIGN="top">Myron E. Ullman, III, retired executive chairman and ceo, J.C. Penney Company, Inc. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">14.</TD>
+<TD ALIGN="left" VALIGN="top">Craig E. Weatherup, retired chief executive officer, Pepsi-Cola Company </TD></TR></TABLE> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Forward Looking Statements
+</U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Certain statements contained herein are &#147;forward-looking statements&#148; within the meaning of the applicable securities laws and
+regulations. Generally, these statements can be identified by the use of words such as &#147;anticipate,&#148; &#147;expect,&#148; &#147;believe,&#148; &#147;could,&#148; &#147;estimate,&#148; &#147;feel,&#148; &#147;forecast,&#148;
+&#147;intend,&#148; &#147;may,&#148; &#147;plan,&#148; &#147;potential,&#148; &#147;project,&#148; &#147;should,&#148; &#147;will,&#148; &#147;would,&#148; and similar expressions intended to identify forward-looking statements, although not all
+forward-looking statements contain these identifying words. These statements are based upon information available to Starbucks as of the date hereof, and Starbucks actual results or performance could differ materially from those stated or implied
+due to risks and uncertainties associated with its business. These risks and uncertainties include, but are not limited to, fluctuations in U.S. and international economies and currencies, our ability to preserve, grow and leverage our brands,
+potential negative effects of incidents involving food or beverage-borne illnesses, tampering, contamination or mislabeling, potential negative effects of material breaches of our information technology systems to the extent we experience a material
+breach, material failures of our information technology systems, costs associated with, and the successful execution of, the company&#146;s initiatives and plans, the acceptance of the company&#146;s products by our customers, the impact of
+competition, coffee, dairy and other raw materials prices and availability, the effect of legal proceedings, and other risks detailed in the company filings with the Securities and Exchange Commission, including the &#147;Risk Factors&#148; section
+of the Starbucks Annual Report on Form 10-K for the fiscal year ended October&nbsp;2, 2016. The company assumes no obligation to update any of these forward-looking statements. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>About Starbucks </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since 1971, Starbucks Coffee
+Company has been committed to ethically sourcing and roasting high-quality <I>arabica</I> coffee. Today, with stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world. Through our unwavering
+commitment to excellence and our guiding principles, we bring the unique <I>Starbucks Experience</I> to life for every customer through every cup. To share in the experience, please visit us in our stores or online at
+<U>http://news.starbucks.com</U>&nbsp;or&nbsp;<U>www.starbucks.com.</U> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">### </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 3 of 3 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g311595ex991pg1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g311595ex991pg1.jpg
+M_]C_X  02D9)1@ ! @  9 !D  #_[  11'5C:WD  0 $    9   _^X #D%D
+M;V)E &3      ?_; (0  0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0(" @(" @(" @(" P,# P,# P,# P$! 0$! 0$" 0$"
+M @(! @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# P,#_\  $0@ 6 !8 P$1  (1 0,1 ?_$ *D   ,!  (# 0
+M      @)"@<&"P ! @,!   ' 0$!              (#! 4&!P@  0D0   &
+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
+M:LXZ(CTG**RST7B)2F52#\1XZ(33%#A2M7&>T5-8.U]ULE]%ORJM78:E2/\
+MCN*Y<75E0T"TG1,_JG%/GCJC_(ZTRW8L.[V4O&F1J#@^LMI#%&S[J$;35KO+
+MZ6=)M8 U0N9#E2D2!#)+KOW"[-K*(\I)K&.)^\5K9?!X+EQ&QZQK+MJWW %W
+M<M.<L4M1143*33UG %3DSZ2APS)TUF.G6&9;48)6V4U\RGA!"[63'3W(%7>P
+ML==*K(OHZ5@9(P%68/%!CW;%P_BS.DRD>L_=(1VT,HD(AW<@>ZGW$%L$CSBU
+M,HL"LEL%392\Y3E]LI"T*(4DGQ/7X1.?JKDW"WCIVWG]3M;=3,EY>6Q33)0^
+M[&TBT1+CDI1A%Q![&>7JM16<,X5CCJ.E$TE&Z8J@,@F809E<*%]U4ALMLK+2
+M$DD;F,UXK<K'VURAS%,?M-55MTK:C7UI2I3I"4\RI"00D-CSU,I^0RKR"?N#
+MZQEC&%SPEJEC:1&#O]=EJI;<G9<BF"9AK<XP682;2K40J\@D9ZY:+G*#N14[
+M40-W%0$X 8I#]<DH(0-#$>[D?J/H[M:W[!BM.M:7T*0XZ\D?*=#Q;$Y$^),_
+M",%UFB<E9BTUR/K_ #[UY7]D?'C2*1O#IOD=J90LU"8]LT*SODI0'KA40.:(
+M6:G(*3<_H!UR%$!(B #S?-;)0?\ 4;$Q\(9\1-SOF&/VFM4I&1X^V*RA<V5[
+M2AS4VH_PRD0"?&0U@L\B[)GIT%IKYR<1QA*^.5',-@7>S'D2(I0UM01=+P#^
+M9(U$0 TK%25<6^T6$#& ",1,(B"G>:HA/&H3\I^;X[1-+ADBJ)BT]Z;2G@NJ
+M6*:XM#1+A$D\@/'3?QBK2)L,3,UV/M4>]36@)6&:6%C(^I45(=ZQ3DF[SZ@
+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
+)DF12!_3J(__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g311595txpg1.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g311595txpg1.jpg
+M_]C_X  02D9)1@ ! @  9 !D  #_[  11'5C:WD  0 $    9   _^X #D%D
+M;V)E &3      ?_; (0  0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$! 0$!
+M 0$! 0$! 0$! 0$! 0(" @(" @(" @(" P,# P,# P,# P$! 0$! 0$" 0$"
+M @(! @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# P,#_\  $0@ 2P!+ P$1  (1 0,1 ?_$ +0   (" P$! 0
+M      D*!P@  P8%! L!  $% 0$! 0            0  P4'" (& 0D0   &
+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
+MJ@M&/PX$,""R'$ZWN$F7\RG47[/>,7]Z8>K6V_430E?=7DK?<6GNA?K&-4+
+M^"XA,E,IJ/$%-4;E167'S>;;31OO+J9%9;P@I&7W)6!5)FX50*F\8SI+Y09-
+MLV3R!5(=Y%J.4I&2*UCF\DQ23.<55V)D$P$[@/2O(NM%G3BR_M':,<^O.QE]
+M0-G)K&@%+C5M.+2Q&,A^K$0.JB%:U;PJZ@5)*E1Q; .?\P6^_$?UG]7RWO?^
+M2K\$]MU5^'R?^M[X%^H>7A_B3X^_-]3AUN/V\/\ ;Z \PV7-4?1I\<U/[#GB
+MA_\ N+J7Z-YWJR^8_D7RE*_[WZIY3/\ Z^CX\WQP0&>UDR_JOCFT0F\?D]H^
+MN6KCZXWJ\/,8:OM&=<S'EV3ND^]GIEJ_NPU:+R+.RTP+GI+B@UF%3HE(D8R:
+M1"F(0T;Q*?,2A(:UHO FO>>?'V<<6/-M76=HZ;+!OO=,&F[6:::4P6("W-PT
+MCF1OS.FL[LW$-X9JKX30 $ =WTR3X\;+!XZIVC>NN0L=O8F3EYG(&6LP/)Y>
+M[7YDHV1;5Y./;REULZ1H^0<*.GKMRHW:K'4(B5,I2]0!$?RQIT$H1S)!J>[G
+M]^,Y>IFM^G%S:VVF;"TVZMG5V>:XN'<O*"/!E!ED7*Q+,QRJ:A: "N.H\>=L
+M=1N']RV=?2*XON)HW77=>ELQ$ -+IZD9B;3MTB0^WF.)ZA='#@  !X= 1_8
+MB'V,T5R*YE ;WY34C[,$^E5X8]#UR*WRG4K,6>IQ F@(T^X#2 GV1RLW_EK@
+MUZ[A>$R#MM1\5)HRTO1+'CSS<Z1J. (W3L,!;HUK*9PQH<0 Z@1UFCG\C&))
+M)&$ ,^%00XD /10X,Z+QH1(OQYC[_MQ?[MT=0U>PT@AIX)8=T:94_.CA7NH2
+M/P2*S1*H)XDMV#!%+3E?*&]D#KKL!I,E@C).+.5G)V8<@9NSOB2X87MQG#-Y
+M,,[_ %;#]I80^0&<.5H3K0DJ@F;KM>=(RS1UU2O&1YU26#*4[:D@C[.?N.+.
+MN]6U3?\ !IVX=D>0N=* #/U;FZ@DMI:@LLR6\JK*JTXQN.:U7,CYA!FR>Z.-
+M<EYGOV5(:5ALB8;\3V,;%F:WV&  5JCD;<>^P<KCK%5,@7!'SQ!>'I23F4.H
+MNFX6Y)5\FF!S]L8YN99T+L_.*%:D][=WP_?CSVYM[:9J^NSZM;21W.B[1M7N
+M)&3Z<VI3*T%O$IJ5RQUD\08TD:G'+4C?DDU<.XKJ<3='17UDUR\>.T6W^=)(
+MX& 9+8[R2F+CVC4]WQ*'3>1T?: $2#]@II@/$1'T,/RU ;YEC9V_U2<J?MQ6
+M5R#HVD0K?$M<Z9MN^U"Y8T\5YK($$43_ .95D6O81QXX6^Q%/TBGY-QY9<E4
+M9CDW'U?M4&^N]!D'#UFA;:HB[2)/PR;V.>QKUD\=1AE.W5373Y' $$PB4# (
+MH510. RBE0>T=N,G:#J%CIVMV]_J< N=.296EA)8=2.OC6JLI!*UH:BAH<,W
+M:^3FB.2+.Y2\:.W&;/&)GY\"+IEAK-[M1]A3)Q5 ZC9,:I=+'::O)NG($+TC
+M(2BCLH&XI,50XF]%Q]!FI:NT4GX3\I^![/=2N->[<NO3_5;HGTPUF_VMN%R"
+M+>Z;-;3DT-,LCR(S$"BU=B 25B//$N_Y7GDU]O[/]1^BW+\N_J![;XY8^V?)
+M7U/[Y]9=A\1]K].=3\W[%R>S^[?G.CW'XOKORUW2F>/G7EVUK7W>SOXXF?\
+MM3ZHY,OZEH-/.^;ITEIU<V;J4\K3)7Q=*G2S^++G\6(AL+#1[ FV&3<1Z5:+
+MYDW6WS@+O8&*C;/BII[$6)9('X/W%C2(_>(11JVT,_(LS=N&S0I43)B230,8
+M.9NEO',R6Z&2X#=O$+7C\!B)NH]B[=W;<Z/L?;][KF_DF<4NJ-;P$-\]*A2H
+M/%&=5X4/66HJ"KR'779&[[;9-7VSCJI!YRK9*S4+36Z*5B6H5II#5R-5@H2!
+M"-E)MB+5M%/TSJ&3=+\RZB@B;F$?3,AD,A,M.IR-.7L^_&:O5/4-TZAO2Z_G
+M%(8]=A$<;I%3IH%C7*J9684 H>#'B3QKBZOCTUKOD)CNQ9"9)-T\N;I8XREK
+M/J_398_:QB&-+$T3B=C]K,CN#\I8;$.(ZBW<-F2JG$9284 B13<J9C=Q(2*C
+MZCJ57W?Q,?8.'O\ CBQ?2W:.HVFDRZG2FL:[;3V5E$QRJ('&6\OIB:Y(+>(.
+MJD@YY#P4Y:DD<->*O0PN&W=%;R]LQG1M787Q4^.2O@V.-XV_R.B)X"<R7$PG
+M!1TM2$[21<$%Q#HJLTE3 )#D(F=P2 5G )0*(T':Q[Q[*_L!-:8MB"ZM=/$N
+M\-/SRZ;;Z0N@Z.E/S-0F'@:<+0GIA\U.8*\*!QE-Z=>? GJ=7\$8EA\PPE^:
+MYE)1HA'-\ECK,F0JK!WJS/"&?S$3-Q\/.IQ3^)B%W9F*(M4FQ54$ -]HF$?1
+M$=A$(U$E>H *D$BI[R >./?;:_I]V?:Z!:PZO%.NLM HNC%<2JLCM5F0@-ER
+MJ6* H%S 5YG%0<G:34W7O(6XOCGA&2&*<)>1VD46RZ8WB1?2LA5HG/6&TD91
+MW@^S3\J\?R"3N>FTTW+3N5E3JLUP32ZBQBI@R\*QL]J/#'*/">S,!R_>._CW
+M8\9J6P[';>I:UZ;P*+70=R0PR:=*68HMU;$.;:21F9JR2<B2?"5"YF:@B"]Q
+ML;L#5\KR>2'"N)0V.QSAC1W;=&<XD>Z?;PZY2[ <#6:]MD2B8-=\X/8Q-@$D
+MD!V[=1TF<RH"(\O%1)4MPS (W^1U^7X-_=WXAM2MXMR6-XVJ$V:ZI;6VF:AG
+M!!T_4[-E\K)* >%G<F,)G4%5+&K5%,+/9/QG=\.9"N>*,EP#JL7R@S\C5[7
+MO.!E&$K'*BDJ"2Q!%)XQ=)"5=LX3$R3ELJFJF(D.41&(()1Q1AP.,@:SH^H;
+M>U6?1M4C:+4+:0HZGF&4_M!Y@BH(H02"#AA>D9IRE+:9X3F/)-H) ;)Z+JX_
+M@Z]C?9'$K6/)F_$]:K8!3XB4GY2)L834<#?VD$C*.%(%-PH4O45<"8$3$ERT
+M0-S&'MR.##F!V5_L,:HTS7=7DV+83^J&W8]3V)Y98X;VW"^:@1/R@SLKYE'A
+MH<QA#=K/\IZCX=\(/Q_]5=WO9].?II_4%W'O#KW/X1_4W\-=SV_2X]3Y4_*\
+MG+R^T?C]7A]_TWDT_+\TE.GGYGY<W/[>'NX8D?T+T,_3O.Y=>\M^F^9KPKY?
+MSOE*4ISZ_"E,N3QYJ\<%R\FM*VI+8U5,?9]PQIAIG:J@$QL]L<@P8P.;T9:'
+M7=M5ZU%23)ZC9+<^L5>(W2C$F -'@J)JH&<F*9-!4^Z$Q;P,J04\3=O]B,6_
+MZI6&[!<EM.U&QT/94L.:^O H2ZS+F!16!$DC,F41A,K$YE+\E9=7#?B N&^%
+M^G,B:F9>4G]2EK1],*9ZSVX,TRJ\G8>(B%;L+G',4FM,2#Q*2?&&-,[58IN6
+MIT3*JIFY^ ,=NT_&$_D\LQ^:HX'A]Q.,Q:1Z'7GJ#J[ZOM*^ZNSS.$-U=D"8
+MLJ(9*Q)5B<Q\(;("I%6!K0K&RF!;GC;.VTFLM(7<HV[*GBEI6)-))-%,(T9F
+M$P:)2YQQ'5"M1%"/MMZ;M5)%PT2,!UTW0',80X#Z>FC=9'B0T9H0$^%:T]O$
+M>_X8N?<NW[K2=>U/:MG7S=UM.*WTT@!<\=KE\U:QT/U)@K.5_P U2>./)HF0
+M<:-,J^#G9E1NS;:HP>&9W65,BQ$4X+"VU+RKN*H<;:R4$K>!FY:QLQ: [< 0
+MX'9F<"(!P,*#)GMYO]C+EIW-V5[N1'O-,,Z?J&F1ZKL3<[JO\J1V3679DMK[
+MIM&>IQX,\E/$?P&0F@!PU'ZE<:RP$3S@+H7G$.N^N%%2]RV8S-LWC!U@1E'&
+MX3]:?TB4&6M61DG*7YB(AJO".!3=N^)2)D=<1'@0PE"OO$BQK]4N*? U)^S%
+M%>NS+?Z/IVV=/\6Z;W4X3: ?/&T9)>8=JJ@:C-V9LW)20//:RTTR8SKYA<KL
+M4$9_#"FJU T[L98Y HL<R;NRJL0QHT96&*/$)NY4%Z!4EU6Y5%V)DN/$"CS>
+MAI67J3N!6/(%IWMW#LKQ Q6^[KJRN-=WGJT-'T8Z3'IST%1<:FW3$.0 '/)
+MRG-0$IES<C7&;X>$79W9"O8$S=CZTTJ9SG&ZX85QQG2C7)\K7)*RWJA4UE#/
+M[>PN8I/XV5F7)"D9NTWY6W$K,AR+GYA(5R:TE:CK0OE (/"M.VO' OJ)Z [H
+MW9:Z;KNGS0MN!-,M8;N.0Y&>6*)4:02<59C0*P<K\M0QK05BT:Q_F*EM2USQ
+MU[GLI[9JE<:?LWH_L;V3;$UGDFCM:%N<AB@[M^%9NE6KDL#A,7#(Z$@HT**O
+M=)@L1!8>(/4^5>LH-&5N7MI_;CCS?I_I>M:=$MIZ;ZXLFZ8!T[W2[S*()&!*
+MR& ENG+&C5%5I)E\6< A&;=^%@[?L_I/!7:?"_T#VOQ4Q[?ZF]T]\[?H=QTO
+MBCWK\Y[#PX]U^+UNI][U+9?8ORTY=O\ =C8_Z)X<G1L,GDNE3H"F?-FI3_Z^
+M;Q=+\7BK7CC9LUK#AO;C%SC$><J@C<Z8>>K]J0C#R+V&70GJQ($D(UPUF(P2
+MR,<5T0%6;HR(\ZC%TNE^PX^E+%',F2056OW8^[IVKHN\=*.CZ]#U[+J(^7,5
+M(9#449?$*BJM3FC,.W"Y.2?(=NUXU:O<U<V5K5VORUTN9JGK5I)6FCQF&+<0
+MT9U8X(V56$QC]B@BZH]A=-VR39*:<-Y&8%,7#<6A4U&H &>X@KG"5)\*]P!I
+M6H[,9EU?U*WQZ664[:[%I44LT_3LM,C!'0MXLZ]=6A !B<@*!*RO)0NN0*5P
+M&EWM9N3MYDS(>\M[R2_;6#3BNU/(6.E()@$10:?<)[)U.K-)Q?6*ZB=5([C(
+M0O'I7":BCE_)-F2IG"JJ:8@ KR2R$S5JZ"H]]> 'OXCOQ1<>\=\;YU>Y]0-2
+MNF2718XY82@I#%(\\21PH@Y]6K$@DLX1L[,%.#IML45:][B;\:"2\$G%80V?
+MU6K>X]EJ9.06FMVS#]G7W$I/PBG(4L$X>SSI"45(7I =1)$H!TN8#$Y TTEN
+M?I,@:GX6[_9W\.WCC0PTFUO]Z;@]/)H\FAZKI*ZDZ4&6ROJ1DLO#PDNP=@>8
+MR+3*",$_\/&Q%\V9T'Q!>\F++25UKRMCQE+V=83'-<R8\EUJ]&VLZIB@+AU)
+MQ;=$'2H\16>IK'$>)A "[.1I+<,_S"H]].%?CBUO1?<M_NKT]LM0U,EKV//"
+MSGCU!$V57)[25H'/:X8X$7/9[O4Q/>8SR*G;K/<T:EJO]1=::\[3%?X4IP3A
+MJU.WQE'J<W;S,L[D#2RSCE^\*+E(1% YB@$TC SW0XR1C*OL_P#$_<,4[-N"
+M_N;G>?J.0QUK26.G62$5\K'U#$TP4\,QJ9*GMZ@KE:@HWN-AVVI85U8USP[+
+M3/TGC/1 WD,C)&%>*FG<\9ZLUK@I#+][4E&AA?RUCQ_3'SZ3:@4YWC1HB?D$
+M X<&Y4HB1)R"%_:QKXC[Q6OO.*]WSHVH2:#I.V]#=Q96NWQK"NA.:ZNY)%-Q
+M)FYLT,.=TH2R(I%:8ZO3_P \^U+UI!:^YIO>(HY.T1LA3X#:W)D18S2N.9-[
+M!OFE7LEZ854%8NXD:S)6Y3NET&0!S"X?+'3(J8>X[R:@1BM#_$>SV\.?[,.[
+M'_J*W=.B;:UZ>SC:56B2_G1ZPL4(1YA'PDH^45*K^*1B 3@[&@VIV0K79(#:
+MK>S"^*VFY&)Y.\XXI>:L?NHY'YAHCI%&-C\L6JO5MLVJ*\^\8K.VT/*III/%
+M8IR8ZB+<3D(!=O"Q(EN%'66H!':.\CE[L:)]/=H:C>7$>[=_6-FN];1Y88KF
+M$K_U$1&5;AU0",L5++')0,8VJ57A@R7HS%UXSTL+%1]H-1Z-L'%R5JC(NFU3
+M8N%QW>J-B'/$O2XZWSF,QO,2M%2#IM%OU6[.71!!PJ"1'/4%F9=55OR*'/SM
+M21+)QX"2A -*D5QX[=>SK#<<+7420P[E2VEBM[MHQ(T'54J2%) ;@33-7+F8
+MK0DU #6]()+4J?U^PCE&FO#:MZBXGO'D+VLRQ&Q3H*5L9L;1^Z:U&BM9V0;(
+MHR,7B]H9D$;%NTT55&ZBRAD.)Q4&/$!B*HX_*1<['L9AR^ Y@'EPQG>UV&^S
+M)]/T'4X&_E/1[.;5[^X"GIWEW%4)%G( (A!0(C 9E,A9*MF,3,[]DNF:)Y2V
+MOD.#K=CS1YI0Q'BXB:A^O1<3V"5?52%BHA82F<M(N,K/6(B8A@Y2O(PP@(H\
+M1X#MY<S#Z\YH/8#P'V#C3OQ$+J&J6&P;O=DWBWSO:^\O !6L5NS&,*IYA<M5
+M5AQ : GBN&E-7< U75O7W$V *84@PF,:=%UX7I4P2/,S!2"[L=A<%  X.K#8
+M'3EZK_N.N(?L#U*11K%&L:\@*8U?M3;UIM3;MIMZR^C:PA*TIG;F[GVNY9S[
+M3@->=*74]8?*.6OVN*2>ZO\ EXQQ-X>RI7E"@6,8YXKT<6$8RY""844U[;'3
+MZ#<R@AS]W+.%OVIE]!N%BN^/TIA0_P"H<OM&*3W!8V>UO5?RMX@;:F\K5[:X
+M0_*+E1D#<Z OU%7@*EIG;^$8'A7*QFNGXNRKKW34):Z[C>&+8&)NNNBL9%/9
+MF?S)J]EB:+&2N,G,.Q;KOYB(GZW)D,X: 4Q>S50;% "@8?0H#K&T:U,\#57O
+M*GLI[1PX]N*ZM+37;72[O;EF&FWILK4EDLR%+-<65PX#PD!265D97= /ILL8
+MH.)*SJKXC<=TG(>P%GR'5Z7+ZOYXL.+\QX\U2N%-:2DKB/(L6T96MPI+V,YD
+MU([Z*GY:3@VT0T.YCWL2?D=B<H"D8V.U4,Q< PL00I'(CC]_9BV-H>C>F:?J
+M.HW>HPP-M74)(;F&PDC#-;S!0YS/V=)FDB$:U1XS1ZTH3@HHHMT4F[=)-!!!
+M,B*"")"I(HHI% B:229 *1--,A0 I0    X!Z-Q?*JJJ%4 *!0 <@,;/2Q]Q
+MGI86,]+"Q'F6OY7Y _E[_A&?_FSP^,/X<X_F!Q_]1_M#_MN?UR_RGER[>7Q]
+MF(W6/_R;G_C?1?\ Y'T.1^M_\?X_97  ML?ICJ>$'O/TM=_^H2!^G?A3Y=^)
+MNK[_ ([[O]/7L/\ =KZ5X\G)]4_@<G3[;[.MZ!ERYH*Y:Y^&6M.793A3W\/C
+MC/&\/*UV-G_2>I^H1Y/+>8\O]:WKY/+X,E:?7[*9?#GPR!ZD,:9P#[R[_3WS
+M=XN/J'Z'Y/U?QGMWUK\H</<^]IG9^P?&'YCW[K<O;>Z_^(ZW)W7X7/Z"N\O5
+MAK3ZGM[CRI^_A\:8H?UD\M^N;5\SY>GZPM.KU^?4@IDZ''/6F7/X*TS^'-B_
+MF'.C^J/:+I?I1YNXHG7^+^^_4YUOI"!_^B^\_"[/I\OL/;_@>W]+^GS^B$^H
+MWR=G+YOC^[%A:)3^;-6I^CUK%7H5\]]-/^;7L_\ :IPR9>VN/0Q+[%\\Y4[/
+MV?WCI3G?>T?(O3Z/U$P_K7OG]Q?=NM_6_;OQ_P!U_P KUV*9CR_;AS1O+_S#
+@=]/)UZ-7+UZ?..>?\K-7YNGQY=F+:^NL>RQGI86/_]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

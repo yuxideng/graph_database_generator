@@ -3,7 +3,7 @@
 from rosette.api import API, DocumentParameters, RosetteException
 import unicodedata
 import os, time, glob, argparse, json
-import execute_cypher
+
 from bs4 import BeautifulSoup
 from neo4j.v1 import GraphDatabase
 

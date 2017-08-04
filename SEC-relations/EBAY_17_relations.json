@@ -1,0 +1,349 @@
+{
+  "relationships": [
+    {
+      "arg1": "Griffith R. Harsh", 
+      "arg1Id": "Q5608913", 
+      "arg2": "IV", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Dutta", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Dutta", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "eBay Marketplaces", 
+      "arg1Id": "Q58024", 
+      "arg2": "Donahoe", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "eBay Marketplaces", 
+      "arg2Id": "Q58024", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Chairman of Revolution Resorts", 
+      "arg2": "Revolution LLC", 
+      "arg2Id": "Q7318677", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Philippe\n    Bourguignon", 
+      "arg1Id": "Q3379414", 
+      "arg2": "Chairman of Aegis Media France", 
+      "arg2Id": "Q142", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Philippe\n    Bourguignon", 
+      "arg1Id": "Q3379414", 
+      "arg2": "Walt Disney Company", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas\n    J. Tierney", 
+      "arg1Id": "Q21064349", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Thomas\n    J. Tierney", 
+      "arg2Id": "Q21064349", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Margaret C. Whitman TTEES of Sweetwater", 
+      "arg1Id": "Q981845", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Margaret C. Whitman TTEES of Sweetwater", 
+      "arg1Id": "Q981845", 
+      "arg2": "FTD", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Margaret C. Whitman TTEES of Sweetwater", 
+      "arg1Id": "Q981845", 
+      "arg2": "Stride Rite", 
+      "arg2Id": "Q2356171", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fred\n    D. Anderson", 
+      "arg1Id": "Q5494950", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Fred\n    D. Anderson", 
+      "arg2Id": "Q5494950", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Apple\n    Inc.", 
+      "arg2": "Mr. Anderson", 
+      "arg2Id": "Q297240", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Anderson", 
+      "arg1Id": "Q297240", 
+      "arg2": "Apple\n    Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Scott D. Cook", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Scott D. Cook", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Intuit Inc.", 
+      "arg2": "Scott D. Cook", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Robert C. Kagle", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robert C. Kagle", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Fords", 
+      "arg2Id": "Q44294", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fords", 
+      "arg1Id": "Q44294", 
+      "arg2": "Mr. Ford", 
+      "arg2Id": "Q8768", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Princeton University", 
+      "arg2Id": "Q21578", 
+      "confidence": 0.9146952629089355, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "G. Lepore", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "G. Lepore", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pierre M. Omidyar", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Pierre M. Omidyar", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Pierre M. Omidyar", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Pierre M. Omidyar", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pierre M. Omidyar", 
+      "arg2": "Claris", 
+      "arg2Id": "Q1095605", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Elizabeth L. Axelrod", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "William C. Cobb", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William C. Cobb", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William C. Cobb", 
+      "arg2": "North\n    America", 
+      "arg2Id": "Q49", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "William C. Cobb", 
+      "arg2": "General", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pizza Hut, Inc.", 
+      "arg1Id": "Q191615", 
+      "arg2": "Tricon Global Restaurants, Inc.", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "John J. Donahoe", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "John J. Donahoe", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Rajiv Dutta", 
+      "arg2Id": "Q7286184", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Rajiv Dutta", 
+      "arg1Id": "Q7286184", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Rajiv Dutta", 
+      "arg1Id": "Q7286184", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Michael R. Jacobson", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Eskander E. Kazim", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert H. Swan", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert H. Swan", 
+      "arg2": "TRW Inc.", 
+      "arg2Id": "Q967620", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "TRW Inc.", 
+      "arg1Id": "Q967620", 
+      "arg2": "Robert H. Swan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Rajiv Dutta", 
+      "arg1Id": "Q7286184", 
+      "arg2": "eBay", 
+      "arg2Id": "Q58024", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "20", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:42:29 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "cbff2164571bee8617933253139ea00c", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

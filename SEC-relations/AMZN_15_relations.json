@@ -1,0 +1,256 @@
+{
+  "relationships": [
+    {
+      "arg1": "Tom A. Alberg", 
+      "arg2": "Madrona Investment Group, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Madrona Investment Group, LLC", 
+      "arg2": "Tom A. Alberg", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Madrona Venture Group, LLC", 
+      "arg1Id": "Q18636323", 
+      "arg2": "Tom A. Alberg", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Tom A. Alberg", 
+      "arg2": "Madrona Venture Group, LLC", 
+      "arg2Id": "Q18636323", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Tom A. Alberg", 
+      "arg2": "Advanced Digital Information Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Advanced Digital Information Corporation", 
+      "arg2": "Tom A. Alberg", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "University of Southern California", 
+      "arg2Id": "Q4614", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Xerox Corporation", 
+      "arg2Id": "Q152433", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Xerox Palo Alto Research Center", 
+      "arg1Id": "Q750428", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Xerox Palo Alto Research Center", 
+      "arg2Id": "Q750428", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corning Incorporated", 
+      "arg1Id": "Q5842736", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Corning Incorporated", 
+      "arg2Id": "Q5842736", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Polycom, Inc.", 
+      "arg2Id": "Q963809", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Polycom, Inc.", 
+      "arg1Id": "Q963809", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kleiner Perkins Caufield & Byers", 
+      "arg1Id": "Q4346838", 
+      "arg2": "William B. Gordon", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William B. Gordon", 
+      "arg2": "Kleiner Perkins Caufield & Byers", 
+      "arg2Id": "Q4346838", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Electronic Arts, Inc.", 
+      "arg1Id": "Q173941", 
+      "arg2": "William B. Gordon", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Ingram Micro Inc.", 
+      "arg2": "Alain Monie", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Micro Asia-Pacific", 
+      "arg2Id": "Q98", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jones Lang LaSalle", 
+      "arg1Id": "Q1703389", 
+      "arg2": "Alain Monie", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Jones Lang LaSalle", 
+      "arg2Id": "Q1703389", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas O.\nRyder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Readers Digest Association, Inc.", 
+      "arg2Id": "Q371820", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Readers Digest Association, Inc.", 
+      "arg1Id": "Q371820", 
+      "arg2": "Thomas O.\nRyder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Virgin Mobile USA, Inc.", 
+      "arg1Id": "Q7933973", 
+      "arg2": "Thomas O.\nRyder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas O.\nRyder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Virgin Mobile USA, Inc.", 
+      "arg2Id": "Q7933973", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starwood Hotels & Resorts Worldwide, Inc.", 
+      "arg1Id": "Q552363", 
+      "arg2": "Thomas O.\nRyder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas O.\nRyder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Starwood Hotels & Resorts Worldwide, Inc.", 
+      "arg2Id": "Q552363", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Patricia Q. Stonesifer", 
+      "arg2": "Bill and Melinda Gates Foundation", 
+      "arg2Id": "Q655286", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Restricted stock units", 
+      "arg1Id": "Q7316309", 
+      "arg2": "Leadership Development and Compensation Committee", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Amazon.com, Inc.", 
+      "arg2": "Delaware corporation", 
+      "arg2Id": "Q5253299", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "861", 
+    "Content-Type": "application/json", 
+    "Date": "Thu, 03 Aug 2017 19:55:16 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "ea04595627d6684a7da3e6df6b0632aa", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

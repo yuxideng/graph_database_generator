@@ -1,0 +1,1914 @@
+<SEC-DOCUMENT>0001193125-16-664803.txt : 20160729
+<SEC-HEADER>0001193125-16-664803.hdr.sgml : 20160729
+<ACCEPTANCE-DATETIME>20160729171402
+ACCESSION NUMBER:		0001193125-16-664803
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20160727
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20160729
+DATE AS OF CHANGE:		20160729
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		IRS NUMBER:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		161794905
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d210241d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): July&nbsp;27, 2016 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact Name of Registrant as Specified in its Charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g210241g97w63.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Washington</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>0-20322</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>91-1325671</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2401 Utah Avenue South, Seattle, Washington 98134 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(206)&nbsp;447-1575 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s Telephone Number, including Area Code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule&nbsp;425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule&nbsp;14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule&nbsp;13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U><A NAME="toc"></A>TABLE OF CONTENTS </U></B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="98%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><A HREF="#tx210241_1">Item&nbsp;1.01. Entry into a Material Definitive Agreement</A></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">3</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><A HREF="#tx210241_2">Item&nbsp;
+2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant</A></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">3</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><A HREF="#tx210241_3">Item&nbsp;9.01. Financial Statements and Exhibits</A></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">3</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><A HREF="#tx210241_4">SIGNATURES</A></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">4</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><A HREF="#tx210241_5">Exhibit&nbsp;Index</A></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">5</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="5"></TD>
+<TD HEIGHT="5" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">EXHIBIT 10.1</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[REMAINDER OF PAGE LEFT BLANK INTENTIONALLY] </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><A NAME="tx210241_1"></A>Item&nbsp;1.01. Entry into a Material Definitive Agreement. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On July 27, 2016 (the &#147;Effective Date&#148;), Starbucks Corporation (the &#147;Company&#148;) updated the Company&#146;s existing commercial paper program
+(the &#147;Program&#148;), under which the Company may issue unsecured commercial paper notes (the &#147;Notes&#148;) on a private placement basis up to a maximum aggregate amount outstanding at any time of $1 billion. As part of the updates to the
+Program, the Company engaged an additional dealer to act as dealer under the Program. On the Effective Date, the Company also entered into commercial paper dealer agreements (each, a &#147;Dealer Agreement&#148;) with the added dealer and the
+current dealers under the Program (each, a &#147;Dealer&#148; and, collectively, the &#147;Dealers&#148;). The Dealer Agreements are substantially identical in all material respects except as to the parties thereto. The form of Dealer Agreement is
+attached to this report as Exhibit 10.1 and is incorporated herein by reference as though it were fully set forth herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Under the Program, the Company
+may issue commercial paper from time to time, and the proceeds of commercial paper financing will be used for general corporate purposes, including the repurchase of shares of the Company&#146;s common stock under the Company&#146;s ongoing share
+repurchase program, business expansion, payment of cash dividends on the Company&#146;s common stock or the financing of possible acquisitions. A national bank acts as the issuing and paying agent under the Program pursuant to the terms of an
+issuing and paying agent agreement. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Program is backstopped by the Company&#146;s Credit Agreement that was entered into on November&nbsp;6, 2015. If
+at any time funds are not available on favorable terms under the Program, the Company may utilize the Credit Agreement for funding. Amounts available under the Program may be reborrowed. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Dealer Agreements provide the terms under which the Dealers will either purchase from the Company or arrange for the sale by the Company of Notes pursuant
+to an exemption from federal and state securities laws. The Dealer Agreements contain customary representations, warranties, covenants and indemnification provisions. The maturities of the Notes will vary, but may not exceed 397&nbsp;days from the
+date of issue. The principal amount of outstanding Notes under the Program may not exceed $1 billion. The Notes will be sold at a discount from par or, alternatively, will be sold at par and bear interest at rates that will vary based on market
+conditions at the time of the issuance of the Notes. The rate of interest will depend on whether the Note will be a fixed or floating rate. The interest on a floating rate Note may be based on any of the following: (a)&nbsp;CD rate;
+(b)&nbsp;commercial paper rate; (c)&nbsp;the federal funds rate; (d)&nbsp;LIBOR; (e)&nbsp;prime rate; (f)&nbsp;treasury rate; and (g)&nbsp;other base rate as may be specified in a supplement. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Notes have not been and will not be registered under the Securities Act of 1933 (the &#147;Securities Act&#148;) or state securities laws, and may not be
+offered and sold except in compliance with an applicable exemption from the registration requirements of the Securities Act and any applicable state securities laws. The information contained in this Current Report on Form 8-K shall not constitute
+an offer to sell or the solicitation of an offer to purchase any securities, nor shall there be any sale of the Notes in any jurisdiction in which such offer, solicitation or sale would be unlawful. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><A NAME="tx210241_2"></A>Item&nbsp;2.03. Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The information related to the $1 billion unsecured commercial paper program discussed under Item&nbsp;1.01 above is hereby incorporated by reference
+under this Item&nbsp;2.03. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><A NAME="tx210241_3"></A>Item&nbsp;9.01. Financial Statements and Exhibits. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) <I>Exhibits.</I> </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Dealer Agreement between Starbucks Corporation, as Issuer, and the Dealer.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="tx210241_4"></A>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>STARBUCKS CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Scott Maw</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Scott Maw</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">executive vice president, chief financial officer</TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Dated: July&nbsp;29, 2016 </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+<h5 align="left"><a href="#toc">Table of Contents</a></h5>
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="tx210241_5"></A>Exhibit&nbsp;Index </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="88%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:37.30pt; font-size:8pt; font-family:Times New Roman">Exhibit No.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Dealer Agreement between Starbucks Corporation, as Issuer, and the Dealer.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-10.1
+<SEQUENCE>2
+<FILENAME>d210241dex101.htm
+<DESCRIPTION>EX-10.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-10.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B><A NAME="tx210241_6"></A>Exhibit 10.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>COMMERCIAL PAPER DEALER AGREEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>4(a)(2) PROGRAM </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>between
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>STARBUCKS CORPORATION, as Issuer </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>and </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, as Dealer </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Concerning Notes to be issued pursuant to an Issuing and Paying Agent Agreement, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>dated as of
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>between the Issuer and
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, as Issuing and Paying Agent </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Dated as of
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>COMMERCIAL PAPER DEALER AGREEMENT </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>4(a)(2) Program </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This agreement (as
+amended, supplemented or otherwise modified and in effect from time to time, the &#147;Agreement&#148;), dated as of
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>, sets forth the understandings between Starbucks Corporation (the &#147;Issuer&#148;) and
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> (the &#147;Dealer&#148;), each named on the cover page hereof, in connection with the issuance
+and sale by the Issuer of its short-term promissory notes (the &#147;Notes&#148;) through the Dealer. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Certain terms used in this Agreement are defined in
+Section&nbsp;6 hereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The Addendum to this Agreement, and any Annexes or Exhibits described in this Agreement or such Addendum, are hereby incorporated
+into this Agreement and made fully a part hereof. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>1.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Offers, Sales and Resales of Notes. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.1</TD>
+<TD ALIGN="left" VALIGN="top">While (i)&nbsp;the Issuer has and shall have no obligation to sell the Notes to the Dealer or to permit the Dealer to arrange any sale of the Notes for the account of the Issuer, and (ii)&nbsp;the Dealer has and shall
+have no obligation to purchase the Notes from the Issuer or to arrange any sale of the Notes for the account of the Issuer, the parties hereto agree that in any case where the Dealer purchases Notes from the Issuer, or arranges for the sale of Notes
+by the Issuer, such Notes will be purchased or sold by the Dealer in reliance on the representations, warranties, covenants and agreements of the Issuer contained herein or made pursuant hereto and on the terms and conditions and in the manner
+provided herein. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.2</TD>
+<TD ALIGN="left" VALIGN="top">So long as this Agreement shall remain in effect, and in addition to the limitations contained in Section&nbsp;1.8 hereof, the Issuer shall not, without the consent of the Dealer, offer, solicit or accept offers to
+purchase, or sell, any Notes except (a)&nbsp;in transactions with one or more dealers which may from time to time after the date hereof become dealers with respect to the Notes by executing with the Issuer one or more agreements which contain
+provisions substantially identical to those contained in Section&nbsp;1 of this Agreement, of which the Issuer hereby undertakes to provide the Dealer prompt notice or (b)&nbsp;in transactions with the other dealers listed on the Addendum hereto,
+which are executing agreements with the Issuer which contain provisions substantially identical to Section&nbsp;1 of this Agreement contemporaneously herewith. So long as this Agreement is in effect, and in addition to the limitations contained in
+Section&nbsp;1.8 hereof, in no event shall the Issuer offer, solicit or accept offers to purchase, or sell, any Notes directly on its own behalf in transactions with persons other than broker-dealers as specifically permitted in this
+Section&nbsp;1.2. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.3</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The Notes shall be in a minimum denomination of $250,000 or integral multiples of $1,000 in excess thereof, will
+bear such interest rates, if interest bearing, or will be sold at such discount from their face amounts, as shall be agreed upon by the Dealer and the Issuer, shall have a maturity not exceeding 397 days from the date of
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+issuance and may have such terms as are specified in Exhibit C hereto or the Private Placement Memorandum. The Notes shall not contain any provision for extension, renewal or automatic
+&#147;rollover.&#148; </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.4</TD>
+<TD ALIGN="left" VALIGN="top">The authentication and issuance of, and payment for, the Notes shall be effected in accordance with the Issuing and Paying Agent Agreement, and the Notes shall be either individual physical certificates or book-entry
+notes evidenced by one or more master notes (each, a &#147;Master Note&#148;) registered in the name of The Depository Trust Company (&#147;DTC&#148;) or its nominee, in the form or forms annexed to the Issuing and Paying Agent Agreement.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.5</TD>
+<TD ALIGN="left" VALIGN="top">If the Issuer and the Dealer shall agree on the terms of the purchase of any Note by the Dealer or the sale of any Note arranged by the Dealer (including, but not limited to, agreement with respect to the date of issue,
+purchase price, principal amount, maturity and interest rate or interest rate index and margin (in the case of interest-bearing Notes) or discount thereof (in the case of Notes issued on a discount basis), and appropriate compensation for the
+Dealer&#146;s services hereunder) pursuant to this Agreement, the Issuer shall cause such Note to be issued and delivered in accordance with the terms of the Issuing and Paying Agent Agreement and payment for such Note shall be made by the purchaser
+thereof, either directly or through the Dealer, to the Issuing and Paying Agent, for the account of the Issuer. Except as otherwise agreed, in the event that the Dealer is acting as an agent and a purchaser shall either fail to accept delivery of or
+make payment for a Note on the date fixed for settlement, the Dealer shall promptly notify the Issuer, and if the Dealer has theretofore paid the Issuer for the Note, the Issuer will promptly return such funds to the Dealer against its return of the
+Note to the Issuer, in the case of a certificated Note, and upon notice of such failure in the case of a book-entry Note. If such failure occurred for any reason other than default by the Dealer, the Issuer shall reimburse the Dealer on an equitable
+basis for the Dealer&#146;s loss of the use of such funds for the period such funds were credited to the Issuer&#146;s account. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.6</TD>
+<TD ALIGN="left" VALIGN="top">In the case of any agreement by the Dealer to purchase a Note hereunder (other than as agent) which provides for a settlement date that is three New York Business Days (as defined on Exhibit D) or more after the date of
+such agreement, the obligation of the Dealer to purchase the Note under such agreement shall be subject to the conditions set forth on Exhibit D. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.7</TD>
+<TD ALIGN="left" VALIGN="top">The Dealer and the Issuer hereby establish and agree to observe the following procedures in connection with offers, sales and subsequent resales or other transfers of the Notes: </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">Offers and sales of the Notes by or through the Dealer shall be made only to: (i)&nbsp;investors reasonably believed by the Dealer to be Qualified Institutional Buyers or Institutional Accredited Investors and
+(ii)&nbsp;non-bank fiduciaries or agents that will be purchasing Notes for one or more accounts, each of which is reasonably believed by the Dealer to be an Institutional Accredited Investor. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top">Resales and other transfers of the Notes by the holders thereof shall be made only in accordance with the restrictions in the legend described in clause (e)&nbsp;below. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top">No general solicitation or general advertising shall be used in connection with the offering of the Notes. Without limiting the generality of the foregoing, without the prior written approval of the Dealer, the Issuer
+shall not issue any press release or place or publish any &#147;tombstone&#148; or other advertisement relating to the Notes. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">No sale of Notes to any one purchaser shall be for less than $250,000 principal or face amount, and no Note shall be issued in a smaller principal or face amount. If the purchaser is a non-bank fiduciary acting on
+behalf of others, each person for whom such purchaser is acting must purchase at least $250,000 principal or face amount of Notes. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top">Offers and sales of the Notes shall be subject to the restrictions described in the legend appearing on Exhibit A hereto. A legend substantially to the effect of such Exhibit A shall appear as part of the Private
+Placement Memorandum used in connection with offers and sales of Notes hereunder, as well as on each individual certificate representing a Note and each Master Note representing book-entry Notes offered and sold pursuant to this Agreement.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(f)</TD>
+<TD ALIGN="left" VALIGN="top">The Dealer shall furnish or shall have furnished to each purchaser of Notes for which it has acted as the dealer a copy of the then-current Private Placement Memorandum unless such purchaser has previously received a
+copy of the Private Placement Memorandum as then in effect. The Private Placement Memorandum shall expressly state that any person to whom Notes are offered shall have an opportunity to ask questions of, and receive publicly available information
+from, the Issuer and the Dealer and shall provide the names, addresses and telephone numbers of the persons from whom information regarding the Issuer may be obtained. Notwithstanding the foregoing, nothing in this Agreement or the Private Placement
+Memorandum shall obligate the Issuer to provide information which has not been previously made available to the public. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(g)</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer agrees, for the benefit of the Dealer and each of the holders and prospective purchasers from time to time of the Notes that, if at any time the Issuer shall not be subject to Section&nbsp;13 or 15(d) of the
+Exchange Act, the Issuer will furnish, upon request and at its expense, to the Dealer and to holders and prospective purchasers of Notes information required by Rule 144A(d)(4)(i) in compliance with Rule 144A(d). </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(h)</TD>
+<TD ALIGN="left" VALIGN="top">In the event that any Note offered or to be offered by the Dealer would be ineligible for resale under Rule 144A, the Issuer shall immediately notify the Dealer (by telephone, confirmed in writing) of such fact and
+shall promptly prepare and deliver to the Dealer an amendment or supplement to the Private Placement Memorandum describing the Notes that are ineligible, the reason for such ineligibility and any other relevant information relating thereto.
+</TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(i)</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer represents that it is not currently issuing commercial paper in the United States market in reliance upon the exemption provided by Section&nbsp;3(a)(3) of the Securities Act. The Issuer agrees that, if it
+shall issue commercial paper after the date hereof in reliance upon such exemption (a)&nbsp;the proceeds from the sale of the Notes will be segregated from the proceeds of the sale of any such commercial paper by being placed in a separate account;
+(b)&nbsp;the Issuer will institute appropriate corporate procedures to ensure that the offers and sales of notes issued by the Issuer pursuant to the Section&nbsp;3(a)(3) exemption are not integrated with offerings and sales of Notes hereunder; and
+(c)&nbsp;the Issuer will comply with each of the requirements of Section&nbsp;3(a)(3) of the Securities Act in selling commercial paper or other short-term debt securities other than the Notes in the United States. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">1.8</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer hereby represents and warrants to the Dealer, in connection with offers, sales and resales of Notes, as follows: </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer hereby confirms to the Dealer that within the preceding six months neither the Issuer nor any person other than the Dealer or the other dealers referred to in Section&nbsp;1.2 hereof acting on behalf of the
+Issuer has offered or sold any Notes, or any substantially similar security of the Issuer (including, without limitation, medium-term notes issued by the Issuer), to, or solicited offers to buy any such security from, any person other than the
+Dealer or the other dealers referred to in Section&nbsp;1.2 hereof. The Issuer also agrees that as long as the Notes are being offered for sale by the Dealer and the other dealers referred to in Section&nbsp;1.2 hereof as contemplated hereby and
+until at least six months after the offer of Notes hereunder has been terminated, neither the Issuer nor any person other than the Dealer or the other dealers referred to in Section&nbsp;1.2 hereof (except as contemplated by Section&nbsp;1.2 hereof)
+will offer the Notes or any substantially similar security of the Issuer for sale to, or solicit offers to buy any such security from, any person other than the Dealer or the other dealers referred to in Section&nbsp;1.2 hereof, it being understood
+that such agreement is made with a view to bringing the offer and sale of the Notes within the exemption provided by Section&nbsp;4(a)(2) of the Securities Act and shall survive any termination of this Agreement. The Issuer hereby represents and
+warrants that it has not taken, and will not take, any action that would, and has not omitted to take, and will not omit to take, any action the absence of which would, cause the offering and sale of Notes hereunder to be integrated with any other
+offering of securities, whether such offering is made by the Issuer or some other party or parties. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD WIDTH="6%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The Issuer represents and agrees that the proceeds of the sale of the Notes may be used for the purpose of
+buying, carrying or trading securities within the meaning of Regulation T and the interpretations thereunder by the Board of Governors of the Federal Reserve System. In the event that the Issuer determines to use such proceeds for the purpose of
+buying, carrying or trading securities, whether in connection with an acquisition of another company or otherwise, the Issuer shall give the Dealer at least three (3)&nbsp;business days&#146; prior written notice to that effect; <U>provided</U>,
+<U>however</U>, that no such notice shall be required of the Issuer for purchases </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="16%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+of securities issued by the Issuer and purchased for immediate retirement. The Issuer shall also give the Dealer prompt notice of the actual date that it commences to purchase securities with the
+proceeds of the Notes. Thereafter, in the event that the Dealer purchases Notes as principal and does not resell such Notes on the day of such purchase, to the extent necessary to comply with Regulation T and the interpretations thereunder, the
+Dealer will sell such Notes either (i)&nbsp;only to offerees it reasonably believes to be Qualified Institutional Buyers or to Qualified Institutional Buyers it reasonably believes are acting for other Qualified Institutional Buyers, in each case in
+accordance with Rule 144A or (ii)&nbsp;in a manner which would not cause a violation of Regulation T and the interpretations thereunder. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>2.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Representations and Warranties of Issuer. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">The Issuer represents and warrants that: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.1</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer is a corporation duly organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation and has all the requisite power and authority to execute, deliver and perform its
+obligations under the Notes, this Agreement and the Issuing and Paying Agent Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.2</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement and the Issuing and Paying Agent Agreement have been duly authorized, executed and delivered by the Issuer and constitute legal, valid and binding obligations of the Issuer enforceable against the Issuer
+in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors&#146; rights generally, and subject, as to enforceability, to general principles of equity (regardless of whether enforcement is sought
+in a proceeding in equity or at law). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.3</TD>
+<TD ALIGN="left" VALIGN="top">The Notes have been duly authorized, and when issued as provided in the Issuing and Paying Agent Agreement, will be duly and validly issued and will constitute legal, valid and binding obligations of the Issuer
+enforceable against the Issuer in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors&#146; rights generally, and subject, as to enforceability, to general principles of equity (regardless
+of whether enforcement is sought in a proceeding in equity or at law). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.4</TD>
+<TD ALIGN="left" VALIGN="top">The offer and sale of the Notes in the manner contemplated hereby do not require registration of the Notes under the Securities Act, pursuant to the exemption from registration contained in Section&nbsp;4(a)(2) thereof,
+and no indenture in respect of the Notes is required to be qualified under the Trust Indenture Act of 1939, as amended. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.5</TD>
+<TD ALIGN="left" VALIGN="top">The Notes will rank pari passu with all other unsecured and unsubordinated indebtedness of the Issuer. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.6</TD>
+<TD ALIGN="left" VALIGN="top">No consent or action of, or filing or registration with, any governmental or public regulatory body or authority, including the SEC, is required to authorize, or is otherwise required in connection with the execution,
+delivery or performance of, this Agreement, the Notes or the Issuing and Paying Agent Agreement, except as may be required by the securities or Blue Sky laws of the various states in connection with the offer and sale of the Notes.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.7</TD>
+<TD ALIGN="left" VALIGN="top">Neither the execution and delivery of this Agreement and the Issuing and Paying Agent Agreement, nor the issuance of the Notes in accordance with the Issuing and Paying Agent Agreement, nor the fulfillment of or
+compliance with the terms and provisions hereof or thereof by the Issuer, will (i)&nbsp;result in the creation or imposition of any mortgage, lien, charge or encumbrance of any nature whatsoever upon any of the properties or assets of the Issuer, or
+(ii)&nbsp;violate or result in a breach or a default under any of the terms of the Issuer&#146;s charter documents or by-laws, any contract or instrument to which the Issuer is a party or by which it or its property is bound, or any law or
+regulation, or any order, writ, injunction or decree of any court or government instrumentality, to which the Issuer is subject or by which it or its property is bound, which breach or default might have a material adverse effect on the condition
+(financial or otherwise), operations or business prospects of the Issuer or the ability of the Issuer to perform its obligations under this Agreement, the Notes or the Issuing and Paying Agent Agreement. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.8</TD>
+<TD ALIGN="left" VALIGN="top">Except as otherwise disclosed by the Issuer in the Company Information (as defined below), there is no litigation or governmental proceeding pending, or to the knowledge of the Issuer threatened, against or affecting
+the Issuer or any of its subsidiaries which is reasonably likely to result in a material adverse change in the condition (financial or otherwise), operations or business prospects of the Issuer or the ability of the Issuer to perform its obligations
+under this Agreement, the Notes or the Issuing and Paying Agent Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.9</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer is not an &#147;investment company&#148; within the meaning of the Investment Company Act of 1940, as amended. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.10</TD>
+<TD ALIGN="left" VALIGN="top">Neither the Private Placement Memorandum nor the Company Information contains any untrue statement of a material fact or omits to state a material fact required to be stated therein or necessary to make the statements
+therein, in light of the circumstances under which they were made, not misleading. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.11</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">None of the Issuer, any of its subsidiaries or, to the knowledge of the Issuer, any director, officer, agent,
+employee or other person acting on behalf of the Issuer or any of its subsidiaries has (i)&nbsp;used any corporate funds for any unlawful contribution, gift, entertainment or other unlawful expense relating to political activity; (ii)&nbsp;made any
+direct or indirect unlawful payment to any foreign or domestic government official or employee from corporate funds; or (iii)&nbsp;violated or is in violation of any provision of the Foreign Corrupt Practices Act of 1977, as amended, and the rules
+and regulations thereunder (the &#147;FCPA&#148;), the U.K. Bribery Act 2010 (the &#147;Bribery Act&#148;) or any other applicable anti-bribery or anti-corruption laws; and the Issuer and its subsidiaries
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+have conducted their businesses in compliance with the FCPA, the Bribery Act and any other applicable anti-bribery or anti-corruption laws and have instituted and maintain policies and procedures
+designed to ensure, and which are reasonably expected to continue to ensure, continued compliance therewith. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.12</TD>
+<TD ALIGN="left" VALIGN="top">The operations of the Issuer and its subsidiaries are and have been conducted at all times in material compliance with applicable financial recordkeeping and reporting requirements of the Currency and Foreign
+Transactions Reporting Act of 1970, as amended, and the money laundering statutes of all jurisdictions where the Issuer and its subsidiaries conduct business, the rules and regulations thereunder and any related or similar rules, regulations or
+guidelines, issued, administered or enforced by any governmental agency (collectively, the &#147;Money Laundering Laws&#148;) and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator
+involving the Issuer or any of its subsidiaries with respect to the Money Laundering Laws is pending or, to the knowledge of the Issuer, threatened. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.13</TD>
+<TD ALIGN="left" VALIGN="top">None of the Issuer, any of its subsidiaries or, to the knowledge of the Issuer, any director, officer, agent, employee, affiliate or representative of the Issuer or any of its subsidiaries is an individual or entity
+currently the subject or target of any sanctions administered or enforced by the U.S. Department of the Treasury&#146;s Office of Foreign Assets Control, the United Nations Security Council, the European Union, Her Majesty&#146;s Treasury, or other
+relevant sanctions authority (collectively, &#147;Sanctions&#148;), nor is the Issuer located, organized or resident in a country or territory that is the subject of Sanctions; and the Issuer will not directly or indirectly use the proceeds of the
+offering of the Notes hereunder, or lend, contribute or otherwise make available such proceeds to any subsidiaries, joint venture partners or other individual or entity, to knowingly fund any activities of or business with any individual or entity,
+or in any country or territory, that, at the time of such funding, is the subject of Sanctions or in any other manner that will result in a violation by any individual or entity (including any individual or entity participating in the transaction,
+whether as underwriter, advisor, investor or otherwise) of Sanctions. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">2.14</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Each (a)&nbsp;sale and issuance of Notes by the Issuer hereunder and (b)&nbsp;amendment or supplement of the
+Private Placement Memorandum shall be deemed a representation and warranty by the Issuer to the Dealer, as of the date and time thereof, that, both before and after giving effect to such sale and issuance and after giving effect to such amendment or
+supplement, (i)&nbsp;the representations and warranties given by the Issuer set forth in this Section&nbsp;2 remain true and correct on and as of such date and time as if made on and as of such date and at such time, and (ii)&nbsp;in the case of an
+issuance of Notes, the Notes being issued on such date have been duly and validly issued and constitute legal, valid and binding obligations of the Issuer, enforceable against the Issuer in accordance with their terms, subject to applicable
+bankruptcy, insolvency and similar laws affecting creditors&#146; rights generally and subject, as to enforceability, to general principles of equity (regardless of whether enforcement is sought in a proceeding in equity or at law) and (iii)&nbsp;in
+the case of an issuance or sale of Notes, since the date of the most recent Private Placement Memorandum, there has been no material adverse change in the condition (financial or otherwise), operations or
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+business prospects of the Issuer which has not been disclosed to the Dealer in writing and (iv)&nbsp;the Issuer is not in default of any of its obligations hereunder or under the Notes or the
+Issuing and Paying Agent Agreement. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>3.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Covenants and Agreements of Issuer. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:5%; font-size:10pt; font-family:Times New Roman">The Issuer covenants and agrees that: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.1</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer will give the Dealer prompt notice (but in any event prior to any subsequent sale or issuance of Notes hereunder) of any amendment to, modification of or waiver with respect to, the Notes or the Issuing and
+Paying Agent Agreement, including a complete copy of any such amendment, modification or waiver. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.2</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer shall, whenever there shall occur any change in the Issuer&#146;s condition (financial or otherwise), operations or business prospects or any development or occurrence in relation to the Issuer that would be
+materially adverse to holders of the Notes or potential holders of the Notes (including any downgrading or receipt of any notice of intended or potential downgrading or any review for potential change in the rating accorded any of the Issuer&#146;s
+securities by any nationally recognized statistical rating organization which has published a rating of the Notes), promptly, and in any event prior to any subsequent sale or issuance of Notes hereunder, notify the Dealer (by telephone, confirmed in
+writing) of such materially adverse change, development or occurrence. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.3</TD>
+<TD ALIGN="left" VALIGN="top">To the extent permitted by applicable law, the Issuer shall from time to time furnish to the Dealer such information as the Dealer may reasonably request, including, without limitation, any press releases or publicly
+available material provided by the Issuer to any national securities exchange or rating agency, regarding (i)&nbsp;the Issuer&#146;s operations and financial condition, (ii)&nbsp;the due authorization and execution of the Notes and (iii)&nbsp;the
+Issuer&#146;s ability to pay the Notes as they mature. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.4</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer will take all such action as the Dealer may reasonably request to ensure that each offer and each sale of the Notes will comply with any applicable state Blue Sky laws; provided, however, that the Issuer
+shall not be obligated to file any general consent to service of process or to qualify as a foreign corporation in any jurisdiction in which it is not so qualified or subject itself to taxation in respect of doing business in any jurisdiction in
+which it is not otherwise so subject. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.5</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer will not be in default of any of its obligations hereunder, under the Notes or under the Issuing and Paying Agent Agreement, at any time that any of the Notes are outstanding. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.6</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The Issuer shall not issue or sell Notes hereunder until the Dealer shall have received (a)&nbsp;an opinion of
+counsel to the Issuer, addressed to the Dealer, satisfactory in form and substance to the Dealer, (b)&nbsp;a copy of the executed Issuing and Paying Agent Agreement as then in effect, (c)&nbsp;a copy of resolutions adopted by the Board of
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">9 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+Directors of the Issuer, satisfactory in form and substance to the Dealer and certified by the secretary, assistant secretary or similar officer of the Issuer, authorizing execution and delivery
+by the Issuer of this Agreement, the Issuing and Paying Agent Agreement and the Notes and consummation by the Issuer of the transactions contemplated hereby and thereby, (d)&nbsp;a certificate of the secretary, assistant secretary or other
+designated officer of the Issuer certifying as to (i)&nbsp;the Issuer&#146;s organizational documents, and attaching true, correct and complete copies thereof, (ii)&nbsp;the Issuer&#146;s representations and warranties in this Agreement being true
+and correct in all material respects, and (iii)&nbsp;the incumbency of the officers of the Issuer authorized to execute and deliver this Agreement, the Issuing and Paying Agent Agreement and the Notes, and take other action on behalf of the Issuer
+in connection with the transactions contemplated thereby, (e)&nbsp;prior to the issuance of any book-entry Notes represented by a master note registered in the name of DTC or its nominee, a copy of the executed Letter of Representations among the
+Issuer, the Issuing and Paying Agent and DTC and of the executed master note, (f)&nbsp;prior to the issuance of any Notes in physical form, a copy of such form (unless attached to this Agreement or the Issuing and Paying Agent Agreement),
+(g)&nbsp;confirmation of the then-current rating assigned to the Notes by each nationally recognized statistical rating organization then rating the Notes, and (h)&nbsp;such other certificates, opinions, letters and documents as the Dealer shall
+have reasonably requested. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.7</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer shall reimburse the Dealer for all of the Dealer&#146;s reasonable out-of-pocket expenses related to this Agreement, including expenses incurred in connection with its preparation and negotiation, and the
+transactions contemplated hereby (including, but not limited to, the reasonable costs of printing and distribution of the Private Placement Memorandum), but not including the fees and out-of-pocket expenses of the Dealer&#146;s counsel.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.8</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer shall not file a Form D (as referenced in Rule 503 under the Securities Act) at any time in respect of the offer or sale of the Notes. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">3.9</TD>
+<TD ALIGN="left" VALIGN="top">Without limiting any obligation of the Issuer pursuant to this Agreement to provide the Dealer with credit and financial information, the Issuer hereby acknowledges and agrees that the Dealer may share the Company
+Information and any other publicly available information or matters relating to the Issuer or the transactions contemplated hereby with affiliates of the Dealer, including, but not limited to,
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U> and that such affiliates may likewise share such publicly available information relating to the
+Issuer or such transactions with the Dealer. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>4.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Disclosure. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The Private Placement Memorandum and its contents (other than the Dealer Information) shall be the sole
+responsibility of the Issuer. The Private Placement Memorandum shall contain a statement expressly offering an opportunity for each prospective purchaser to ask questions of, and receive answers with publicly available information from, the Issuer
+concerning the offering of Notes and to obtain relevant </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">10 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+additional publicly available information which the Issuer possesses or can acquire without unreasonable effort or expense. Notwithstanding the foregoing, nothing in this Agreement or the Private
+Placement Memorandum shall obligate the Issuer to provide information which has not been previously made available to the public. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.2</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer agrees to promptly furnish the Dealer with any material public Company Information, as it becomes available. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">4.3</TD>
+<TD ALIGN="left" VALIGN="top">(a) The Issuer further agrees to notify the Dealer promptly upon the occurrence of any event relating to or affecting the Issuer that would cause the Company Information then in existence to include an untrue statement
+of a material fact or to omit to state a material fact necessary in order to make the statements contained therein, in light of the circumstances under which they are made, not misleading. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">&nbsp;&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">(b) In the event that the Issuer gives the Dealer notice pursuant to Section&nbsp;4.3(a) and the Dealer notifies the Issuer that it then has Notes it is holding in inventory, the Issuer agrees promptly to supplement or
+amend the Private Placement Memorandum so that the Private Placement Memorandum, as amended or supplemented, shall not contain an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein,
+in light of the circumstances under which they were made, not misleading, and the Issuer shall make such supplement or amendment available to the Dealer. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">&nbsp;&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">(c) In the event that (i)&nbsp;the Issuer gives the Dealer notice pursuant to Section&nbsp;4.3(a), (ii)&nbsp;the Dealer does not notify the Issuer that it is then holding Notes in inventory and (iii)&nbsp;the Issuer
+chooses not to promptly amend or supplement the Private Placement Memorandum in the manner described in clause (b)&nbsp;above, then all solicitations and sales of Notes shall be suspended until such time as the Issuer has so amended or supplemented
+the Private Placement Memorandum, and made such amendment or supplement available to the Dealer. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>5.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Indemnification and Contribution. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">The Issuer will indemnify and hold harmless the Dealer, each individual, corporation, partnership, trust,
+association or other entity controlling the Dealer, any affiliate of the Dealer or any such controlling entity and their respective directors, officers, employees, partners, incorporators, shareholders, servants, trustees and agents (hereinafter the
+&#147;Indemnitees&#148;) against any and all liabilities, penalties, suits, causes of action, losses, damages, claims, costs and expenses (including, without limitation, reasonable fees and disbursements of counsel) or judgments of whatever kind or
+nature (each a &#147;Claim&#148;), imposed upon, incurred by or asserted against the Indemnitees (i)&nbsp;arising out of or based upon any allegation that the Private Placement Memorandum, the Company Information or any information provided by the
+Issuer to the Dealer included (as of any relevant time) or includes an untrue statement of a material fact or omitted (as of any relevant time) or omits to state any material fact necessary to make the statements therein, in light of the
+circumstances under which </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">11 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+they were made, not misleading or (ii)&nbsp;arising out of or based upon the breach by the Issuer of any agreement, covenant or representation made in or pursuant to this Agreement. The Issuer
+and the Dealer agree that the Issuer shall have no liability under this section for any Claim arising out of or based on Dealer Information. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.2</TD>
+<TD ALIGN="left" VALIGN="top">Provisions relating to claims made for indemnification under this Section&nbsp;5 are set forth on Exhibit B to this Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">5.3</TD>
+<TD ALIGN="left" VALIGN="top">In order to provide for just and equitable contribution in circumstances in which the indemnification provided for in this Section&nbsp;5 is held to be unavailable or insufficient to hold harmless the Indemnitees,
+although applicable in accordance with the terms of this Section&nbsp;5, the Issuer shall contribute to the aggregate costs incurred by the Dealer in connection with any Claim in the proportion of the respective economic interests of the Issuer and
+the Dealer; provided, however, that such contribution by the Issuer shall be in an amount such that the aggregate costs incurred by the Dealer do not exceed the aggregate of the commissions and fees earned by the Dealer hereunder with respect to the
+issue or issues of Notes to which such Claim relates. The respective economic interests shall be calculated by reference to the aggregate proceeds to the Issuer of the Notes issued hereunder and the aggregate commissions and fees earned by the
+Dealer hereunder. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>6.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Definitions. </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.1</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Bribery Act&#148; shall have the meaning set forth in Section&nbsp;2.11. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.2</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Claim&#148; shall have the meaning set forth in Section&nbsp;5.1. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.3</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Company Information&#148; at any given time shall mean the Private Placement Memorandum together with, to the extent applicable, (i)&nbsp;the Issuer&#146;s most recent report on Form 10-K filed with the SEC and
+each report on Form 10-Q or 8-K filed by the Issuer with the SEC since the most recent Form 10-K, (ii)&nbsp;the Issuer&#146;s most recent annual audited financial statements and each published interim financial statement or report prepared
+subsequent thereto, if not included in item (i)&nbsp;above, (iii)&nbsp;the Issuer&#146;s other publicly available recent reports, including, but not limited to, any publicly available filings or reports provided to its shareholders, (iv)&nbsp;any
+other information or disclosure prepared pursuant to Section&nbsp;4.3 hereof and (v)&nbsp;any information prepared or approved by the Issuer for dissemination to investors or potential investors in the Notes. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.4</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Current Issuing and Paying Agent&#148; shall have the meaning set forth in Section&nbsp;7.9(i). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.5</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Dealer Information&#148; shall mean material concerning the Dealer provided by the Dealer in writing expressly for inclusion in the Private Placement Memorandum. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.6</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Exchange Act&#148; shall mean the U.S. Securities Exchange Act of 1934, as amended. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">12 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.7</TD>
+<TD ALIGN="left" VALIGN="top">&#147;FCPA&#148; shall have the meaning set forth in Section&nbsp;2.11. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.8</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Indemnitee&#148; shall have the meaning set forth in Section&nbsp;5.1. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.9</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Institutional Accredited Investor&#148; shall mean an institutional investor that is an accredited investor within the meaning of Rule 501 under the Securities Act and that has such knowledge and experience in
+financial and business matters that it is capable of evaluating and bearing the economic risk of an investment in the Notes, including, but not limited to, a bank, as defined in Section&nbsp;3(a)(2) of the Securities Act, or a savings and loan
+association or other institution, as defined in Section&nbsp;3(a)(5)(A) of the Securities Act, whether acting in its individual or fiduciary capacity. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.10</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Issuing and Paying Agent Agreement&#148; shall mean the issuing and paying agency agreement described on the cover page of this Agreement, or any replacement thereof, as such agreement may be amended or
+supplemented from time to time. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.11</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Issuing and Paying Agent&#148; shall mean the party designated as such on the cover page of this Agreement, or any replacement thereof, as issuing and paying agent under the Issuing and Paying Agent Agreement, or
+any successor thereto in accordance with the Issuing and Paying Agent Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.12</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Money Laundering Laws&#148; shall have the meaning set forth in Section&nbsp;2.12. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.13</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Non-bank fiduciary or agent&#148; shall mean a fiduciary or agent other than (a)&nbsp;a bank, as defined in Section&nbsp;3(a)(2) of the Securities Act, or (b)&nbsp;a savings and loan association, as defined in
+Section&nbsp;3(a)(5)(A) of the Securities Act. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.14</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Outstanding Notes&#148; shall have the meaning set forth in Section&nbsp;7.9(ii). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.15</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Private Placement Memorandum&#148; shall mean offering materials prepared in accordance with Section&nbsp;4 (including materials referred to therein or incorporated by reference therein, if any) provided to
+purchasers and prospective purchasers of the Notes, and shall include amendments and supplements thereto which may be prepared from time to time in accordance with this Agreement (other than any amendment or supplement that has been completely
+superseded by a later amendment or supplement). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.16</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Qualified Institutional Buyer&#148; shall have the meaning assigned to that term in Rule 144A under the Securities Act. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.17</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Replacement&#148; shall have the meaning set forth in Section&nbsp;7.9(i). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.18</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Replacement Issuing and Paying Agent Agreement&#148; shall have the meaning set forth in Section&nbsp;7.9(i). </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.19</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Replacement Issuing and Paying Agent&#148; shall have the meaning set forth in Section&nbsp;7.9(i). </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">13 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.20</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Rule 144A&#148; shall mean Rule 144A under the Securities Act. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.21</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Sanctions&#148; shall have the meaning set forth in Section&nbsp;2.13. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.22</TD>
+<TD ALIGN="left" VALIGN="top">&#147;SEC&#148; shall mean the U.S. Securities and Exchange Commission. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">6.23</TD>
+<TD ALIGN="left" VALIGN="top">&#147;Securities Act&#148; shall mean the U.S. Securities Act of 1933, as amended. </TD></TR></TABLE> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><B>7.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>General </B></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.1</TD>
+<TD ALIGN="left" VALIGN="top">Unless otherwise expressly provided herein, all notices under this Agreement to parties hereto shall be in writing and shall be effective when received at the address of the respective party set forth in the Addendum to
+this Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.2</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of laws provisions. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.3</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer agrees that any suit, action or proceeding brought by the Issuer against the Dealer in connection with or arising out of this Agreement or the Notes or the offer and sale of the Notes shall be brought solely
+in the United States federal courts located in the Borough of Manhattan or the courts of the State of New York located in the Borough of Manhattan. EACH OF THE DEALER AND THE ISSUER WAIVES ITS RIGHT TO TRIAL BY JURY IN ANY SUIT, ACTION OR PROCEEDING
+WITH RESPECT TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.4</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement may be terminated, at any time, by the Issuer, upon one business day&#146;s prior notice to such effect to the Dealer, or by the Dealer upon one business day&#146;s prior notice to such effect to the
+Issuer. Any such termination, however, shall not affect the obligations of the Issuer under Sections 3.7, 5 and 7.3 hereof or the respective representations, warranties, agreements, covenants, rights or responsibilities of the parties made or
+arising prior to the termination of this Agreement. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.5</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement is not assignable by either party hereto without the written consent of the other party; provided, however, that the Dealer may assign its rights and obligations under this Agreement to any affiliate of
+the Dealer. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.6</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement may be signed in any number of counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.7</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement is for the exclusive benefit of the parties hereto, and their respective permitted successors and assigns hereunder, and shall not be deemed to give any legal or equitable right, remedy or claim to any
+other person whatsoever. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">14 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.8</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer acknowledges and agrees that (i)&nbsp;purchases and sales, or placements, of the Notes pursuant to this Agreement, including the determination of any prices for the Notes and Dealer compensation, are
+arm&#146;s-length commercial transactions between the Issuer and the Dealer, (ii)&nbsp;in connection therewith and with the process leading to such transactions, the Dealer is acting solely as a principal and not the agent (except to the extent
+explicitly set forth herein) or fiduciary of the Issuer or any of its affiliates, (iii)&nbsp;the Dealer has not assumed an advisory or fiduciary responsibility in favor of the Issuer or any of its affiliates with respect to the offering contemplated
+hereby or the process leading thereto (irrespective of whether the Dealer has advised or is currently advising the Issuer or any of its affiliates on other matters) or any other obligation to the Issuer or any of its affiliates except the
+obligations expressly set forth in this Agreement, (iv)&nbsp;the Issuer is capable of evaluating and understanding and understands and accepts the terms, risks and conditions of the transactions contemplated by this Agreement, (v)&nbsp;the Dealer
+and its affiliates may be engaged in a broad range of transactions that involve interests that differ from those of the Issuer and that the Dealer has no obligation to disclose any of those interests by virtue of any advisory or fiduciary
+relationship, (vi)&nbsp;the Dealer has not provided any legal, accounting, regulatory or tax advice with respect to the transactions contemplated hereby, and (vii)&nbsp;the Issuer has consulted its own legal and financial advisors to the extent it
+deemed appropriate. The Issuer agrees that it will not claim that the Dealer has rendered advisory services of any nature or respect, or owes a fiduciary or similar duty to the Issuer in connection with such transactions or the process leading
+thereto. Any review by the Dealer of the Issuer, the transactions contemplated hereby or other matters relating to such transactions shall be performed solely for the benefit of the Dealer and shall not be on behalf of the Issuer. The Issuer hereby
+waives and releases, to the fullest extent permitted by law, any claims the Issuer may have against the Dealer with respect to any breach or alleged breach of fiduciary duty arising out of the offer and sale of the Notes. </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.9</TD>
+<TD ALIGN="left" VALIGN="top">(i) The parties hereto agree that the Issuer may, in accordance with the terms of this Section&nbsp;7.9, from time to time replace the party which is then acting as Issuing and Paying Agent (the &#147;Current Issuing
+and Paying Agent&#148;) with another party (such other party, the &#147;Replacement Issuing and Paying Agent&#148;), and enter into an agreement with the Replacement Issuing and Paying Agent covering the provision of issuing and paying agency
+functions in respect of the Notes by the Replacement Issuing and Paying Agent (the &#147;Replacement Issuing and Paying Agent Agreement&#148;) (any such replacement, a &#147;Replacement&#148;). </TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:10%; font-size:10pt; font-family:Times New Roman">(ii) From and after the effective date of any Replacement, (A)&nbsp;to the extent that the Issuing and Paying Agent Agreement provides that
+the Current Issuing and Paying Agent will continue to act in respect of Notes outstanding as of the effective date of such Replacement (the &#147;Outstanding Notes&#148;), then (i)&nbsp;the &#147;Issuing and Paying Agent&#148; for the Notes shall be
+deemed to be the Current Issuing and Paying Agent, in respect of the Outstanding Notes, and the Replacement Issuing and Paying Agent, in respect of Notes issued on or after the Replacement, (ii)&nbsp;all references to the &#147;Issuing and Paying
+Agent&#148; hereunder shall be deemed to refer to the Current Issuing and Paying Agent in respect of the Outstanding Notes, and the Replacement Issuing and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">15 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:10%; font-size:10pt; font-family:Times New Roman">
+Paying Agent in respect of Notes issued on or after the Replacement, and (iii)&nbsp;all references to the &#147;Issuing and Paying Agent Agreement&#148; hereunder shall be deemed to refer to the
+existing Issuing and Paying Agent Agreement, in respect of the Outstanding Notes, and the Replacement Issuing and Paying Agent Agreement, in respect of Notes issued on or after the Replacement; and (B)&nbsp;to the extent that the Issuing and Paying
+Agent Agreement does not provide that the Current Issuing and Paying Agent will continue to act in respect of the Outstanding Notes, then (i)&nbsp;the &#147;Issuing and Paying Agent&#148; for the Notes shall be deemed to be the Replacement Issuing
+and Paying Agent, (ii)&nbsp;all references to the &#147;Issuing and Paying Agent&#148; hereunder shall be deemed to refer to the Replacement Issuing and Paying Agent, and (iii)&nbsp;all references to the &#147;Issuing and Paying Agent
+Agreement&#148; hereunder shall be deemed to refer to the Replacement Issuing and Paying Agent Agreement. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:10%; font-size:10pt; font-family:Times New Roman">(iii) From and after the
+effective date of any Replacement, the Issuer shall not issue any Notes hereunder unless and until the Dealer shall have received: (a)&nbsp;a copy of the executed Replacement Issuing and Paying Agent Agreement, (b)&nbsp;a copy of the executed Letter
+of Representations among the Issuer, the Replacement Issuing and Paying Agent and DTC, (c)&nbsp;a copy of the executed Master Note authenticated by the Replacement Issuing and Paying Agent and registered in the name of DTC or its nominee,
+(d)&nbsp;an amendment or supplement to the Private Placement Memorandum describing the Replacement Issuing and Paying Agent as the Issuing and Paying Agent for the Notes, and reflecting any other changes thereto necessary in light of the Replacement
+so that the Private Placement Memorandum, as amended or supplemented, satisfies the requirements of this Agreement, and (e)&nbsp;a legal opinion of counsel to the Issuer, addressed to the Dealer, in form and substance reasonably satisfactory to the
+Dealer, as to (x)&nbsp;the due authorization, delivery, validity and enforceability of Notes issued pursuant to the Replacement Issuing and Paying Agent Agreement, and (y)&nbsp;such other matters as the Dealer may reasonably request. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">7.10</TD>
+<TD ALIGN="left" VALIGN="top">This Agreement supersedes all prior agreements and understandings (whether written or oral) between the Issuer and the Dealer with respect to the subject matter hereof. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>(Signature page follows) </I></P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">16 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date and year first
+above written. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="12%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="87%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>STARBUCKS CORPORATION,</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as Issuer</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16" COLSPAN="3"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="3">
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>,</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;as Dealer</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE></DIV>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">17 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Addendum </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The following additional clauses shall apply to the Agreement and be deemed a part thereof. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">The other dealers referred to in clause (b)&nbsp;of Section&nbsp;1.2 of the Agreement are
+<U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U>. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">The addresses of the respective parties for purposes of notices under Section&nbsp;7.1 are as follows: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="14%"></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="80%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">For the Issuer:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Address:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Starbucks Corporation</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">2401 Utah Avenue South</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Seattle, Washington 98134</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Attention:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Telephone&nbsp;number:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Email address:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">For the Dealer:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Address:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Attention:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Telephone number:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Fax number:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">18 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit A </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Form of Legend for Private Placement Memorandum and Notes </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">THE NOTES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED (THE &#147;ACT&#148;), OR ANY OTHER APPLICABLE SECURITIES LAW, AND OFFERS AND
+SALES THEREOF MAY BE MADE ONLY IN COMPLIANCE WITH AN APPLICABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE ACT AND ANY APPLICABLE STATE SECURITIES LAWS. BY ITS ACCEPTANCE OF A NOTE, THE PURCHASER WILL BE DEEMED TO REPRESENT THAT (I)&nbsp;IT
+HAS BEEN AFFORDED AN OPPORTUNITY TO INVESTIGATE MATTERS RELATING TO THE ISSUER AND THE NOTES, (II) IT IS NOT ACQUIRING SUCH NOTE WITH A VIEW TO ANY DISTRIBUTION THEREOF AND (III) IT IS EITHER (A)&nbsp;AN INSTITUTIONAL INVESTOR THAT IS (1)&nbsp;AN
+ACCREDITED INVESTOR WITHIN THE MEANING OF RULE 501(a) UNDER THE ACT (AN &#147;INSTITUTIONAL ACCREDITED INVESTOR&#148;) AND (2)&nbsp;EITHER (i)&nbsp;PURCHASING NOTES FOR ITS OWN ACCOUNT, (ii)&nbsp;A BANK (AS DEFINED IN SECTION 3(a)(2) OF THE ACT) OR
+A SAVINGS AND LOAN ASSOCIATION OR OTHER INSTITUTION (AS DEFINED IN SECTION 3(a)(5)(A) OF THE ACT) ACTING IN ITS INDIVIDUAL OR FIDUCIARY CAPACITY OR (iii)&nbsp;A FIDUCIARY OR AGENT (OTHER THAN SUCH A BANK, SAVINGS AND LOAN ASSOCIATION OR OTHER SUCH
+INSTITUTION) PURCHASING NOTES FOR ONE OR MORE ACCOUNTS EACH OF WHICH ACCOUNTS IS SUCH AN INSTITUTIONAL ACCREDITED INVESTOR; OR (B)&nbsp;A QUALIFIED INSTITUTIONAL BUYER (&#147;QIB&#148;) WITHIN THE MEANING OF RULE 144A UNDER THE ACT THAT IS ACQUIRING
+NOTES FOR ITS OWN ACCOUNT OR FOR ONE OR MORE ACCOUNTS, EACH OF WHICH ACCOUNTS IS A QIB; AND THE PURCHASER ACKNOWLEDGES THAT IT IS AWARE THAT THE SELLER MAY RELY UPON THE EXEMPTION FROM THE REGISTRATION PROVISIONS OF SECTION 5 OF THE ACT PROVIDED BY
+RULE 144A. BY ITS ACCEPTANCE OF A NOTE, THE PURCHASER THEREOF SHALL ALSO BE DEEMED TO AGREE THAT ANY RESALE OR OTHER TRANSFER THEREOF WILL BE MADE ONLY (A)&nbsp;IN A TRANSACTION EXEMPT FROM REGISTRATION UNDER THE ACT, EITHER (1)&nbsp;TO THE ISSUER
+OR TO A PERSON DESIGNATED BY THE ISSUER AS A PLACEMENT AGENT FOR THE NOTES (EACH, A &#147;PLACEMENT AGENT&#148;), NEITHER OF WHICH SHALL HAVE ANY OBLIGATION TO ACQUIRE SUCH NOTE, (2)&nbsp;THROUGH A PLACEMENT AGENT TO AN INSTITUTIONAL ACCREDITED
+INVESTOR OR A QIB, OR (3)&nbsp;TO A QIB IN A TRANSACTION THAT MEETS THE REQUIREMENTS OF RULE 144A AND (B)&nbsp;IN MINIMUM AMOUNTS OF $250,000. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">19 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit B </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Further Provisions Relating to Indemnification </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">The Issuer agrees to reimburse each Indemnitee for all expenses (including reasonable fees and disbursements of external counsel) as they are incurred by it in connection with investigating or defending any loss, claim,
+damage, liability or action in respect of which indemnification may be sought under Section&nbsp;5 of the Agreement (whether or not it is a party to any such proceedings). </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt">Promptly after receipt by an Indemnitee of notice of the existence of a Claim, such Indemnitee will, if a claim
+in respect thereof is to be made against the Issuer, notify the Issuer in writing of the existence thereof; provided that (i)&nbsp;the omission to so notify the Issuer will not relieve the Issuer from any liability which it may have hereunder unless
+and except to the extent it did not otherwise learn of such Claim and such failure results in the forfeiture by the Issuer of substantial rights and defenses, and (ii)&nbsp;the omission to so notify the Issuer will not relieve it from liability
+which it may have to an Indemnitee otherwise than on account of this indemnity agreement. In case any such Claim is made against any Indemnitee and it notifies the Issuer of the existence thereof, the Issuer will be entitled to participate therein,
+and to the extent that it may elect by written notice delivered to the Indemnitee, to assume the defense thereof, with counsel reasonably satisfactory to such Indemnitee; provided that if the defendants in any such Claim include both the Indemnitee
+and the Issuer, and the Indemnitee shall have concluded that there may be legal defenses available to it which are different from or additional to those available to the Issuer, the Issuer shall not have the right to direct the defense of such Claim
+on behalf of such Indemnitee, and the Indemnitee shall have the right to select separate counsel to assert such legal defenses on behalf of such Indemnitee. Upon receipt of notice from the Issuer to such Indemnitee of the Issuer&#146;s election to
+so assume the defense of such Claim and approval by the Indemnitee of counsel, the Issuer will not be liable to such Indemnitee for expenses incurred thereafter by the Indemnitee in connection with the defense thereof (other than reasonable costs of
+investigation) unless (i)&nbsp;the Indemnitee shall have employed separate counsel in connection with the assertion of legal defenses in accordance with the proviso to the next preceding sentence (it being understood, however, that the Issuer shall
+not be liable for the expenses of more than one separate counsel (in addition to any local counsel in the jurisdiction in which any Claim is brought), selected by such Indemnitees, representing the Indemnitees who are party to such Claim; provided,
+further, that if the defendants in any such Claim include multiple Indemnitees, all such Indemnitees shall be entitled to select only one counsel to serve as separate counsel for all of the Indemnitees, unless such Indemnitees have concluded that
+there may be legal defenses available to an Indemnitee which are different from or additional to those available to any other Indemnitee, in which case any such Indemnitee with different or additional legal defenses shall have the right to select
+separate counsel from any other Indemnitees to assert such legal defenses on behalf of such Indemnitee), (ii)&nbsp;the Issuer shall not have employed counsel reasonably satisfactory to the Indemnitee to represent the Indemnitee within a reasonable
+time after notice of existence of the Claim or (iii)&nbsp;the Issuer has authorized in writing the employment of counsel for the Indemnitee. The indemnity, reimbursement and contribution obligations of the Issuer hereunder shall be in
+</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">20 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">
+addition to any other liability the Issuer may otherwise have to an Indemnitee and shall be binding upon and inure to the benefit of any successors, assigns, heirs and personal representatives of
+the Issuer and any Indemnitee. The Issuer agrees that without the Dealer&#146;s prior written consent, it will not settle, compromise or consent to the entry of any judgment in any Claim in respect of which indemnification may be sought under the
+indemnification provision of the Agreement (whether or not the Dealer or any other Indemnitee is an actual or potential party to such Claim), unless such settlement, compromise or consent (i)&nbsp;includes an unconditional release of each Indemnitee
+from all liability arising out of such Claim and (ii)&nbsp;does not include a statement as to or an admission of fault, culpability or failure to act, by or on behalf of any Indemnitee. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">21 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit C </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Statement of Terms for Interest &#150; Bearing Commercial Paper Notes of Starbucks Corporation </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>THE PROVISIONS SET FORTH BELOW ARE QUALIFIED TO THE EXTENT APPLICABLE BY THE TRANSACTION SPECIFIC PRIVATE PLACEMENT MEMORANDUM SUPPLEMENT (THE
+&#147;SUPPLEMENT&#148;) (IF ANY) SENT TO EACH PURCHASER AT THE TIME OF THE TRANSACTION. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">1. <U>General.</U> (a)&nbsp;The obligations of
+the Issuer to which these terms apply (each a &#147;Note&#148;) are represented by one or more Master Notes (each, a &#147;Master Note&#148;) issued in the name of (or of a nominee for) The Depository Trust Company (&#147;DTC&#148;), which Master
+Note includes the terms and provisions for the Issuer&#146;s Interest-Bearing Commercial Paper Notes that are set forth in this Statement of Terms, since this Statement of Terms constitutes an integral part of the Underlying Records as defined and
+referred to in the Master Note. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(b) &#147;Business Day&#148; means any day other than a Saturday or Sunday that is neither a legal holiday
+nor a day on which banking institutions are authorized or required by law, executive order or regulation to be closed in New York City and, with respect to LIBOR Notes (as defined below) is also a London Business Day. &#147;London Business Day&#148;
+means, a day, other than a Saturday or Sunday, on which dealings in deposits in U.S. dollars are transacted in the London interbank market. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">2. <U>Interest.</U> (a)&nbsp;Each Note will bear interest at a fixed rate (a &#147;Fixed Rate Note&#148;) or at a floating rate (a
+&#147;Floating Rate Note&#148;). </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(b) The Supplement sent to each holder of such Note will describe the following terms: (i)&nbsp;whether
+such Note is a Fixed Rate Note or a Floating Rate Note and whether such Note is an Original Issue Discount Note (as defined below); (ii)&nbsp;the date on which such Note will be issued (the &#147;Issue Date&#148;); (iii)&nbsp;the Stated Maturity
+Date (as defined below); (iv)&nbsp;if such Note is a Fixed Rate Note, the rate per annum at which such Note will bear interest, if any, and the Interest Payment Dates; (v)&nbsp;if such Note is a Floating Rate Note, the Base Rate, the Index Maturity,
+the Interest Reset Dates, the Interest Payment Dates and the Spread and/or Spread Multiplier, if any (all as defined below), and any other terms relating to the particular method of calculating the interest rate for such Note; and (vi)&nbsp;any
+other terms applicable specifically to such Note. &#147;Original Issue Discount Note&#148; means a Note which has a stated redemption price at the Stated Maturity Date that exceeds its Issue Price by more than a specified de minimis amount and which
+the Supplement indicates will be an &#147;Original Issue Discount Note&#148;. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(c) Each Fixed Rate Note will bear interest from its Issue
+Date at the rate per annum specified in the Supplement until the principal amount thereof is paid or made available for payment. Interest on each Fixed Rate Note will be payable on the dates specified in the Supplement (each an &#147;Interest
+Payment Date&#148; for a Fixed Rate Note) and on the Maturity Date (as defined below). Interest on Fixed Rate Notes will be computed on the basis of a 360-day year of twelve 30-day months. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">22 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If any Interest Payment Date or the Maturity Date of a Fixed Rate Note falls on a day that is not
+a Business Day, the required payment of principal, premium, if any, and/or interest will be payable on the next succeeding Business Day, and no additional interest will accrue in respect of the payment made on that next succeeding Business Day. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(d) The interest rate on each Floating Rate Note for each Interest Reset Period (as defined below) will be determined by reference to an
+interest rate basis (a &#147;Base Rate&#148;) plus or minus a number of basis points (one basis point equals one-hundredth of a percentage point) (the &#147;Spread&#148;), if any, and/or multiplied by a certain percentage (the &#147;Spread
+Multiplier&#148;), if any, until the principal thereof is paid or made available for payment. The Supplement will designate which of the following Base Rates is applicable to the related Floating Rate Note: (a)&nbsp;the CD Rate (a &#147;CD Rate
+Note&#148;), (b)&nbsp;the Commercial Paper Rate (a &#147;Commercial Paper Rate Note&#148;), (c)&nbsp;the Federal Funds Rate (a &#147;Federal Funds Rate Note&#148;), (d)&nbsp;LIBOR (a &#147;LIBOR Note&#148;), (e)&nbsp;the Prime Rate (a &#147;Prime
+Rate Note&#148;), (f)&nbsp;the Treasury Rate (a &#147;Treasury Rate Note&#148;) or (g)&nbsp;such other Base Rate as may be specified in such Supplement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The rate of interest on each Floating Rate Note will be reset daily, weekly, monthly, quarterly or semi-annually (the &#147;Interest Reset
+Period&#148;). The date or dates on which interest will be reset (each an &#147;Interest Reset Date&#148;) will be, unless otherwise specified in the Supplement, in the case of Floating Rate Notes which reset daily, each Business Day, in the case of
+Floating Rate Notes (other than Treasury Rate Notes) that reset weekly, the Wednesday of each week; in the case of Treasury Rate Notes that reset weekly, the Tuesday of each week; in the case of Floating Rate Notes that reset monthly, the third
+Wednesday of each month; in the case of Floating Rate Notes that reset quarterly, the third Wednesday of March, June, September and December; and in the case of Floating Rate Notes that reset semiannually, the third Wednesday of the two months
+specified in the Supplement. If any Interest Reset Date for any Floating Rate Note is not a Business Day, such Interest Reset Date will be postponed to the next day that is a Business Day, except that in the case of a LIBOR Note, if such Business
+Day is in the next succeeding calendar month, such Interest Reset Date shall be the immediately preceding Business Day. Interest on each Floating Rate Note will be payable monthly, quarterly or semiannually (the &#147;Interest Payment Period&#148;)
+and on the Maturity Date. Unless otherwise specified in the Supplement, and except as provided below, the date or dates on which interest will be payable (each an &#147;Interest Payment Date&#148; for a Floating Rate Note) will be, in the case of
+Floating Rate Notes with a monthly Interest Payment Period, on the third Wednesday of each month; in the case of Floating Rate Notes with a quarterly Interest Payment Period, on the third Wednesday of March, June, September and December; and in the
+case of Floating Rate Notes with a semiannual Interest Payment Period, on the third Wednesday of the two months specified in the Supplement. In addition, the Maturity Date will also be an Interest Payment Date. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If any Interest Payment Date for any Floating Rate Note (other than an Interest Payment Date occurring on the Maturity Date) would otherwise be
+a day that is not a Business Day, </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">23 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+such Interest Payment Date shall be postponed to the next day that is a Business Day, except that in the case of a LIBOR Note, if such Business Day is in the next succeeding calendar month, such
+Interest Payment Date shall be the immediately preceding Business Day. If the Maturity Date of a Floating Rate Note falls on a day that is not a Business Day, the payment of principal and interest will be made on the next succeeding Business Day,
+and no interest on such payment shall accrue for the period from and after such maturity. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">Interest payments on each Interest Payment Date
+for Floating Rate Notes will include accrued interest from and including the Issue Date or from and including the last date in respect of which interest has been paid, as the case may be, to, but excluding, such Interest Payment Date. On the
+Maturity Date, the interest payable on a Floating Rate Note will include interest accrued to, but excluding, the Maturity Date. Accrued interest will be calculated by multiplying the principal amount of a Floating Rate Note by an accrued interest
+factor. This accrued interest factor will be computed by adding the interest factors calculated for each day in the period for which accrued interest is being calculated. The interest factor (expressed as a decimal) for each such day will be
+computed by dividing the interest rate applicable to such day by 360, in the cases where the Base Rate is the CD Rate, Commercial Paper Rate, Federal Funds Rate, LIBOR or Prime Rate, or by the actual number of days in the year, in the case where the
+Base Rate is the Treasury Rate. The interest rate in effect on each day will be (i)&nbsp;if such day is an Interest Reset Date, the interest rate with respect to the Interest Determination Date (as defined below) pertaining to such Interest Reset
+Date, or (ii)&nbsp;if such day is not an Interest Reset Date, the interest rate with respect to the Interest Determination Date pertaining to the next preceding Interest Reset Date, subject in either case to any adjustment by a Spread and/or a
+Spread Multiplier. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The &#147;Interest Determination Date&#148; where the Base Rate is the CD Rate or the Commercial Paper Rate will be the
+second Business Day next preceding an Interest Reset Date. The Interest Determination Date where the Base Rate is the Federal Funds Rate or the Prime Rate will be the Business Day next preceding an Interest Reset Date. The Interest Determination
+Date where the Base Rate is LIBOR will be the second London Business Day next preceding an Interest Reset Date. The Interest Determination Date where the Base Rate is the Treasury Rate will be the day of the week in which such Interest Reset Date
+falls when Treasury Bills are normally auctioned. Treasury Bills are normally sold at auction on Monday of each week, unless that day is a legal holiday, in which case the auction is held on the following Tuesday or the preceding Friday. If an
+auction is so held on the preceding Friday, such Friday will be the Interest Determination Date pertaining to the Interest Reset Date occurring in the next succeeding week. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The &#147;Index Maturity&#148; is the period to maturity of the instrument or obligation from which the applicable Base Rate is calculated.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The &#147;Calculation Date,&#148; where applicable, shall be the earlier of (i)&nbsp;the tenth calendar day following the applicable
+Interest Determination Date or (ii)&nbsp;the Business Day preceding the applicable Interest Payment Date or Maturity Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">All times
+referred to herein reflect New York City time, unless otherwise specified. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">24 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The Issuer shall specify in writing to the Issuing and Paying Agent which party will be the
+calculation agent (the &#147;Calculation Agent&#148;) with respect to the Floating Rate Notes. The Calculation Agent will provide the interest rate then in effect and, if determined, the interest rate which will become effective on the next Interest
+Reset Date with respect to such Floating Rate Note to the Issuing and Paying Agent as soon as the interest rate with respect to such Floating Rate Note has been determined and as soon as practicable after any change in such interest rate. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">All percentages resulting from any calculation on Floating Rate Notes will be rounded to the nearest one hundred-thousandth of a percentage
+point, with five-one millionths of a percentage point rounded upwards. For example, 9.876545% (or .09876545) would be rounded to 9.87655% (or .0987655). All dollar amounts used in or resulting from any calculation on Floating Rate Notes will be
+rounded, in the case of U.S. dollars, to the nearest cent or, in the case of a foreign currency, to the nearest unit (with one-half cent or unit being rounded upwards). </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>CD Rate Notes </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;CD Rate&#148; means
+the rate on any Interest Determination Date for negotiable U.S. dollar certificates of deposit having the Index Maturity as published in the source specified in the Supplement. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the above rate is not published by 3:00 p.m., New York City time, on the Calculation Date, the CD Rate will be the rate on such Interest
+Determination Date published under the caption specified in the Supplement in another recognized electronic source used for the purpose of displaying the applicable rate. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If such rate is not published in either the source specified on the Supplement or another recognized electronic source by 3:00 p.m., New York
+City time, on the Calculation Date, the Calculation Agent will determine the CD Rate to be the arithmetic mean of the secondary market offered rates as of 10:00 a.m., New York City time, on such Interest Determination Date of three leading nonbank
+dealers<SUP STYLE="font-size:85%; vertical-align:top">1</SUP> in negotiable U.S. dollar certificates of deposit in New York City selected by the Calculation Agent for negotiable U.S. dollar certificates of deposit of major United States money center
+banks of the highest credit standing in the market for negotiable certificates of deposit with a remaining maturity closest to the Index Maturity in the denomination of $5,000,000. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If fewer than the three dealers selected by the Calculation Agent are quoting as set forth above, the CD Rate will remain the CD Rate then in
+effect on such Interest Determination Date. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Commercial Paper Rate Notes </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Commercial Paper Rate&#148; means the Money Market Yield (calculated as described below) of the rate on any Interest Determination Date
+for commercial paper having the Index Maturity, as published by the Board of Governors of the Federal Reserve System (&#147;FRB&#148;) in &#147;Statistical Release H.15(519)&#148; under the heading &#147;Commercial Paper-Nonfinancial&#148;. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Such nonbank dealers referred to in this Statement of Terms may include affiliates of the Dealer. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">25 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the above rate is not published in H.15(519) by 3:00 p.m., New York City time, on the
+Calculation Date, then the Commercial Paper Rate will be the Money Market Yield of the rate on such Interest Determination Date for commercial paper of the Index Maturity published in the daily update of H.15(519), available through the world wide
+website of the FRB at http://www.federalreserve.gov/releases/h15/Update, or any successor site or publication or other recognized electronic source used for the purpose of displaying the applicable rate (&#147;H.15 Daily Update&#148;) under the
+heading &#147;Commercial Paper-Nonfinancial&#148;. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If by 3:00 p.m. on such Calculation Date such rate is not published in either H.15(519)
+or H.15 Daily Update, then the Calculation Agent will determine the Commercial Paper Rate to be the Money Market Yield of the arithmetic mean of the offered rates as of 11:00 a.m. on such Interest Determination Date of three leading dealers of U.S.
+dollar commercial paper in New York City selected by the Calculation Agent for commercial paper of the Index Maturity placed for an industrial issuer whose bond rating is &#147;AA,&#148; or the equivalent, from a nationally recognized statistical
+rating organization. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the dealers selected by the Calculation Agent are not quoting as mentioned above, the Commercial Paper Rate with
+respect to such Interest Determination Date will remain the Commercial Paper Rate then in effect on such Interest Determination Date. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Money Market Yield&#148; will be a yield calculated in accordance with the following formula: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="17%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="71%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">D&nbsp;x&nbsp;360</P>
+<P STYLE="margin-top:0pt;margin-bottom:1pt;border-bottom:1px solid #000000" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Money&nbsp;Market&nbsp;Yield&nbsp;=</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">x 100</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">360&nbsp;-&nbsp;(D&nbsp;x&nbsp;M)</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">where &#147;D&#148; refers to the applicable per annum rate for commercial paper quoted on a bank discount
+basis and expressed as a decimal and &#147;M&#148; refers to the actual number of days in the interest period for which interest is being calculated. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Federal Funds Rate Notes </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Federal
+Funds Rate&#148; means the rate on any Interest Determination Date for federal funds as published in H.15(519) under the heading &#147;Federal Funds (Effective)&#148; and displayed on Reuters Page (as defined below) FEDFUNDS1 (or any other page as
+may replace the specified page on that service) Reuters Page &#147;FEDFUNDS1&#148; under the heading EFFECT. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the above rate does not
+appear on Reuters Page FEDFUNDS1 or is not so published by 3:00 p.m. on the Calculation Date, the Federal Funds Rate will be the rate on such Interest Determination Date as published in H.15 Daily Update under the heading &#147;Federal
+Funds/(Effective)&#148;. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If such rate is not published as described above by 3:00 p.m. on the Calculation Date, the Calculation Agent will
+determine the Federal Funds Rate to be the arithmetic mean of the rates for the last transaction in overnight U.S. dollar federal funds arranged by each of three leading brokers of Federal Funds transactions in New York City selected by the
+Calculation Agent prior to 9:00 a.m. on such Interest Determination Date. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">26 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the brokers selected by the Calculation Agent are not quoting as mentioned above, the Federal
+Funds Rate will remain the Federal Funds Rate then in effect on such Interest Determination Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Reuters Page&#148; means the
+display on the Reuters 3000 Xtra Service, or any successor service, on the page or pages specified in this Statement of Terms or the Supplement, or any replacement page on that service. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>LIBOR Notes </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">The London Interbank offered
+rate (&#147;LIBOR&#148;) means, with respect to any Interest Determination Date, the rate for deposits in U.S. dollars having the Index Maturity that appears on the Designated LIBOR Page as of 11:00 a.m., London time, on such Interest Determination
+Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If no rate appears, LIBOR will be determined on the basis of the rates at approximately 11:00 a.m., London time, on such Interest
+Determination Date at which deposits in U.S. dollars are offered to prime banks in the London interbank market by four major banks in such market selected by the Calculation Agent for a term equal to the Index Maturity and in principal amount equal
+to an amount that in the Calculation Agent&#146;s judgment is representative for a single transaction in U.S. dollars in such market at such time (a &#147;Representative Amount&#148;). The Calculation Agent will request the principal London office
+of each of such banks to provide a quotation of its rate. If at least two such quotations are provided, LIBOR will be the arithmetic mean of such quotations. If fewer than two quotations are provided, LIBOR for such interest period will be the
+arithmetic mean of the rates quoted at approximately 11:00 a.m., in New York City, on such Interest Determination Date by three major banks in New York City, selected by the Calculation Agent, for loans in U.S. dollars to leading European banks, for
+a term equal to the Index Maturity and in a Representative Amount; provided, however, that if fewer than three banks so selected by the Calculation Agent are providing such quotations, the then existing LIBOR rate will remain in effect for such
+Interest Payment Period. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Designated LIBOR Page&#148; means the display on the Reuters 3000 Xtra Service (or any successor service)
+on the &#147;LIBOR01&#148; page &#147; (or any other page as may replace such page on such service ) for the purpose of displaying the London interbank rates of major banks. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Prime Rate Notes </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Prime Rate&#148;
+means the rate on any Interest Determination Date as published in H.15(519) under the heading &#147;Bank Prime Loan&#148;. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the above
+rate is not published in H.15(519) prior to 3:00 p.m. on the Calculation Date, then the Prime Rate will be the rate on such Interest Determination Date as published in H.15 Daily Update opposite the caption &#147;Bank Prime Loan&#148;. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">27 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If the rate is not published prior to 3:00 p.m. on the Calculation Date in either H.15(519) or
+H.15 Daily Update, then the Calculation Agent will determine the Prime Rate to be the arithmetic mean of the rates of interest publicly announced by each bank that appears on the Reuters Screen US PRIME1 Page (as defined below) as such bank&#146;s
+prime rate or base lending rate as of 11:00 a.m., on that Interest Determination Date. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If fewer than four such rates referred to above are
+so published by 3:00 p.m. on the Calculation Date, the Calculation Agent will determine the Prime Rate to be the arithmetic mean of the prime rates or base lending rates quoted on the basis of the actual number of days in the year divided by 360 as
+of the close of business on such Interest Determination Date by three major banks in New York City selected by the Calculation Agent. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">If
+the banks selected are not quoting as mentioned above, the Prime Rate will remain the Prime Rate in effect on such Interest Determination Date. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">&#147;Reuters Screen US PRIME1 Page&#148; means the display designated as page &#147;US PRIME1&#148; on the Reuters Monitor Money Rates Service
+(or such other page as may replace the US PRIME1 page on that service for the purpose of displaying prime rates or base lending rates of major United States banks). </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Treasury Rate Notes </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Treasury Rate&#148; means:
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(1) the rate from the auction held on the Interest Determination Date (the &#147;Auction&#148;) of direct obligations of the United States
+(&#147;Treasury Bills&#148;) having the Index Maturity specified in the Supplement under the caption &#147;INVEST RATE&#148; on the display on the Reuters Page designated as USAUCTION10 (or any other page as may replace that page on that service),
+or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(2) if the rate referred to in clause (1)&nbsp;is not so published by 3:00 p.m. on the related Calculation Date, the Bond Equivalent
+Yield (as defined below) of the rate for the applicable Treasury Bills as published in H.15 Daily Update, under the caption &#147;U.S. Government Securities/Treasury Bills/Auction High&#148;, or </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(3) if the rate referred to in clause (2)&nbsp;is not so published by 3:00 p.m. on the related Calculation Date, the Bond Equivalent Yield of
+the auction rate of the applicable Treasury Bills as announced by the United States Department of the Treasury, or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(4) if the rate
+referred to in clause (3)&nbsp;is not so announced by the United States Department of the Treasury, or if the Auction is not held, the Bond Equivalent Yield of the rate on the particular Interest Determination Date of the applicable Treasury Bills
+as published in H.15(519) under the caption &#147;U.S. Government Securities/Treasury Bills/Secondary Market&#148;, or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(5) if the rate
+referred to in clause (4)&nbsp;is not so published by 3:00 p.m. on the related Calculation Date, the rate on the particular Interest Determination Date of the applicable Treasury Bills as published in H.15 Daily Update, under the caption &#147;U.S.
+Government Securities/Treasury Bills/Secondary Market&#148;, or </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">28 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(6) if the rate referred to in clause (5)&nbsp;is not so published by 3:00 p.m. on the related
+Calculation Date, the rate on the particular Interest Determination Date calculated by the Calculation Agent as the Bond Equivalent Yield of the arithmetic mean of the secondary market bid rates, as of approximately 3:30 p.m. on that Interest
+Determination Date, of three primary United States government securities dealers selected by the Calculation Agent, for the issue of Treasury Bills with a remaining maturity closest to the Index Maturity specified in the Supplement, or </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">(7) if the dealers so selected by the Calculation Agent are not quoting as mentioned in clause (6), the Treasury Rate in effect on the
+particular Interest Determination Date. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Bond Equivalent Yield&#148; means a yield (expressed as a percentage) calculated in accordance with the
+following formula: </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="18%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="70%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ROWSPAN="2"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">D&nbsp;x&nbsp;N</P>
+<P STYLE="margin-top:0pt;margin-bottom:1pt;border-bottom:1px solid #000000" align="left">&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Bond&nbsp;Equivalent&nbsp;Yield&nbsp;=</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">x 100</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT STYLE="white-space:nowrap">360&nbsp;-&nbsp;(D&nbsp;x&nbsp;M)</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">where &#147;D&#148; refers to the applicable per annum rate for Treasury Bills quoted on a bank discount basis
+and expressed as a decimal, &#147;N&#148; refers to 365 or 366, as the case may be, and &#147;M&#148; refers to the actual number of days in the applicable Interest Reset Period. </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">3.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Final Maturity.</U> The Stated Maturity Date for any Note will be the date so specified in the Supplement, which shall be no later than 397 days from the date of issuance. On its Stated Maturity Date, or any date
+prior to the Stated Maturity Date on which the particular Note becomes due and payable by the declaration of acceleration, each such date being referred to as a Maturity Date, the principal amount of such Note, together with accrued and unpaid
+interest thereon, will be immediately due and payable. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">4.</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="left" STYLE=" margin-top:0pt ; margin-bottom:0pt; font-family:Times New Roman; font-size:10pt"><U>Events of Default.</U> The occurrence of any of the following shall constitute an &#147;Event of Default&#148;
+with respect to a Note: (i)&nbsp;default in any payment of principal of or interest on such Note (including on a redemption thereof); (ii)&nbsp;the Issuer makes any compromise arrangement with its creditors generally including the entering into any
+form of moratorium with its creditors generally; (iii)&nbsp;a court having jurisdiction shall enter a decree or order for relief in respect of the Issuer in an involuntary case under any applicable bankruptcy, insolvency or other similar law now or
+hereafter in effect, or there shall be appointed a receiver, administrator, liquidator, custodian, trustee or sequestrator (or similar officer) with respect to the whole or substantially the whole of the assets of the Issuer and any such decree,
+order or appointment is not removed, discharged or withdrawn within 60 days thereafter; or (iv)&nbsp;the Issuer shall commence a voluntary case under any applicable bankruptcy, insolvency or other similar law now or hereafter in effect, or consent
+to the entry of an order for relief in an involuntary case under any such law, or consent to the appointment of or taking possession by a receiver, administrator, liquidator, assignee, custodian, trustee or sequestrator (or similar official), with
+respect to the whole or </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">29 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman">
+substantially the whole of the assets of the Issuer or make any general assignment for the benefit of creditors. Upon the occurrence of an Event of Default, the principal of such Note (together
+with interest accrued and unpaid thereon) shall become, without any notice or demand, immediately due and payable.<SUP STYLE="font-size:85%; vertical-align:top">2</SUP> </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">5.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Obligation Absolute.</U> No provision of the Issuing and Paying Agent Agreement under which the Notes are issued shall alter or impair the obligation of the Issuer, which is absolute and unconditional, to pay the
+principal of and interest on each Note at the times, place and rate, and in the coin or currency, herein prescribed. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">6.</TD>
+<TD ALIGN="left" VALIGN="top"><U>Supplement</U>. Any term contained in the Supplement shall supersede any conflicting term contained herein. </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">2</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">Unlike single payment notes, where a default arises only at the stated maturity, interest-bearing notes with multiple payment dates should contain a default provision permitting acceleration of the maturity if the
+Issuer defaults on an interest payment. </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">30 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Exhibit D </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the case of any agreement by the Dealer to purchase a Note hereunder (other than as agent) which provides for a settlement date that is
+three New York Business Days or more after the date of such agreement, the obligation of the Dealer to purchase the Note under such agreement shall be subject to the following conditions: </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top">the representations and warranties given by the Issuer set forth above in Section&nbsp;1.7, Section&nbsp;1.8 and Section&nbsp;2 shall be true and correct on and as of the settlement date as if made on and as of such
+date, and the Issuer shall have performed all of its obligations hereunder to be performed as of such date, </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top">since the date of the most recent Private Placement Memorandum, there shall have been no material adverse change in the condition (financial or otherwise), operations or business prospects of the Issuer (whether
+occurring before or after such agreement was entered into) which was not disclosed to the Dealer in writing prior to the time such agreement was entered into, </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top">the Issuer shall not be in default of any of its obligations hereunder, under the Notes or under the Issuing and Paying Agent Agreement, </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(d)</TD>
+<TD ALIGN="left" VALIGN="top">on or after the date of such agreement there shall not have occurred any of the following: (i)&nbsp;a suspension or material limitation in trading in securities generally on the New York Stock Exchange; (ii)&nbsp;a
+suspension or material limitation in trading in the Issuer&#146;s securities on the New York Stock Exchange; (iii)&nbsp;a general moratorium on commercial banking activities declared by either Federal or New York State authorities or a material
+disruption in commercial banking or securities settlement or clearance services in the United States; (iv)&nbsp;the outbreak or escalation of hostilities involving the United States or the declaration by the United States of a national emergency or
+war or (v)&nbsp;the occurrence of any other calamity or crisis or any change in financial, political or economic conditions in the United States or elsewhere; provided, however, solely for the events specified in clauses (iv)&nbsp;and (v), that the
+effect of any such event in the judgment of the Dealer makes it impracticable or inadvisable to proceed with the offering or the delivery of the Note on the terms and in the manner contemplated in the Private Placement Memorandum, and
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(e)</TD>
+<TD ALIGN="left" VALIGN="top">on or after the date of such agreement, (i)&nbsp;no downgrading shall have occurred in the rating accorded the Issuer&#146;s debt securities by any nationally recognized statistical rating organization and (ii)&nbsp;no
+such organization shall have publicly announced that it has under surveillance or review, with possible negative implications, its rating of any of the Issuer&#146;s debt securities. </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;New York Business Day&#148; shall mean each Monday, Tuesday, Wednesday, Thursday and Friday which is not a day on which banking institutions in New York
+are generally authorized or obligated by law or executive order to close. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">31 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g210241g97w63.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g210241g97w63.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  (" @(" @(" @(" @(" @(" @(" @(" @(" @(" @("
+M @(" @,# @(# @(" P0# P,#! 0$ @,$! 0$! ,$! ,! @(" @(" @(" @,"
+M @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# __$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( &4 9@,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /W\_P _E1^@;>0=/PH_ -OD)T_STQ1^%@_0@GN8+6*2>>:*
+M"&%2\DLKK'%&BC+-)(Y"HH Y)--+Y6,:M>G0BY3DHJ.[;LE\^A\L_$+]M#X
+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
+)C\,4!MY6/__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

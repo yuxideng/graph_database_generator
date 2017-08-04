@@ -1,0 +1,892 @@
+{
+  "relationships": [
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Schulman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Schulman", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "HAMILTON AVENUE", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg2": "Daniel H. Schulman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Daniel H. Schulman", 
+      "arg2": "PayPal", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Marketplaces", 
+      "arg2": "Devin N. Wenig", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Devin N. Wenig", 
+      "arg2": "eBay Marketplaces", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Marcus", 
+      "arg1Id": "Q938785", 
+      "arg2": "PayPal", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg2": "Mr. Marcus", 
+      "arg2Id": "Q938785", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Fords", 
+      "predicate": "Person Parents", 
+      "predicateId": "PER-PARENTS"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr.\n      Anderson", 
+      "arg1Id": "Q297240", 
+      "arg2": "Apple Inc.", 
+      "arg2Id": "Q312", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr.\n      Anderson", 
+      "arg1Id": "Q297240", 
+      "arg2": "Board of Trustees", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr.\n      Anderson", 
+      "arg1Id": "Q297240", 
+      "arg2": "Whittier College", 
+      "arg2Id": "Q7996868", 
+      "confidence": 0.7809450030326843, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Mr.\n      Anderson", 
+      "arg1Id": "Q297240", 
+      "arg2": "Whittier College", 
+      "arg2Id": "Q7996868", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Edward W. Barnholt", 
+      "arg2": "KLA-Tencor Corporation", 
+      "arg2Id": "Q624649", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Bates", 
+      "arg2": "Skype Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Bates", 
+      "arg2": "Cisco Systems, Inc.", 
+      "arg2Id": "Q173395", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Icahn Capital LP", 
+      "arg2": "Christodoros", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Christodoros", 
+      "arg2": "Icahn Capital LP", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Icahn Capital LP", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Icahn Capital LP", 
+      "arg2": "Jonathan Christodoro", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Prentice Capital Management, LP", 
+      "arg2": "S.A.C. Capital Advisors, LP", 
+      "arg2Id": "Q24259670", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Morgan Stanley", 
+      "arg2Id": "Q334204", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "confidence": 0.5642690062522888, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "University of Pennsylvanias Wharton School of Business", 
+      "arg2Id": "Q1329269", 
+      "confidence": 0.7343710660934448, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "University of Pennsylvanias Wharton School of Business", 
+      "arg2Id": "Q1329269", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Finance and Entrepreneurial Management", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Applied Economics and Management Magna", 
+      "confidence": 0.6636626124382019, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Applied Economics and Management Magna", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "Cornell University", 
+      "arg2Id": "Q49115", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan Christodoro", 
+      "arg2": "United States Marine Corps", 
+      "arg2Id": "Q11218", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Scott D. Cook", 
+      "arg2": "Intuit Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Scott D. Cook", 
+      "arg2": "Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Scott D. Cook", 
+      "arg2": "University of Southern California", 
+      "arg2Id": "Q4614", 
+      "confidence": 0.6817717552185059, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Scott D. Cook", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "confidence": 0.5206398963928223, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Bain\n      & Company", 
+      "arg1Id": "Q764850", 
+      "arg2": "Donahoe", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "Bain\n      & Company", 
+      "arg2Id": "Q764850", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg2": "Donahoe", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "PayPal", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "Donahoe", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "Dartmouth College", 
+      "arg2Id": "Q49116", 
+      "confidence": 0.8304352164268494, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Donahoe", 
+      "arg2": "Dartmouth College", 
+      "arg2Id": "Q49116", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Board", 
+      "arg2": "David W. Dorman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "AT&T Corporation", 
+      "arg1Id": "Q2843047", 
+      "arg2": "David W. Dorman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "AT&T Corporation", 
+      "arg2Id": "Q2843047", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "Georgia Institute of Technology", 
+      "confidence": 0.7310022711753845, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "Georgia Institute of Technology", 
+      "confidence": 0.7429955005645752, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "David W. Dorman", 
+      "arg2": "Georgia Institute of Technology", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "NBCUniversal Cable Entertainment", 
+      "arg2": "Bonnie S. Hammer", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Bonnie S. Hammer", 
+      "arg2": "NBCUniversal Cable Entertainment", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Bonnie S. Hammer", 
+      "arg2": "Universal Cable Productions", 
+      "arg2Id": "Q7893895", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Universal Cable Productions", 
+      "arg1Id": "Q7893895", 
+      "arg2": "Bonnie S. Hammer", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "NBCUniversal Cable Entertainment and Cable Studios", 
+      "arg1Id": "Q6952747", 
+      "arg2": "Bonnie S. Hammer", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Bonnie S. Hammer", 
+      "arg2": "NBCUniversal Cable Entertainment and Cable Studios", 
+      "arg2Id": "Q6952747", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Bonnie S. Hammer", 
+      "arg2": "Syfy", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Syfy", 
+      "arg2": "Bonnie S. Hammer", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "American Red Cross", 
+      "arg2": "Gail J. McGovern", 
+      "arg2Id": "Q5517101", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gail J. McGovern", 
+      "arg1Id": "Q5517101", 
+      "arg2": "American Red Cross", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gail J. McGovern", 
+      "arg1Id": "Q5517101", 
+      "arg2": "Harvard\n      Business School", 
+      "arg2Id": "Q49126", 
+      "confidence": 0.9074505567550659, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Gail J. McGovern", 
+      "arg1Id": "Q5517101", 
+      "arg2": "Harvard\n      Business School", 
+      "arg2Id": "Q49126", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fidelity Personal Investments", 
+      "arg2": "Fidelity Investments", 
+      "arg2Id": "Q1411292", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Gail J. McGovern", 
+      "arg1Id": "Q5517101", 
+      "arg2": "Johns Hopkins University", 
+      "arg2Id": "Q193727", 
+      "confidence": 0.790625810623169, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Johns Hopkins Medicine", 
+      "arg1Id": "Q858729", 
+      "arg2": "Johns Hopkins University", 
+      "arg2Id": "Q193727", 
+      "confidence": 0.8291252851486206, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Johns Hopkins Medicine", 
+      "arg1Id": "Q858729", 
+      "arg2": "DTE Energy", 
+      "arg2Id": "Q5206232", 
+      "confidence": 0.6420691609382629, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Gail J. McGovern", 
+      "arg1Id": "Q5517101", 
+      "arg2": "Johns Hopkins University", 
+      "arg2Id": "Q193727", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kathleen C. Mitic", 
+      "arg2": "Global Platform & Mobile Marketing", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Global Platform & Mobile Marketing", 
+      "arg2": "Kathleen C. Mitic", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kathleen C. Mitic", 
+      "arg2": "Stanford University", 
+      "arg2Id": "Q41506", 
+      "confidence": 0.827227771282196, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Kathleen C. Mitic", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "confidence": 0.7229325175285339, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "David M. Moffett", 
+      "arg1Id": "Q5236947", 
+      "arg2": "Star Banc Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "David M. Moffett", 
+      "arg1Id": "Q5236947", 
+      "arg2": "Star Banc Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "David M. Moffett", 
+      "arg1Id": "Q5236947", 
+      "arg2": "Board of Directors of CIT Group Inc.", 
+      "arg2Id": "Q1023765", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas J. Tierney", 
+      "arg1Id": "Q21064349", 
+      "arg2": "Harvard", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Harvard", 
+      "arg2": "Thomas J. Tierney", 
+      "arg2Id": "Q21064349", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Business School Initiative on Social Enterprise", 
+      "arg2": "Harvard", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Thomas J. Tierney", 
+      "arg1Id": "Q21064349", 
+      "arg2": "Hoover Institution", 
+      "arg2Id": "Q1147088", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas J. Tierney", 
+      "arg1Id": "Q21064349", 
+      "arg2": "Harvard\n      Business School", 
+      "arg2Id": "Q49126", 
+      "confidence": 0.888948917388916, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Traquina", 
+      "arg2": "Brandeis University", 
+      "arg2Id": "Q49119", 
+      "confidence": 0.8815001249313354, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Traquina", 
+      "arg2": "Brandeis University", 
+      "arg2Id": "Q49119", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "ExperienceFrank D. Yeary", 
+      "arg2": "University", 
+      "confidence": 0.7327333688735962, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "ExperienceFrank D. Yeary", 
+      "arg2": "University", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "University", 
+      "arg2": "ExperienceFrank D. Yeary", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "ExperienceFrank D. Yeary", 
+      "arg2": "University of California, Berkeley", 
+      "arg2Id": "Q168756", 
+      "confidence": 0.6998983025550842, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "ExperienceFrank D. Yeary", 
+      "arg2": "University of California, Berkeley", 
+      "arg2Id": "Q168756", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Claudia Goldin", 
+      "arg1Id": "Q1097475", 
+      "arg2": "Harvard University", 
+      "arg2Id": "Q13371", 
+      "confidence": 0.8826825618743896, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Claudia Goldin", 
+      "arg1Id": "Q1097475", 
+      "arg2": "Harvard University", 
+      "arg2Id": "Q13371", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John J. Donahoe", 
+      "arg1Id": "Q267074", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Inc.", 
+      "arg2": "John J. Donahoe", 
+      "arg2Id": "Q267074", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Womens Initiative Network", 
+      "arg2": "John J. Donahoe", 
+      "arg2Id": "Q267074", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Elizabeth L. Axelrod", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Michael R. Jacobson", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Alan L. Marks", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Daniel H. Schulman", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert H. Swan", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Devin N. Wenig", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Reuters", 
+      "arg2": "Thomson Reuters Inc.", 
+      "arg2Id": "Q1141267", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Daniel H. Schulman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Daniel H. Schulman", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Dan Schulman", 
+      "arg2Id": "Q5214356", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Dan Schulman", 
+      "arg1Id": "Q5214356", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Dan Schulman", 
+      "arg1Id": "Q5214356", 
+      "arg2": "Spin", 
+      "arg2Id": "Q1025912", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Dan Schulman", 
+      "arg1Id": "Q5214356", 
+      "arg2": "Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Devin N. Wenig", 
+      "arg2": "eBay Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Devin N. Wenig", 
+      "arg2": "Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay\nMarketplaces", 
+      "arg1Id": "Q58024", 
+      "arg2": "Devin N. Wenig", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Devin N. Wenig", 
+      "arg2": "eBay\nMarketplaces", 
+      "arg2Id": "Q58024", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Daniel H. Schulman", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Devin N. WenigPresident", 
+      "arg2": "eBay Marketplacesand", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "eBay Marketplacesand", 
+      "arg2": "Devin N. WenigPresident", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "General", 
+      "arg2": "Michael R. JacobsonSenior", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Michael R. JacobsonSenior", 
+      "arg2": "General", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Marcus", 
+      "arg1Id": "Q938785", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Mr. Marcus", 
+      "arg2Id": "Q938785", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Dan Schulman", 
+      "arg2Id": "Q5214356", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Dan Schulman", 
+      "arg1Id": "Q5214356", 
+      "arg2": "PayPal", 
+      "arg2Id": "Q483959", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Yeary", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "McGovern", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hammer", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Christodoro", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Traquina", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Bates", 
+      "arg2": "eBay Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "414", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:49:53 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "77f933b05f9841f0ae7c86b8d70a8acb", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

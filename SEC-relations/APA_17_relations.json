@@ -1,0 +1,160 @@
+{
+  "relationships": [
+    {
+      "arg1": "Patricia\n    Albjerg Graham", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Radcliffe Institute", 
+      "arg1Id": "Q7280030", 
+      "arg2": "Patricia\n    Albjerg Graham", 
+      "arg2Id": "Q7145605", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Patricia\n    Albjerg Graham", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "confidence": 0.825992226600647, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Patricia\n    Albjerg Graham", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "confidence": 0.7562205791473389, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Patricia\n    Albjerg Graham", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Northwestern Mutual", 
+      "arg2Id": "Q1630166", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "Amoco Corporation", 
+      "arg2Id": "Q465952", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Amoco Corporation", 
+      "arg1Id": "Q465952", 
+      "arg2": "CHARLES J. PITMAN", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "United States Department of State", 
+      "arg2Id": "Q789915", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Executive Committee", 
+      "arg2": "Raymond Plank", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Arthur Andersen LLP", 
+      "arg1Id": "Q392730", 
+      "arg2": "REBECCA A. HOYT", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "REBECCA A. HOYT", 
+      "arg2": "Arthur Andersen LLP", 
+      "arg2Id": "Q392730", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "North America", 
+      "arg2Id": "Q49", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Steven Farris", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Steven Farris", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "United States", 
+      "arg2Id": "Q30", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "George D. Lawrence", 
+      "arg2": "Management Development", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Kocur", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Ernst & Young LLP", 
+      "arg2Id": "Q489097", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "411", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:30:05 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "c48bb0da99d7f2a5bf15d65de2ed765d", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

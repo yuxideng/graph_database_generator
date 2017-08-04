@@ -1,0 +1,16 @@
+{
+  "relationships": [], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "20", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:08:34 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "9665ae133f3fa3ed027bc86c731e7b98", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

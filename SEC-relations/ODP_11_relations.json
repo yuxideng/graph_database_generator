@@ -1,0 +1,1032 @@
+{
+  "relationships": [
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "Justin Bateman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "firms New York office", 
+      "arg1Id": "Q60", 
+      "arg2": "Justin Bateman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "firms New York office", 
+      "arg2Id": "Q60", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "firms New York office", 
+      "arg2Id": "Q60", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "PricewaterhouseCoopers LLP", 
+      "arg2Id": "Q488048", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "PricewaterhouseCoopers LLP", 
+      "arg2Id": "Q488048", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "PricewaterhouseCoopers LLP", 
+      "arg1Id": "Q488048", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "MBA", 
+      "arg2Id": "Q191701", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Justin Bateman", 
+      "arg2": "Intelsat", 
+      "arg2Id": "Q778126", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Intelsat", 
+      "arg1Id": "Q778126", 
+      "arg2": "Justin Bateman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Wharton Schools Aresty\nInstitute of Executive", 
+      "confidence": 0.5202444195747375, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Wharton Schools Aresty\nInstitute of Executive", 
+      "confidence": 0.580402135848999, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Wharton Schools Aresty\nInstitute of Executive", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Wharton Schools Aresty\nInstitute of Executive", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Duke Corporate Education", 
+      "arg1Id": "Q5312753", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Duke Corporate Education", 
+      "arg2Id": "Q5312753", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Duke Corporate Education", 
+      "arg1Id": "Q5312753", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "PricewaterhouseCoopers LLP", 
+      "arg1Id": "Q488048", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "PricewaterhouseCoopers LLP", 
+      "arg2Id": "Q488048", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Duke Corporate Education", 
+      "arg2Id": "Q5312753", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "CNH Global", 
+      "arg2Id": "Q695329", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "International, Inc.", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "CNH Global", 
+      "arg1Id": "Q695329", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "International, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Plough Corporation", 
+      "arg1Id": "Q249723", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Plough Corporation", 
+      "arg2Id": "Q249723", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marsha J. Evans", 
+      "arg1Id": "Q2225296", 
+      "arg2": "U.S. Navy", 
+      "arg2Id": "Q11220", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marsha J. Evans", 
+      "arg1Id": "Q2225296", 
+      "arg2": "Naval Postgraduate School", 
+      "arg2Id": "Q1515048", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marsha J. Evans", 
+      "arg1Id": "Q2225296", 
+      "arg2": "Huntsman Corporation", 
+      "arg2Id": "Q851361", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Huntsman Corporation", 
+      "arg1Id": "Q851361", 
+      "arg2": "Marsha J. Evans", 
+      "arg2Id": "Q2225296", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David I. Fuente", 
+      "arg2": "Office Depot", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Office Depot", 
+      "arg2": "David I. Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "G\n100", 
+      "arg2": "David I. Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David I. Fuente", 
+      "arg2": "G\n100", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Dicks Sporting Goods", 
+      "arg1Id": "Q5272601", 
+      "arg2": "David I. Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David I. Fuente", 
+      "arg2": "Dicks Sporting Goods", 
+      "arg2Id": "Q5272601", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ryder System, Inc.", 
+      "arg1Id": "Q2178198", 
+      "arg2": "David I. Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David I. Fuente", 
+      "arg2": "Ryder System, Inc.", 
+      "arg2Id": "Q2178198", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "Citigroup", 
+      "arg2Id": "Q219508", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "North America", 
+      "arg2Id": "Q49", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Tenet Healthcare Corporation", 
+      "arg1Id": "Q3518066", 
+      "arg2": "Brenda J. Gaines", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "Tenet Healthcare Corporation", 
+      "arg2Id": "Q3518066", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "NICOR, Inc.", 
+      "arg2": "Brenda J. Gaines", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Smithsonian Institution", 
+      "arg1Id": "Q131626", 
+      "arg2": "Brenda J. Gaines", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "NICOR, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Federal National Mortgage Association", 
+      "arg1Id": "Q621096", 
+      "arg2": "Brenda J. Gaines", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "Smithsonian Institution", 
+      "arg2Id": "Q131626", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "Federal National Mortgage Association", 
+      "arg2Id": "Q621096", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "CNA Financial Corp.", 
+      "arg2Id": "Q5013072", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "March of Dimes", 
+      "arg2Id": "Q751572", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CNA Financial Corp.", 
+      "arg1Id": "Q5013072", 
+      "arg2": "Brenda J. Gaines", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Harvard", 
+      "arg2Id": "Q13371", 
+      "confidence": 0.658009946346283, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Harvard Business School", 
+      "arg2Id": "Q49126", 
+      "confidence": 0.8688827157020569, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Harvard Business School", 
+      "arg2Id": "Q49126", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Babson College", 
+      "arg2Id": "Q650167", 
+      "confidence": 0.9045366048812866, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Stanford University", 
+      "arg2Id": "Q41506", 
+      "confidence": 0.9606754183769226, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Stanford University", 
+      "arg2Id": "Q41506", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Babson College", 
+      "arg2Id": "Q650167", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Summer Infant", 
+      "arg2": "Myra M. Hart", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Kraft Foods, Inc.", 
+      "arg2Id": "Q327751", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Nina McLemore, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Nina McLemore, Inc.", 
+      "arg2": "Myra M. Hart", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Summer Infant", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kraft Foods, Inc.", 
+      "arg1Id": "Q327751", 
+      "arg2": "Myra M. Hart", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Smithsonian Institution", 
+      "arg2Id": "Q131626", 
+      "confidence": 0.6574065685272217, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Smithsonian Institution", 
+      "arg2Id": "Q131626", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Cornell University", 
+      "arg2Id": "Q49115", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Harts", 
+      "arg2": "Staples, Inc.", 
+      "arg2Id": "Q785943", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Office Club,\nInc.", 
+      "arg2": "W. Scott Hedrick", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "W. Scott Hedrick", 
+      "arg2": "Office Club,\nInc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Office Club,\nInc.", 
+      "arg2": "Office Depot", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "W. Scott Hedrick", 
+      "arg2": "Topic, Inc.", 
+      "arg2Id": "Q9294032", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Topic, Inc.", 
+      "arg1Id": "Q9294032", 
+      "arg2": "W. Scott Hedrick", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kathleen Mason", 
+      "arg2": "Morning Corporation", 
+      "arg2Id": "Q7851426", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Morning Corporation", 
+      "arg1Id": "Q7851426", 
+      "arg2": "Kathleen Mason", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "HomeGoods", 
+      "arg1Id": "Q5887941", 
+      "arg2": "Kathleen Mason", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "HomeGoods", 
+      "arg1Id": "Q5887941", 
+      "arg2": "TJX Companies", 
+      "arg2Id": "Q1285819", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Kathleen Mason", 
+      "arg2": "HomeGoods", 
+      "arg2Id": "Q5887941", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kathleen Mason", 
+      "arg2": "Cherry & Webb", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Cherry & Webb", 
+      "arg2": "Kathleen Mason", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "May Company", 
+      "arg1Id": "Q7750720", 
+      "arg2": "Mervyns", 
+      "arg2Id": "Q6820949", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Kathleen Mason", 
+      "arg2": "May Company", 
+      "arg2Id": "Q7750720", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kaufmanns", 
+      "arg1Id": "Q14505904", 
+      "arg2": "Mervyns", 
+      "arg2Id": "Q6820949", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Mervyns", 
+      "arg1Id": "Q6820949", 
+      "arg2": "Target, Inc.", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Kaufmanns", 
+      "arg1Id": "Q14505904", 
+      "arg2": "Target, Inc.", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Kaufmanns", 
+      "arg1Id": "Q14505904", 
+      "arg2": "May Company", 
+      "arg2Id": "Q7750720", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Kathleen Mason", 
+      "arg2": "Kaufmanns", 
+      "arg2Id": "Q14505904", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "May Company", 
+      "arg1Id": "Q7750720", 
+      "arg2": "Target, Inc.", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "James S. Rubin", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "One Equity Partners", 
+      "arg1Id": "Q2023975", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "James S. Rubin", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James S. Rubin", 
+      "arg2": "One Equity Partners", 
+      "arg2Id": "Q2023975", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "One Equity Partners", 
+      "arg1Id": "Q2023975", 
+      "arg2": "James S. Rubin", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "One Equity Partners", 
+      "arg2Id": "Q2023975", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Rubin originated", 
+      "arg2": "ATI Enterprises", 
+      "arg2Id": "Q4654687", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Raymond Svider", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "Raymond Svider", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Raymond Svider", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Raymond Svider", 
+      "arg2": "London", 
+      "arg2Id": "Q84", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Raymond Svider", 
+      "arg2": "BC Partners", 
+      "arg2Id": "Q195515", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "BC Partners", 
+      "arg1Id": "Q195515", 
+      "arg2": "Raymond Svider", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Corporate Governance and Nominating Committee", 
+      "arg2": "Board", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Corporate Governance and Nominating Committee", 
+      "arg2": "Board", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Company\nInformation/Investor Relations", 
+      "arg2": "Corporate Governance and Nominating Committee", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Corporate Governance and Nominating Committee", 
+      "arg2": "Board\nof Directors", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "James S. Rubin", 
+      "arg1Id": "Q2895240", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James S. Rubin", 
+      "arg1Id": "Q2895240", 
+      "arg2": "Finance Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James S. Rubin", 
+      "arg1Id": "Q2895240", 
+      "arg2": "Corporate Governance and Nominating Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Raymond Svider", 
+      "arg2": "Finance Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corporate Governance and Nominating", 
+      "arg2": "Board\nof Directors", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Audit Committee", 
+      "arg2": "Thomas J. Colligan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Thomas J. Colligan", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corporate Governance and Nominating Committee", 
+      "arg2": "W. Scott Hedrick", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "W. Scott Hedrick", 
+      "arg2": "Corporate Governance and Nominating Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Compensation Committee", 
+      "arg2": "Hay Group", 
+      "arg2Id": "Q4179239", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Michael Newman", 
+      "arg2": "Retention Agreement", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Odland", 
+      "arg2": "Amended Employment Agreement", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Odlands", 
+      "arg2": "Peer Group", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Michael Newman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Michael Newman", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Charles Brown", 
+      "arg2": "International Division", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "International Division", 
+      "arg2": "Charles Brown", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "North American Retail Division", 
+      "arg1Id": "Q30", 
+      "arg2": "Kevin Peters", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kevin Peters", 
+      "arg2": "North American Retail Division", 
+      "arg2Id": "Q30", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Steve Odland", 
+      "arg1Id": "Q7613499", 
+      "arg2": "COBRA", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Investor Rights Agreement", 
+      "arg2": "BC Partners", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Office Depot", 
+      "arg1Id": "Q1337797", 
+      "arg2": "David Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David Fuente", 
+      "arg2": "Office Depot", 
+      "arg2Id": "Q1337797", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "David Fuente", 
+      "arg2": "Office Depot", 
+      "arg2Id": "Q1337797", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Office Depot", 
+      "arg1Id": "Q1337797", 
+      "arg2": "David Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Michael Newman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Michael Newman", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Charles Brown", 
+      "arg2": "Executive Employment Agreement", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "International Division", 
+      "arg2": "Browns", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Browns", 
+      "arg2": "International Division", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin Peters", 
+      "arg2": "American Retail Division", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Steven Schmidt", 
+      "arg1Id": "Q7615246", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Steven Schmidt", 
+      "arg2Id": "Q7615246", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Steve Odland", 
+      "arg1Id": "Q7613499", 
+      "arg2": "Companys Chair", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Steve Odland", 
+      "arg1Id": "Q7613499", 
+      "arg2": "COBRA", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CIE", 
+      "arg2": "Gerant", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "CIE", 
+      "arg2": "LMBO", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Gerant", 
+      "arg2": "LMBO", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "BCHL", 
+      "arg1Id": "Q913771", 
+      "arg2": "Schedules II", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Deloitte", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "1774", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 15:00:00 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "88598aa07a7f5973e02bd24cfb0f0847", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "relationships": [
+    {
+      "arg1": "Edward C. Johnson", 
+      "arg2": "Fidelity Management & Research Company", 
+      "arg2Id": "Q1411292", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fidelity Management & Research Company", 
+      "arg1Id": "Q1411292", 
+      "arg2": "Edward C. Johnson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fidelity Management & Research Company", 
+      "arg1Id": "Q1411292", 
+      "arg2": "Edward C. Johnson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Edward C. Johnson", 
+      "arg2": "Fidelity Management & Research Company", 
+      "arg2Id": "Q1411292", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "20", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:08:44 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "58f89a1b7075b08c115822b8ac95f342", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

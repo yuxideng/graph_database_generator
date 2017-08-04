@@ -1,0 +1,291 @@
+{
+  "relationships": [
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Federal\nReserve Bank of New York", 
+      "arg2Id": "Q1384", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte", 
+      "arg2Id": "Q491748", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Deloitte", 
+      "arg1Id": "Q491748", 
+      "arg2": "James H. Quigley", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte", 
+      "arg2Id": "Q491748", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "KKR Management LLC", 
+      "arg1Id": "Q1570773", 
+      "arg2": "KKR & Co. L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Dubilier & Rice, LLC", 
+      "arg1Id": "Q5130145", 
+      "arg2": "GE Energy", 
+      "arg2Id": "Q31830", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Clayton", 
+      "arg2": "Dubilier & Rice, LLC", 
+      "arg2Id": "Q5130145", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "General\nElectric Company", 
+      "arg1Id": "Q1208203", 
+      "arg2": "GE Energy", 
+      "arg2Id": "Q31830", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "GE Energy", 
+      "arg1Id": "Q31830", 
+      "arg2": "Clayton", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Clayton", 
+      "arg2": "General\nElectric Company", 
+      "arg2Id": "Q1208203", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "General\nElectric Company", 
+      "arg1Id": "Q1208203", 
+      "arg2": "Clayton", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Dubilier & Rice, LLC", 
+      "arg1Id": "Q5130145", 
+      "arg2": "Clayton", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Dubilier & Rice, LLC", 
+      "arg1Id": "Q5130145", 
+      "arg2": "General\nElectric Company", 
+      "arg2Id": "Q1208203", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Clayton", 
+      "arg2": "GE Energy", 
+      "arg2Id": "Q31830", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "Hess board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "E&P", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "E&P", 
+      "arg2": "William G. Schrader", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Hess board", 
+      "arg2": "William G. Schrader", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mark R. Williams", 
+      "arg2": "Shell", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mark R. Williams", 
+      "arg2": "Shells E&P", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Federal\nReserve Bank of New York", 
+      "arg2Id": "Q1384", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Caxton Health Holdings, LLC", 
+      "arg2": "Robert N. Wilson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robert N. Wilson", 
+      "arg2": "Caxton Health Holdings, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin O. Meyers", 
+      "arg2": "ConocoPhillips", 
+      "arg2Id": "Q214763", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "TNK-BP", 
+      "arg2Id": "Q2298901", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mark R. Williams", 
+      "arg2": "Royal Dutch Shell plc", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CBS\nCorporation", 
+      "arg1Id": "Q950380", 
+      "arg2": "Fredric G. Reynolds", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fredric G. Reynolds", 
+      "arg2": "CBS\nCorporation", 
+      "arg2Id": "Q950380", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert N. Wilson", 
+      "arg2": "Management Development Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Edith E.\nHoliday", 
+      "arg2": "Corporate Governance and Nominating Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin O. Meyers", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Edith E.\nHoliday", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Rodney F. Chase", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Harvey Golub", 
+      "arg1Id": "Q5677222", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fredric G. Reynolds", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas H. Kean", 
+      "arg1Id": "Q436412", 
+      "arg2": "Hess Foundation, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "F. Borden Walker", 
+      "arg2": "Marketing & Refining", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marketing & Refining", 
+      "arg2": "F. Borden Walker", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Messrs. Hill", 
+      "arg2": "Royal Dutch Shell", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "676", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:10:19 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "3e042f9ece6855684cbe065ecd854a99", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

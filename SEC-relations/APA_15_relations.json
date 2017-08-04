@@ -1,0 +1,108 @@
+{
+  "relationships": [
+    {
+      "arg1": "FREDERICK M. BOHEN", 
+      "arg2": "Rockefeller University", 
+      "arg2Id": "Q270272", 
+      "confidence": 0.8758818507194519, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "EnCap Investments", 
+      "arg1Id": "Q16992548", 
+      "arg2": "EUGENE C. FIEDOREK", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "EUGENE C. FIEDOREK", 
+      "arg2": "EnCap Investments", 
+      "arg2Id": "Q16992548", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Harvard\n    University", 
+      "arg2Id": "Q13371", 
+      "confidence": 0.7885751724243164, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Harvard\n    University", 
+      "arg2Id": "Q13371", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "BP Amoco plc", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Kocur", 
+      "arg2": "CG&N", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Swift Energy", 
+      "arg2": "JON W. SAUER", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JON W. SAUER", 
+      "arg2": "Swift Energy", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "George D. Lawrence", 
+      "arg2": "Management Development", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Kocur", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mark Box", 
+      "arg2": "Apache Corporation", 
+      "arg2Id": "Q119991", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "423", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:30:56 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "a67001cea36daf8c32af0307cf56b574", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

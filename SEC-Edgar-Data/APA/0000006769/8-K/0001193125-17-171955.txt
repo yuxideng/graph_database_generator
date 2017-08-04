@@ -1,0 +1,1287 @@
+<SEC-DOCUMENT>0001193125-17-171955.txt : 20170516
+<SEC-HEADER>0001193125-17-171955.hdr.sgml : 20170516
+<ACCEPTANCE-DATETIME>20170516145003
+ACCESSION NUMBER:		0001193125-17-171955
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20170511
+ITEM INFORMATION:		Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year
+ITEM INFORMATION:		Submission of Matters to a Vote of Security Holders
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170516
+DATE AS OF CHANGE:		20170516
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APACHE CORP
+		CENTRAL INDEX KEY:			0000006769
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				410747868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04300
+		FILM NUMBER:		17848289
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 POST OAK BLVD
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056-4400
+		BUSINESS PHONE:		7132966000
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 POST OAK BLVD
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056-4400
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APACHE OIL CORP
+		DATE OF NAME CHANGE:	19660830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d399881d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): May&nbsp;11, 2017 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>APACHE CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-4300</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>41-0747868</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2000 Post Oak Boulevard, Suite 100 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Houston, Texas 77056-4400 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code: (713)&nbsp;296-6000 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Emerging growth company&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;5.03. Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On May&nbsp;11, 2017, the board of directors (the &#147;Board&#148;) of Apache Corporation (&#147;Apache&#148;) amended Apache&#146;s Bylaws (the
+&#147;Bylaws&#148;), effective immediately, to provide that the Board shall annually elect the chief executive officer, president, one or more executive vice presidents, each other executive &#147;officer&#148; for purposes of Section&nbsp;16 of the
+Securities Exchange Act of 1934, as amended, secretary, controller, treasurer and head of internal audit and to make other non-substantive language and conforming changes and other technical edits. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The foregoing description of the amendments to the Bylaws does not purport to be complete and is qualified in its entirety by reference to the Bylaws, as
+amended, a copy of which is filed herewith as Exhibit 3.1 and incorporated herein by reference. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;5.07 Submission of Matters to a Vote of
+Security Holders. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">At the annual meeting of stockholders of Apache held on May&nbsp;11, 2017, there were 380,434,058 shares of Apache common stock, par
+value $0.625 per share, eligible to vote, of which 348,289,350 shares, or 91.55 percent, were voted. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The matters voted upon, the number of votes cast for
+or against, as well as the number of abstentions and broker non-votes as to such matters, were as stated below: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The following nominees for directors were elected to serve one-year terms expiring at the 2018 annual meeting of stockholders, by the majority of shares voted, excluding abstentions: </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="59%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:30.20pt; font-size:8pt; font-family:Times New Roman"><B>Nominee</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>For</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Against</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Abstentions</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Broker Non-<BR>Votes</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Annell R. Bay</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,285,055</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,716,684</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">614,658</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">John J. Christmann IV</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,669,669</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,464,223</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">482,505</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Chansoo Joung</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,293,536</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,705,709</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">617,152</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">William C. Montgomery</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">311,641,653</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">3,357,126</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">617,618</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Amy H. Nelson</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,103,930</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,903,287</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">609,180</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Daniel W. Rabun</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,817,561</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,182,159</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">616,677</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Peter A. Ragauss</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">312,717,526</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,269,952</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">628,919</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,672,953</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The appointment of Ernst&nbsp;&amp; Young LLP as Apache&#146;s independent auditors for fiscal year 2017 was ratified by the majority of shares voted, including abstentions: </TD></TR></TABLE>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="21%"></TD>
+<TD VALIGN="bottom" WIDTH="21%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="21%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="21%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:12.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>For</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Against</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Abstentions</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B><FONT STYLE="white-space:nowrap">Broker&nbsp;Non-Votes</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" ALIGN="center">345,035,395</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">2,653,909</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">600,046</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">0</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">In a non-binding advisory vote to approve the compensation of Apache&#146;s named executive officers as disclosed in Apache&#146;s 2017 proxy statement (commonly known as &#147;say on pay&#148;), the compensation of
+Apache&#146;s named executive officers was approved by the majority of shares voted, including abstentions: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="84%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="21%"></TD>
+<TD VALIGN="bottom" WIDTH="18%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="18%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="18%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:12.45pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>For</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Against</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Abstentions</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B><FONT STYLE="white-space:nowrap">Broker&nbsp;Non-Votes</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" ALIGN="center">301,533,942</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">13,309,702</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">769,157</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,676,549</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="5%">&nbsp;</TD>
+<TD WIDTH="2%" VALIGN="top" ALIGN="left">&#149;</TD>
+<TD WIDTH="1%" VALIGN="top">&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top">The frequency of &#147;one year&#148; for future non-binding advisory votes to approve the compensation of Apache&#146;s named executive officers (commonly known as &#147;say when on pay&#148;) was approved by a
+plurality of shares voted, including abstentions: </TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="92%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="22%"></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="12%"></TD>
+<TD></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:22.90pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>1 Year</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>2 Years</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>3 Years</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Abstentions</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1.00pt solid #000000"><B>Broker Non-<BR>Votes</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR>
+
+
+<TR BGCOLOR="#cceeff" STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" ALIGN="center">294,874,319</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">707,229</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">19,502,237</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">532,116</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">32,673,449</TD>
+<TD NOWRAP VALIGN="bottom">&nbsp;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; margin-left:8%; font-size:10pt; font-family:Times New Roman">After the annual meeting, the Board considered the outcome of this vote and determined that Apache will hold
+future non-binding advisory votes to approve the compensation of Apache&#146;s named executive officers every year until the Board otherwise determines that a different frequency for such non-binding advisory vote is in the best interest of Apache
+or until the next required vote on the frequency of such votes. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:4%; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;9.01 Financial Statements and Exhibits. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center">Exhibit&nbsp;No.</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP>Description</TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bylaws of Apache Corporation (as amended May 11, 2017).</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><B>APACHE CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;16, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Rajesh Sharma</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name: Rajesh Sharma</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title: Corporate Secretary</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INDEX TO EXHIBITS </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="8%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.10pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit&nbsp;No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Bylaws of Apache Corporation (as amended May 11, 2017).</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>d399881dex31.htm
+<DESCRIPTION>EX-3.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-3.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 3.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>BYLAWS OF </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>APACHE
+CORPORATION </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(As Amended May&nbsp;11, 2017) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE I. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NAME OF
+CORPORATION </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The name of the corporation is Apache Corporation. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE II. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OFFICES
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. The principal office of the corporation shall be in the City of Wilmington, County of New Castle, State of Delaware, and
+the name of its resident agent in charge thereof is The Corporation Trust Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. The corporation may have such other offices
+either within or without the State of Delaware as the board of directors may designate or as the business of the corporation may from time to time require. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE III. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SEAL
+</B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The corporate seal shall have inscribed upon it the name of the corporation and other designations as the board of directors from
+time to time determine. There may be alternate seals of the corporation. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE IV. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>MEETINGS OF STOCKHOLDERS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. PLACE OF MEETINGS. All meetings of the stockholders of the corporation shall be held at the office of the corporation in the City
+of Houston, Texas, or at any other place within or without the State of Delaware that shall be stated in the notice of the meeting. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. ANNUAL MEETINGS. The annual meeting of stockholders of the corporation shall be held
+at the place and time within or without the State of Delaware that may be designated by the board of directors, on the last Thursday in April in each year or on such other date as may be designated by the board of directors, if not a legal holiday,
+and if a legal holiday, then at the same time on the next succeeding business day for the purpose of electing directors and for the transaction of any other business that may properly come before the meeting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. SPECIAL MEETINGS OF THE STOCKHOLDERS. Special meetings of the stockholders of the corporation, for any purpose or purposes, unless
+otherwise prescribed by statute, may be called by the (i)&nbsp;chairman of the board or the chief executive officer, (ii)&nbsp;chairman of the board, chief executive officer, or secretary at the request in writing of a majority of the board of
+directors or (iii)&nbsp;chairman of the board or the secretary of the corporation at the written request in proper form of one or more stockholders of record of the corporation (acting on their own behalf and not by assigning or delegating their
+rights to any other person or entity) that together have continuously held, for their own accounts, beneficial ownership of at least fifteen percent (15%)&nbsp;aggregate net long position in the issued and outstanding voting stock of the corporation
+entitled to vote generally for the election of directors (the &#147;requisite percent&#148;) for at least three continuous years prior to the date such request is delivered to the corporation and at the meeting date, provided that, each such
+stockholder shall have held, for their own accounts, beneficial ownership of not less than ten thousand (the &#147;minimum ownership&#148;) and not more than ten percent (10%)&nbsp;(the &#147;maximum ownership&#148;) of the issued and outstanding
+voting stock of the corporation entitled to vote generally for the election of directors. For purposes of determining the requisite percent, &#147;net long position&#148; shall be determined with respect to each requesting stockholder in accordance
+with the definition thereof set forth in Rule 14e-4 under the Securities Exchange Act of 1934, as amended, provided that (i)&nbsp;for the purposes of such definition, reference in such rule to (A)&nbsp;&#147;the date the tender offer is first
+publicly announced or otherwise made known by the bidder to the holders of the security to be acquired&#148; shall be the date of the relevant special meeting request, (B)&nbsp;the &#147;highest tender offer price or stated amount of the
+consideration offered for the subject security&#148; shall refer to the closing sales price of the corporation&#146;s common stock on the NYSE on such date (or, if such date is not a trading day, the next succeeding trading day), (C)&nbsp;the
+&#147;person whose securities are the subject of the offer&#148; shall refer to the corporation, (D)&nbsp;a &#147;subject security&#148; shall refer to the issued and outstanding voting stock of the corporation; and (ii)&nbsp;the net long position
+of such stockholder shall be reduced by the number of shares as to which such stockholder does not, or will not, have the right to vote on its own behalf at the special meeting or as to which such stockholder has entered into any derivative or other
+agreement, arrangement, or understanding that hedges or transfers, in whole or in part, directly or indirectly, any of the economic consequences of ownership of such shares. Whether the requesting stockholders have complied with the requirements of
+this Section&nbsp;3 and related provisions of the bylaws shall be determined in good faith by the board of directors, which determination shall be conclusive and binding on the corporation and the stockholders. In order for a special meeting upon
+stockholder request (a &#147;stockholder requested special meeting&#148;) to be called, one or </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+more requests for a special meeting (each, a &#147;special meeting request,&#148; and collectively, the &#147;special meeting requests&#148;) must be signed by the stockholders of the corporation
+holding the requisite percent of the voting stock of the corporation and must be delivered to the secretary at the principal executive offices of the corporation by registered mail, return receipt requested; provided, however, that no stockholder
+requested special meeting shall be called pursuant to any special meeting request unless one or more special meeting requests relating to such meeting constituting the requisite percent have been delivered to the secretary in compliance with all of
+the requirements of this Section&nbsp;3 within 60 days of the earliest dated special meeting request in respect of such stockholder requested special meeting. The special meeting request(s) shall (i)&nbsp;set forth the name and address, as they
+appear on the corporation&#146;s books, of each stockholder of the corporation signing such request, (ii)&nbsp;state the specific purpose or purposes of the special meeting, the matter or matters proposed to be acted on at the special meeting, the
+reasons for conducting such business at the special meeting, and the text of any proposal or business to be considered at the special meeting (including the text of any resolutions proposed to be considered and, in the event that such business
+includes a proposal to amend these bylaws, the language of the proposed amendment, which language shall be contained in the notice of special meeting as required by Article XIII, Section&nbsp;1 (Amendments), hereof), (iii)&nbsp;bear the date of
+signature of each such stockholder signing the special meeting request, (iv)&nbsp;provide documentary evidence that the stockholder(s) requesting the special meeting own the requisite percent and not less than the minimum ownership and not more than
+the maximum ownership as of the date on which the special meeting request(s) constituting the requisite percent are delivered to the secretary and attach a notarized affidavit swearing to the net long position of such stockholder(s),
+(v)&nbsp;provide a representation by each stockholder signing the special meeting request that such stockholder intends to appear in person at the stockholder requested special meeting and is entitled to vote thereon, (vi)&nbsp;provide a
+representation by each stockholder signing the special meeting request that such stockholder intends to continue ownership of such shares through the date of the special meeting, and (vii)&nbsp;if applicable, include any additional information
+required by ARTICLE IV, Section&nbsp;13 (Notice of Stockholder Nominees) hereof. Any requesting stockholder may revoke its special meeting request at any time by written revocation delivered to the secretary at the principal executive offices of the
+corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In the event of the delivery, in the manner provided in this Section&nbsp;3, to the corporation of the requisite special
+meeting request or requests and/or any related revocation or revocations, the corporation may engage nationally recognized independent inspectors for the purpose of promptly performing a ministerial review of the validity of the requests and
+revocations. For the purpose of permitting the inspectors to perform such review, no special meeting request shall be granted until such date as the independent inspectors certify to the corporation that the requests delivered to the corporation in
+accordance with this Section&nbsp;3, and not revoked, represent at least the minimum number of shares held for the minimum amount of time to call such a stockholder requested special meeting. Nothing contained in this Section&nbsp;3 shall in any way
+be construed to suggest or imply that the board of directors or any stockholder shall not be entitled to contest the validity of any request or revocation thereof, whether before or after such certification by the independent inspectors, or take any
+other action (including, without limitation, the commencement, prosecution, or defense of any litigation with respect thereto, and the seeking of injunctive relief in such litigation). </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Except as provided in the next sentence, any special meeting shall be held at such date and time
+as may be fixed by the board of directors in accordance with these bylaws and in compliance with the General Corporation Law of the State of Delaware. In the case of a stockholder requested special meeting, such meeting shall be held at such date,
+time and place as shall be provided in the notice of such meeting delivered in accordance with Article IV, Section&nbsp;4 below, and the record date for stockholders entitled to notice of and to vote at such meeting shall be determined in accordance
+with Article IV, Section&nbsp;5 below; provided that, except as otherwise provided herein or unless a later date is required in order to allow the corporation to file the information required under Item&nbsp;8 (or any comparable or successor
+provision) of Schedule 14A under the Securities Exchange Act of 1934, as amended, if applicable, the date of any stockholder requested special meeting shall be not more than 90 days after (i)&nbsp;the determination of the validity of the special
+meeting request(s) by the independent inspectors in the manner provided in this Section&nbsp;3 or (ii)&nbsp;if no such independent inspectors are engaged to review the validity of one or more special meeting requests, not more than 90 days after the
+special meeting request(s) constituting the requisite percent have been delivered to or received by the secretary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Business transacted at
+any stockholder requested special meeting shall be limited to the purpose(s) stated in the valid special meeting request(s) signed by stockholders holding the requisite percent of the corporation&#146;s voting stock; provided, however, that nothing
+herein shall prohibit the board of directors from submitting matters, whether or not described in the stockholder special meeting request(s), to the stockholders at any stockholder requested special meeting. If none of the stockholders who submitted
+a special meeting request appears at or sends a qualified representative to the stockholder requested special meeting to present the matters to be presented for consideration that were specified in the special meeting request, the corporation need
+not present such matters for a vote at such meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Except as otherwise provided by law, in the case of a stockholder requested special
+meeting, the chairman of the meeting shall have the power and duty (i)&nbsp;to determine whether a nomination or any business proposed to be brought before the meeting was made or proposed, as the case may be, in accordance with the procedures set
+forth in this Section&nbsp;3 and (ii)&nbsp;if any proposed nomination or business was not made or proposed in compliance with this Section&nbsp;3 or the stated business to be brought before the special meeting is not a proper subject for stockholder
+action under applicable law, to declare that such nomination shall be disregarded or that such proposed business shall not be transacted. In addition, a special meeting requested by stockholders shall not be held if the board of directors has called
+or calls for a special or regular meeting of stockholders to be held within 90 days after the special meeting request(s) constituting the requisite percent have been delivered to or received by the </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+secretary and the board of directors determines in good faith that the business of such meeting includes (among any other matters properly brought before the meeting) the business specified in
+such special meeting request. The board of directors, in its discretion, also may cancel a special meeting (or, if the special meeting has not yet been called, may direct the chairman of the board or the secretary of the corporation not to call such
+a meeting) if, at any time after receipt by the secretary of the corporation of a proper special meeting request, there are no longer valid special meeting requests from stockholders holding in the aggregate at least the requisite percent, whether
+because of revoked requests or otherwise. In such event, the stockholder(s) who requested such meeting may not call (or participate in calling) another special meeting for one year after such cancellation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 4. NOTICE OF MEETING. Written or printed notice stating the place, day and hour of the meeting and in the case of special meeting, the
+purpose or purposes for which the meeting is called, shall be delivered not less than ten nor more than 60 days before the date of the meeting either personally, by mail or other lawful means by or at the direction of the chairman of the board, the
+chief executive officer, or the secretary to each stockholder of record entitled to vote at the meetings. If mailed, the notice shall be deemed to be delivered when deposited in the United States Postal Service, addressed to the stockholder at his
+address as it appears on the stock transfer books of the corporation with postage thereon prepaid. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 5. CLOSING OF TRANSFER BOOKS
+FOR FIXING OF RECORD DATE. For the purpose of determining stockholders entitled to notice of or to vote at any meeting of stockholders or adjournment thereof, the board of directors may close the stock transfer books of the corporation for a period
+not exceeding 60 days preceding the date of any meeting of stockholders. In lieu of closing the stock transfer books, the board of directors may fix in advance a date, not exceeding 60 days preceding the date of any meeting of stockholders, as a
+record date for the determination of the stockholders entitled to notice of and to vote at the meeting and any adjournment thereof, and only the stockholders as shall be stockholders of record on the date so fixed shall be entitled to the notice of
+and to vote at the meeting and any adjournment thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 6. VOTING LISTS. The officer or agent having charge of the stock transfer
+books for shares of the corporation shall prepare and make, at least ten days before every meeting of the stockholders, a complete list of the stockholders entitled to vote at the meeting, arranged in alphabetical order, and showing the address of
+each stockholder and the number of shares registered in the name of each stockholder. The list shall be open to the examination of any stockholder during ordinary business hours, for a period of at least ten days prior to the meeting, either at a
+place within the city where the election is to be held and which place shall be specified in the notice of the meeting, or, if not so specified, at the place where the meeting is to be held, and the list shall be produced and kept at the time and
+place of the meeting during the whole time thereof, and subject to the inspection of any stockholder who may be present. Upon the willful neglect or refusal of the board of directors of the corporation to produce a list at any meeting of the
+stockholders at which an election is to be held in accordance with this Section&nbsp;6, they shall be ineligible to hold any office at such election. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 7. VOTING RIGHTS. At each meeting of the stockholders of the corporation, every
+stockholder having the right to vote thereat shall be entitled to vote in person or by proxy, but no proxy shall be voted after three years from its date unless the proxy provides for a longer period. Except as otherwise provided by law or the
+Certificate of Incorporation, each stockholder shall have one vote for each share of stock having voting power registered in his name. The vote at an election for directors, and upon the demand of any stockholder, the vote upon any question before a
+meeting of the stockholders, shall be by written ballot. All elections shall be had and all questions decided by a plurality vote except where by statute, by provision in the Certificate of Incorporation or these bylaws it is otherwise provided.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Prior to any meeting, but subsequent to the date fixed by the board of directors pursuant to Section&nbsp;5 of Article IV of these
+bylaws, any proxy may submit his proxy to the secretary for examination. The certificate of the secretary as to the regularity of the proxy and as to the number of shares held by the persons who severally and respectively executed such proxies shall
+be received as prima facie evidence of the number of shares represented by the holder of the proxy for the purpose of establishing the presence of a quorum at the meeting and of organizing the same. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 8. QUORUM. The holders of a majority of the stock issued and outstanding and entitled to vote thereat, initially present in person or
+represented by proxy, shall be requisite, and shall constitute a quorum of all meetings of the stockholders for the transaction of business except as otherwise provided by law, by the Certificate of Incorporation, or by these bylaws. If, however, a
+majority shall not be present or represented at any meeting of the stockholders, the stockholders entitled to vote thereat, present in person or by proxy, shall have power to adjourn the meeting from time to time, without notice, other than
+announcement at the meeting, until the requisite amount of voting stock shall be present. At the adjourned meeting at which the requisite amount of voting stock shall be represented, any business may be transacted which might have been transacted at
+the meeting as originally notified. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 9. INSPECTORS. At each meeting of the stockholders, the polls shall be opened and closed. The
+proxies and the ballots shall be received and taken in charge and all questions touching the qualifications of voters and the validity of proxies and the acceptance or rejection of votes shall be decided by three inspectors. The inspectors shall be
+appointed by the board of directors before or at the meeting, or if no appointment shall have been made, then by the presiding officer at the meeting. If, for any reason any of the inspectors previously appointed shall fail to attend or refuse or be
+unable to serve, inspectors in place of any so failing to attend or refusing or unable to serve shall be appointed in like manner. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 10. WAIVER OF NOTICE. Whenever any notice whatever is required to be given pursuant to
+the provisions of a statute, the Certificate of Incorporation or these bylaws of the corporation, a waiver thereof in writing signed by the person or persons entitled to the notice, whether before or after the time stated therein, shall be deemed
+equivalent thereto. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 11. STOCKHOLDER ACTION. Any action required or permitted to be taken by the stockholders must be effected at
+a duly called annual or special meeting of stockholders and may not be effected by any consent in writing by stockholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 12.
+NOTICE OF STOCKHOLDER BUSINESS. At an annual meeting of the stockholders, only business shall be conducted that has been properly brought before the meeting. To be properly brought before an annual meeting, business must be (a)&nbsp;specified in the
+notice of meeting (or any supplement thereto) given by or at the direction of the board of directors, (b)&nbsp;otherwise properly brought before the meeting by or at the direction of the board of directors, or (c)&nbsp;otherwise properly brought
+before the meeting by a stockholder, which stockholder must have given timely notice thereof in writing to the secretary of the corporation. To be timely, a stockholder&#146;s notice must be delivered to or mailed and received at the principal
+executive offices of the corporation not less than 120 days prior to the meeting. A stockholders&#146; notice to the secretary shall set forth as to each matter the stockholder proposes to bring before the annual meeting (w)&nbsp;a brief description
+of the business desired to be brought before the annual meeting, (x)&nbsp;the name and address, as they appear on the corporation&#146;s books, of the stockholder proposing the business, (y)&nbsp;the class and number of shares of the corporation
+which are beneficially owned by the stockholder, and (z)&nbsp;any material interest of the stockholder in the business. Notwithstanding anything in these bylaws to the contrary, no business shall be conducted at an annual meeting except in
+accordance with the procedures set forth in this Section&nbsp;12. The chairman of an annual meeting shall, if the facts warrant, determine and declare to the meeting that business was not properly brought before the meeting in accordance with the
+provisions of this Section&nbsp;12, and if he should so determine, he shall so declare to the meeting and any business not properly brought before the meeting shall not be transacted. This section sets forth only the procedure by which business may
+be properly brought before an annual meeting of stockholders and does not in any way grant additional rights to stockholders beyond those currently afforded them by law. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 13. NOTICE OF STOCKHOLDER NOMINEES. Only persons who are nominated in accordance with the procedures set forth in this Section&nbsp;13
+or in Section&nbsp;14 of this Article IV shall be eligible for election as directors. Nominations of persons for election to the board of directors of the corporation may be made at a meeting of stockholders (i)&nbsp;by or at the direction of the
+board of directors, (ii)&nbsp;by any stockholder of the corporation entitled to vote for the election of directors at the meeting who complies with the notice procedures set forth in this Section&nbsp;13 or (iii)&nbsp;by any Eligible Stockholder (as
+defined below) who satisfies the requirements and complies with the procedures set forth in Section&nbsp;14 of this Article IV. Any nominations, other than those made by or at the direction of the board of directors, shall be made pursuant to timely
+notice in writing </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+to the secretary of the corporation. To be timely, a stockholder&#146;s notice shall be delivered to or mailed and received at the principal executive offices of the corporation not less than 120
+days prior to the meeting. The stockholder&#146;s notice shall set forth (a)&nbsp;as to each person whom the stockholder proposes to nominate for election or reelection as a director (i)&nbsp;the name, age, business address and residence address of
+the person, (ii)&nbsp;the principal occupation or employment of the person, (iii)&nbsp;the class and number of shares of the corporation which are beneficially owned by the person, and (iv)&nbsp;any other information relating to the person that is
+required to be disclosed in solicitations of proxies for election of directors, or is otherwise required, in each case pursuant to Regulation 14A under the Securities Exchange Act of 1934, as amended (including without limitation the person&#146;s
+written consent to being named in the proxy statement as a nominee and to serving as a director if elected); and (b)&nbsp;as to the stockholder giving the notice (i)&nbsp;the name and address, as they appear on the corporation&#146;s books, of the
+stockholder and (ii)&nbsp;the class and number of shares of the corporation which are beneficially owned by the stockholder. At the request of the board of directors, any person nominated by the board of directors for election as a director shall
+furnish to the secretary of the corporation that information required to be set forth in a stockholder&#146;s notice of nomination which pertains to the nominee. No person shall be eligible for election as a director of the corporation unless
+nominated in accordance with the procedures set forth in this Section&nbsp;13 or Section&nbsp;14 of this Article IV. The chairman of the meeting shall, if the facts warrant, determine and declare to the meeting that a nomination was not made in
+accordance with the procedures prescribed by these bylaws, and if he should so determine, he shall so declare to the meeting and the defective nomination shall be disregarded. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 14. INCLUSION OF STOCKHOLDER NOMINEES IN THE CORPORATION&#146;S PROXY MATERIALS. Subject to the terms and conditions set forth in
+these bylaws, the corporation shall include in its proxy materials for an annual meeting of stockholders after the 2016 annual meeting the name, together with the Required Information (defined below), of any person nominated for election (the
+&#147;Stockholder Nominee&#148;) to the board of directors by a stockholder or group of stockholders that satisfy the requirements of this Section&nbsp;14, including qualifying as an Eligible Stockholder (as defined below), and that expressly elects
+at the time of providing the written notice required by this Section&nbsp;14 (a &#147;Proxy Access Notice&#148;) to have its nominee included in the corporation&#146;s proxy materials pursuant to this Section&nbsp;14. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A. DEFINITIONS. For the purposes of this Section&nbsp;14: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) &#147;Voting Stock&#148; shall mean outstanding shares of capital stock of the corporation entitled to vote generally for the election of
+directors; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) &#147;Constituent Holder&#148; shall mean any stockholder or beneficial holder whose stock ownership is counted for the
+purposes of qualifying as holding the Proxy Access Request Required Shares (as defined below) or qualifying as an Eligible Stockholder (as defined below); </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 8 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(3) &#147;affiliate&#148; and &#147;associate&#148; shall have the meanings ascribed thereto in
+Rule 405 under the Exchange Act; provided, however, that the term &#147;partner&#148; as used in the definition of &#147;associate&#148; shall not include any limited partner that is not involved in the management of the relevant partnership; and
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(4) a stockholder shall be deemed to &#147;own&#148; only those outstanding shares of Voting Stock as to which the stockholder (or any
+Constituent Holder) possesses both (a)&nbsp;the full voting and investment rights pertaining to the shares and (b)&nbsp;the full economic interest in (including the opportunity for profit and risk of loss on) such shares. The number of shares
+calculated in accordance with the foregoing clauses (a)&nbsp;and (b)&nbsp;shall be deemed not to include (and to the extent any of the following arrangements have been entered into by affiliates of the stockholder (or of any Constituent Holder),
+shall be reduced by) any shares (x)&nbsp;sold by such stockholder (or any of its affiliates) in any transaction that has not been settled or closed, including any short sale, (y)&nbsp;borrowed by such stockholder (or any of its affiliates) for any
+purposes or purchased by such stockholder (or any of its affiliates) pursuant to an agreement to resell, or (z)&nbsp;subject to any option, warrant, forward contract, swap, contract of sale, other derivative, or similar agreement entered into by
+such stockholder (or any of its affiliates), whether any such instrument or agreement is to be settled with shares or with cash based on the notional amount or value of Voting Stock, in any such case which instrument or agreement has, or is intended
+to have, or if exercised by either party thereto would have, the purpose or effect of (i)&nbsp;reducing in any manner, to any extent, or at any time in the future such stockholder&#146;s (or affiliate&#146;s) full right to vote or direct the voting
+of any such shares and/or (ii)&nbsp;hedging, offsetting, or altering to any degree gain or loss arising from the full economic ownership of such shares by such stockholder (or affiliate), other than any such arrangements solely involving an exchange
+listed multi-industry market index fund in which Voting Stock represents at the time of entry into such arrangement less than five percent of the proportionate value of such index. A stockholder shall &#147;own&#148; shares held in the name of a
+nominee or other intermediary so long as the stockholder retains the right to instruct how the shares are voted with respect to the election of directors and the right to direct the disposition thereof and possesses the full economic interest in the
+shares. A stockholder&#146;s (including any Constituent Holder&#146;s) ownership of shares shall be deemed to continue during any period in which the stockholder has loaned such shares so long as such stockholder retains the unrestricted power to
+recall such shares at any time by giving not more than five business days&#146; notice or has delegated voting power over such shares by means of a proxy, power of attorney, or other instrument or arrangement so long as such delegation is revocable
+at any time by the stockholder. The terms &#147;owned,&#148; &#147;owning&#148; and other variations of the word &#147;own&#148; shall have correlative meanings. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">B. REQUIRED INFORMATION. For the purposes of this Section&nbsp;14, the &#147;Required Information&#148; is (1)&nbsp;the information concerning
+the Stockholder Nominee and the Eligible Stockholder that the corporation determines is required to be disclosed in the corporation&#146;s proxy statement by the regulations promulgated under the Exchange Act and (2)&nbsp;if the Eligible Stockholder
+so elects, a Statement (defined below). The corporation shall also include the name of the Stockholder Nominee in its proxy card. For the avoidance of doubt, and any other provision of these bylaws notwithstanding, the corporation may in its sole
+discretion solicit against, and include in the proxy statement its own statements or other information relating to, any Eligible Stockholder and/or Stockholder Nominee, including any information provided to the corporation with respect to the
+foregoing. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 9 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">C. NOTICE. To be timely, a stockholder&#146;s Proxy Access Notice must be delivered to the
+principal executive offices of the corporation not less than 120 calendar days nor more than 150 day calendar days before the anniversary date of the corporation&#146;s definitive proxy statement being released to stockholders in connection with the
+previous year&#146;s annual meeting. In no event shall any adjournment or postponement of an annual meeting, the date of which has been announced by the corporation, commence a new time period for the giving of a Proxy Access Notice. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">D. PERMITTED NUMBER. The maximum number of Stockholder Nominees required to appear in the corporation&#146;s proxy materials pursuant to this
+Section&nbsp;14 with respect to an annual meeting of stockholders shall equal the largest whole number that does not exceed 25% of the number of directors in office as of the last day on which a Proxy Access Notice may be delivered in accordance
+with the procedures set forth in this Section&nbsp;14 (such number, the &#147;Permitted Number&#148;); provided, however, that for purposes of determining whether the Permitted Number has been reached, each of the following persons shall be counted
+as a Stockholder Nominee: (i)&nbsp;individuals submitted by an Eligible Stockholder for inclusion in the corporation&#146;s proxy materials pursuant to this Section&nbsp;14 that the board of directors decides to nominate as a nominee of the board of
+directors; (ii)&nbsp;individuals nominated by an Eligible Stockholder for inclusion in the corporation&#146;s proxy materials pursuant to this Section&nbsp;14 whose nominations are subsequently withdrawn; and (iii)&nbsp;directors in office that will
+be included in the corporation&#146;s proxy materials with respect to such annual meeting for whom access to the corporation&#146;s proxy materials was previously provided or requested pursuant to this Section&nbsp;14, other than any such director
+referred to in this clause (iii)&nbsp;who at the time of such annual meeting will have served as a director continuously, as a nominee of the board of directors, and not as a nominee of an Eligible Stockholder, for at least two annual terms. In the
+event the board of directors resolves to reduce the size of the board of directors effective on or prior to the date of the annual meeting, the Permitted Number shall be calculated based on the number of directors in office as so reduced. In the
+event that the number of Stockholder Nominees submitted by Eligible Stockholders pursuant to this Section&nbsp;14 exceeds the Permitted Number, each Eligible Stockholder will select one Stockholder Nominee for inclusion in the corporation&#146;s
+proxy materials until the Permitted Number is reached, going in order of the amount (largest to smallest) of shares of Voting Stock reasonably believed by the corporation to be owned by each Eligible Stockholder and disclosed as owned in its Proxy
+Access Notice submitted to the corporation. If the Permitted Number is not reached after each Eligible Stockholder has selected one Stockholder Nominee, this selection process will continue as many times as necessary, following the same order each
+time, until the Permitted Number is reached. Following such determination, if any Stockholder Nominee who satisfies the eligibility requirements in this Section&nbsp;14 thereafter is nominated by the board of directors, not included in the
+corporation&#146;s proxy materials or not submitted for director election for any reason (including the Eligible Stockholder&#146;s or Stockholder Nominee&#146;s failure to comply with this Section&nbsp;14), no other nominee or nominees shall be
+required to be included in the corporation&#146;s proxy materials or otherwise submitted for election as a director at the applicable annual meeting in substitution for such Stockholder Nominee. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 10 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">E. ELIGIBLE STOCKHOLDER. An &#147;Eligible Stockholder&#148; is one or more stockholders of
+record who own or have owned, or are acting on behalf of one or more beneficial owners who own and have owned (in each case as defined above), in each case continuously for at least three (3)&nbsp;years as of both the date that the Proxy Access
+Notice is received by the corporation pursuant to this Section&nbsp;14, and as of the record date for determining stockholders eligible to vote at the annual meeting, an aggregate net long position (as defined in Section&nbsp;3 of this Article IV)
+of at least three percent (3%)&nbsp;of the aggregate voting power of the Voting Stock (the &#147;Proxy Access Request Required Shares&#148;), and who continue to own the Proxy Access Request Required Shares at all times between the date such Proxy
+Access Notice is received by the corporation and the date of the applicable annual meeting, provided that the aggregate number of stockholders, and, if and to the extent that a stockholder is acting on behalf of one or more beneficial owners, of
+such beneficial owners, whose stock ownership is counted for the purpose of satisfying the foregoing ownership requirement shall not exceed twenty (20). Two or more collective investment funds that are (I)&nbsp;under common management and investment
+control; (II) under common management and sponsored primarily by the same employer; or (III) a &#147;group of investment companies&#148; as such term is defined in Section&nbsp;12(d)(1)(G)(ii) of the Investment Company Act of 1940 (a
+&#147;Qualifying Fund&#148;) shall be treated as one stockholder for the purpose of determining the aggregate number of stockholders in this paragraph (E), provided that each fund included within a Qualifying Fund otherwise meets the requirements
+set forth in this Section&nbsp;14. No shares may be attributed to more than one group constituting an Eligible Stockholder under this Section&nbsp;14 (and, for the avoidance of doubt, no stockholder may be a member of more than one group
+constituting an Eligible Stockholder). A record holder acting on behalf of one or more beneficial owners will not be counted separately as a stockholder with respect to the shares owned by beneficial owners on whose behalf such record holder has
+been directed in writing to act, but each such beneficial owner will be counted separately, subject to the other provisions of this paragraph (E), for purposes of determining the number of stockholders whose holdings may be considered as part of an
+Eligible Stockholder&#146;s holdings. For the avoidance of doubt, Proxy Access Request Required Shares will qualify as such if and only if the beneficial owner of such shares as of the date of the Proxy Access Notice has itself individually
+beneficially owned such shares continuously for the three-year (3-year) period ending on that date and through the other applicable dates referred to above (in addition to the other applicable requirements being met). Any Eligible Stockholder
+(including each Constituent Holder or fund comprising a Qualifying Fund and/or beneficial owner whose stock ownership is counted for the purposes of qualifying as an Eligible Stockholder) whose Stockholder Nominee is elected as a director at the
+annual meeting of stockholders will not be eligible to nominate or participate in the nomination of a Stockholder Nominee for the following two (2)&nbsp;annual meetings of stockholders other than the nomination of such previously elected Stockholder
+Nominee. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 11 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">F. INFORMATION. No later than the final date when a Proxy Access Notice pursuant to this
+Section&nbsp;14 may be delivered to the corporation, an Eligible Stockholder (including each Constituent Holder) must provide the following information in writing to the secretary of the corporation: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) with respect to each Constituent Holder, the name and address of, and number of shares of Voting Stock owned by such person; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) one or more written statements from the record holder of the shares (and from each intermediary through which the shares are or have been
+held during the requisite three (3)&nbsp;year holding period) verifying that, as of a date within seven calendar days prior to the date the Proxy Access Notice is delivered to the corporation, such person owns, and has owned continuously for the
+preceding three (3)&nbsp;years, the Proxy Access Request Required Shares, and such person&#146;s agreement to provide: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(a) within ten
+(10)&nbsp;days after the record date for the annual meeting, written statements from the record holder and intermediaries verifying such person&#146;s continuous ownership of the Proxy Access Request Required Shares through the record date, together
+with any additional information reasonably requested to verify such person&#146;s ownership of the Proxy Access Request Required Shares; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(b) immediate notice if the Eligible Stockholder ceases to own any of the Proxy Access Request Required Shares prior to the date of the
+applicable annual meeting of stockholders; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(3) any information relating to such Eligible Stockholder (including any Constituent Holder)
+and their respective affiliates or associates or others acting in concert therewith, and any information relating to such Eligible Stockholder&#146;s Stockholder Nominee(s), in each case that would be required to be disclosed in a proxy statement
+and form of proxy or other filings required to be made in connection with solicitations of proxies for the election of such Stockholder Nominee(s) in a contested election pursuant to Section&nbsp;14 of the Exchange Act and the rules and regulations
+promulgated thereunder; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(4) a description of all direct and indirect compensation and other material monetary agreements, arrangements,
+and understandings during the past three (3)&nbsp;years, and any other material relationships, between or among the Eligible Stockholder (including any Constituent Holder) and its or their respective affiliates and associates, or others acting in
+concert therewith, on the one hand, and each of such Eligible Stockholder&#146;s Stockholder Nominee(s), and his or her respective affiliates and associates, or others acting in concert therewith, on the other hand, including without limitation all
+information that would be required to be disclosed pursuant to Item&nbsp;404 promulgated under Regulation S-K if the Eligible Stockholder (including any Constituent Holder), or any affiliate or associate thereof or person acting in concert
+there-with, were the &#147;registrant&#148; for purposes of such rule and the Stockholder Nominee were a director or executive officer of such registrant; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 12 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(5) a representation that such person: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(a) acquired the Proxy Access Request Required Shares in the ordinary course of business and not with the intent to change or influence control
+of the corporation, and does not presently have such intent; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(b) has not nominated and will not nominate for election to the board of
+directors at the annual meeting any person other than the Stockholder Nominee(s) being nominated pursuant to this Section&nbsp;14; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(c) has
+not engaged and will not engage in, and has not and will not be a &#147;participant&#148; in another person&#146;s, &#147;solicitation&#148; within the meaning of Rule 14a-1(l) under the Exchange Act in support of the election of any individual as a
+director at the annual meeting other than its Stockholder Nominee(s) or a nominee of the board of directors; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(d) will not distribute to
+any stockholder any form of proxy for the annual meeting other than the form distributed by the corporation; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(e) will provide facts,
+statements, and other information in all communications with the corporation and its stockholders that are and will be true and correct in all material respects and do not and will not omit to state a material fact necessary in order to make the
+statements made, in light of the circumstances under which they were made, not misleading, and will otherwise comply with all applicable laws, rules, and regulations in connection with any actions taken pursuant to this Section&nbsp;14; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(6) in the case of a nomination by a group of stockholders that together is such an Eligible Stockholder, the designation by all group members
+of one group member that is authorized to act on behalf of all members of the nominating stockholder group with respect to the nomination and matters related thereto, including withdrawal of the nomination; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(7) an undertaking that such person agrees to: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(a) assume all liability stemming from, and indemnify and hold harmless the corporation and each of its directors, officers, and employees
+individually against any liability, loss, or damages in connection with any threatened or pending action, suit, or proceeding, whether legal, administrative, or investigative, against the corporation or any of its directors, officers, or employees
+arising out of any legal or regulatory violation arising out of the Eligible Stockholder&#146;s communications with the stockholders of the corporation or out of the information that the Eligible Stockholder (including such person) provided to the
+corporation; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(b) promptly provide such information to the corporation as the corporation may reasonably request; and </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 13 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(c) file with the Securities and Exchange Commission any solicitation by the Eligible Stockholder
+of stockholders of the corporation relating to the annual meeting at which the Stockholder Nominee will be nominated. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, no later than the
+final date when a Proxy Access Notice pursuant to this Section&nbsp;14 may be delivered to the corporation, a Qualifying Fund whose stock ownership is counted for purposes of qualifying as an Eligible Stockholder must provide to the secretary of the
+corporation documentation reasonably satisfactory to the board of directors that demonstrates that the funds included within the Qualifying Fund satisfy the definition thereof. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In order to be considered timely, any information required by this Section&nbsp;14 to be provided to the corporation must be supplemented (by delivery to the
+secretary of the corporation) (1)&nbsp;no later than ten (10)&nbsp;days following the record date for the applicable annual meeting, to disclose the foregoing information as of such record date and (2)&nbsp;no later than the fifth day before the
+annual meeting, to disclose the foregoing information as of the date that is no earlier than ten (10)&nbsp;days prior to such annual meeting. For the avoidance of doubt, the requirement to update and supplement such information shall not permit any
+Eligible Stockholder or other person to change or add any proposed Stockholder Nominee or be deemed to cure any defects or limit the remedies (including without limitation under these bylaws) available to the corporation relating to any defect. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">G. STATEMENT. The Eligible Stockholder may provide to the secretary of the corporation, at the time the information required by this
+Section&nbsp;14 is originally provided, a written statement for inclusion in the corporation&#146;s proxy statement for the annual meeting, not to exceed five hundred (500)&nbsp;words, in support of the candidacy of such Eligible Stockholder&#146;s
+Stockholder Nominee(s) (the &#147;Statement&#148;). Notwithstanding anything to the contrary contained in this Section&nbsp;14, the corporation may omit from its proxy materials any information or Statement that it, in good faith, believes is
+materially false or misleading, omits to state any material fact, or would violate any applicable law or regulation. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">H. STOCKHOLDER
+NOMINEE REPRESENTATIONS. No later than the final date when a Proxy Access Notice pursuant to this Section&nbsp;14 may be delivered to the corporation, each Stockholder Nominee must: </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) provide an executed agreement, in a form deemed satisfactory by the board of directors or its designee (which form shall be provided by the
+corporation reasonably promptly upon written request of a stockholder), that such Stockholder Nominee: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(a) consents to being named in the
+corporation&#146;s proxy statement and a form of proxy card (and will not agree to be named in any other person&#146;s proxy statement or form of proxy card) as a nominee for election to the board of directors and to serving as a director of the
+corporation if elected; </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 14 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(b) agrees, if elected, to adhere to the corporation&#146;s Corporate Governance Principles and
+Code of Business Conduct and all other publicly available corporation policies and guidelines applicable to directors; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(c) is not and will
+not become a party to any compensatory, payment, or other financial agreement, arrangement, or understanding with any person or entity other than the corporation in connection with his or her nomination to be a director of the corporation or with
+respect to his or her service or action as a director of the corporation that, in either such case, has not been disclosed to the corporation; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">(d) is not and will not become a party to any agreement, arrangement, or understanding with any person or entity as to how the Stockholder
+Nominee would vote or act on any issue or question as a director; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) complete, sign, and submit all other questionnaires,
+representations, and agreements required of the corporation&#146;s directors generally; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(3) provide such additional information
+required for stockholder notices pursuant to Section&nbsp;13 of this Article IV and as necessary to permit the board of directors to determine if such one or more of the items contemplated by paragraph (J)&nbsp;below apply with respect to such
+Stockholder Nominee or if such Stockholder Nominee has any direct or indirect relationship with the corporation other than those relationships that have been deemed categorically immaterial pursuant to the corporation&#146;s corporate governance
+guidelines or is or has been subject to any event specified in Item&nbsp;401(f) of Regulation S-K (or successor rule) of the Securities and Exchange Commission. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In the event that any information or communications provided by the Eligible Stockholder (or any Constituent Holder) or the Stockholder Nominee to the
+corporation or its stockholders ceases to be true and correct in all material respects or omits a material fact necessary to make the statements made, in light of the circumstances under which they were made, not misleading, each Eligible
+Stockholder or Stockholder Nominee, as the case may be, shall promptly notify the secretary of the corporation of any defect in such previously provided information and of the information that is required to correct any such defect; it being
+understood for the avoidance of doubt that providing any such notification shall not be deemed to cure any such defect or limit the remedies (including without limitation under these bylaws) available to the corporation relating to any such defect.
+</P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I. INELIGIBILITY. Any Stockholder Nominee who is included in the corporation&#146;s proxy materials for a particular annual meeting of stockholders but
+either (1)&nbsp;withdraws from or becomes ineligible or unavailable for election at that annual meeting (other than by reason of such Stockholder Nominee&#146;s disability or other health reason) or (2)&nbsp;does not receive votes cast in favor of
+the Stockholder Nominee&#146;s election at least equal 25% of the shares present in person or by proxy and entitled to vote at the meeting, will be ineligible to be a Stockholder Nominee pursuant to this Section&nbsp;14 for the next two annual
+meetings. For the avoidance of doubt, any Stockholder Nominee who is included in the corporation&#146;s proxy statement for a particular annual meeting of stockholders, but subsequently is </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 15 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+determined not to satisfy the eligibility requirements of this Section&nbsp;14 or any other provision of these bylaws, the corporation&#146;s Certificate of Incorporation, or other applicable
+regulation any time before the annual meeting of stockholders, will not be eligible for election at the relevant annual meeting of stockholders. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">J. DISQUALIFICATION. The corporation shall not be required to include, pursuant to this Section&nbsp;14, a Stockholder Nominee in its proxy
+materials for any annual meeting of stockholders, or, if the proxy statement already has been filed, to allow the nomination of a Stockholder Nominee (and may declare any such nomination ineligible), notwithstanding that proxies in respect of such
+vote may have been received by the corporation: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(1) who is not independent under the listing standards of any U.S. exchange upon which the
+common stock of the corporation is listed, any applicable rules of the Securities and Exchange Commission, and any publicly disclosed standards used by the board of directors in determining and disclosing independence of the corporation&#146;s
+directors, in each case as determined by the board of directors; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(2) who (x)&nbsp;is or has been, within the past three (3)&nbsp;years, an
+officer or director of a competitor, as defined in Section&nbsp;8 of the Clayton Antitrust Act of 1914, as amended, (y)&nbsp;is a named subject of a pending criminal proceeding (excluding traffic violations and other minor offenses) or has been
+convicted in a criminal proceeding within the past ten years, or (z)&nbsp;is subject to any order of the type specified in Rule 506(d) of Regulation D promulgated under the Securities Act of 1933, as amended, or whose service as a member of the
+board of directors would violate or cause the corporation to be in violation of these bylaws, the corporation&#146;s Certificate of Incorporation, the rules and listing standards of any U.S. exchange upon which the common stock of the corporation is
+traded, or any applicable law, rule, or regulation; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(3) if the Eligible Stockholder (or any Constituent Holder) or applicable Stockholder
+Nominee otherwise breaches or fails to comply in material respect with its obligations pursuant to this Section&nbsp;14 or any agreement, representation, or undertaking required by this Section; </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(4) if the Eligible Stockholder ceases to be an Eligible Stockholder for any reason, including but not limited to not owning the Proxy Access
+Request Required Shares through the date of the applicable annual meeting; or </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(5) at any meeting of stockholders for which the secretary
+of the corporation receives a notice that a stockholder has nominated a person for election to the board of directors pursuant to Section&nbsp;13 of this Article IV. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 16 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE V. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>DIRECTORS </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1.
+GENERAL POWERS. The property, business and affairs of the corporation shall be managed by its board of directors which may exercise all powers of the corporation and do all lawful acts and things as are not by statute or by the Certificate of
+Incorporation or by these bylaws directed or required to be exercised or done by the stockholders. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. NUMBER, TENURE AND
+QUALIFICATIONS. The directors shall be elected in the manner set forth in Article Ninth of the Certification of Incorporation of the corporation; however, if the corporation has outstanding any shares of one or more series of stock with conditional
+rights to elect a set number of directors, and if the conditions precedent to the exercise of any such rights arise, the number of directors of the corporation shall be automatically increased to permit the exercise of the voting rights of each such
+series of stock. The term of office of directors shall be as provided in Article Ninth of the Certificate of Incorporation of the corporation. Directors need not be stockholders or residents of the State of Delaware. A majority of the directors
+shall be &#147;independent&#148; under the criteria set by any applicable law, regulation and/or listing standard. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">At any meeting for the
+election of directors at which a quorum is present, each director shall be elected by the vote of a majority of the votes cast representing shares present in person or by proxy and entitled to vote at the meeting. However, if the number of nominees
+on the ballot for any election of directors exceeds the number of directors to be elected, then the directors shall be elected by the vote of a plurality of the votes cast representing shares present in person or by proxy and entitled to vote on the
+election of directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">For the purposes hereof, a majority of the votes cast means that the number of shares voted &#147;for&#148; a
+director must exceed the number of votes cast &#147;against&#148; the election of that director. &#147;Votes cast&#148; shall not include abstentions. Ballots will not give stockholders the option to &#147;withhold&#148; votes from the election of
+directors, but rather will give the choice to vote &#147;for&#148; or &#147;against&#148; each director or to abstain. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Promptly (and in
+any event within 10 days) after each meeting for the election of directors, each incumbent director who did not receive a majority of the votes cast representing shares present in person or by proxy and entitled to vote at such meeting shall submit
+to the board of directors an irrevocable letter of resignation, which shall become effective upon acceptance by the board of directors. The board of directors will determine whether to accept or reject such resignation, or what other action should
+be taken, and publicly disclose and explain its decision on the corporation&#146;s web site within 90 days from the date of the certification of election results. Any director not elected shall not participate in the board of director&#146;s
+decision with respect to his or her resignation. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 17 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If the board of directors determines to accept the resignation of an unsuccessful incumbent, then
+the board of directors may fill the resulting vacancy pursuant to Article V, Section&nbsp;3 of these bylaws or may decrease the size of the board of directors pursuant to the provisions of Article Ninth of the Certificate of Incorporation of the
+corporation. If the board of directors elects to fill the resulting vacancy, the corporate governance and nominating committee will promptly recommend a candidate to the board of directors to fill the office formerly held by the unsuccessful
+incumbent. The board of directors shall promptly consider and act upon the corporate governance and nominating committee&#146;s recommendation. The corporate governance and nominating committee, in making its recommendation, and the board of
+directors, in acting on such recommendation, may consider any factors or other information that they determine appropriate and relevant. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The board of directors at its first meeting after each annual meeting, or as often as may be required, shall elect a chairman of the board.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. VACANCIES AND NEWLY CREATED DIRECTORSHIPS. Any vacancies on the board of directors or any newly created directorships shall be
+filled by the board of directors in the manner set forth in Article Ninth of the Certificate of Incorporation of the corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION
+4. CATASTROPHE. During any emergency period following a national catastrophe due to enemy attack, or act of God, a majority of the surviving members of the board who have not been rendered incapable of acting due to physical or mental incapacity or
+due to the difficulty of transportation to the place of the meeting shall constitute a quorum for the purpose of filling vacancies on the board of directors and among the elected and appointed officers of the corporation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 5. PLACE OF MEETINGS. The directors of the corporation may hold their meetings, both regular and special, at a place or places within
+or without the State of Delaware that the board of directors may from time to time determine. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 6. FIRST MEETING. The first meeting
+of the board of directors following the annual meeting of stockholders shall be held at the time and place that shall be fixed by the chairman of the board or the chief executive officer and shall be called in the same manner as a special meeting.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 7. REGULAR MEETINGS. Regular meetings of the board of directors may be held without notice at the time and place that shall from
+time to time be determined by the board of directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 8. SPECIAL MEETINGS. Special meetings of the board of directors may be
+called by the chairman of the board or the chief executive officer on three days&#146; notice to each director, either personally or by mail, by telegram, or by facsimile or other lawful means; special meetings of the board of directors shall be
+called by the chairman of the board, chief executive officer, or secretary in like manner and upon like notice upon the written request of two directors. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 18 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 9. QUORUM. At all meetings of the board of directors, a majority of the directors shall
+be necessary and sufficient to constitute a quorum for the transaction of business, and the act of a majority of the directors present at any meeting, at which there is a quorum present, shall be the act of the board of directors, except as may be
+otherwise specifically provided by statute, the Certificate of Incorporation or by these bylaws. If at any meeting of the board of directors there shall be less than a quorum present, a majority of those present may adjourn the meeting from time to
+time without notice, other than by announcement at the meeting, until a sufficient number of directors to constitute a quorum shall attend. At any adjourned meeting at which a quorum shall be present, any business may be transacted which might have
+been transacted at the original meeting as originally notified. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 10. BUSINESS TO BE CONDUCTED. Unless otherwise indicated in the
+notice, any and all business may be transacted at a regular or special meeting of the board of directors. In the event a special meeting of the board of directors is held without notice, any and all business may be transacted at the meeting provided
+all directors are present. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 11. ORDER OF BUSINESS. At all meetings of the board of directors, business shall be transacted in the
+order that from time to time the board may determine by resolution. At all meetings of the board of directors the chairman of the board or in his absence the chief executive officer shall preside. In the absence of the chairman and the chief
+executive officer, the directors present shall elect any director as chairman of the meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 12. COMPENSATION OF DIRECTORS.
+Directors of the corporation shall receive the compensation for their services that the board of directors may from time to time determine and all directors shall be reimbursed for their expenses of attendance at each regular or special meeting of
+the board or any committee thereof. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 13. COMMITTEES. The board of directors may, by resolution passed by a majority of the board,
+designate one or more committees. Each such committee shall consist of one or more of the directors of the corporation, such number to be set by resolution of the board of directors. Any committee, to the extent provided in the resolution, shall
+have and may exercise the powers of the board of directors in the management of the business and affairs of the corporation, and may authorize the seal of the corporation to be affixed to all papers which may require it. Any committee or committees
+shall have the name or names that may be determined from time to time by resolution adopted by the board of directors. Other than for a committee of one director, the chairman of the board and the chief executive officer shall be ex officio members
+of any board committee except the audit committee, the management development and compensation committee, and the corporate governance and nominating committee. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 19 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 14. AUDIT COMMITTEE. The Audit Committee shall be governed by the Audit Committee
+Charter, as adopted, amended, modified, or supplemented from time to time by the board of directors, which shall set forth the membership, authority, and responsibilities of the Audit Committee. The Audit Committee Charter shall be issued, modified,
+amended, supplemented, or repealed only by a majority vote of the full board of directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 15. MANAGEMENT DEVELOPMENT AND
+COMPENSATION COMMITTEE. The Management Development and Compensation (&#147;MD&amp;C&#148;) Committee shall be governed by the MD&amp;C Committee Charter, as adopted, amended, modified, or supplemented from time to time by the board of directors,
+which shall set forth the membership, authority, and responsibilities of the MD&amp;C Committee. The MD&amp;C Committee Charter shall be issued, modified, amended, supplemented, or repealed only by a majority vote of the full board of directors.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 16. CORPORATE GOVERNANCE AND NOMINATING COMMITTEE. The Corporate Governance and Nominating Committee shall be governed by the
+Corporate Governance and Nominating Committee Charter, as adopted, amended, modified, or supplemented from time to time by the board of directors, which shall set forth the membership, authority, and responsibilities of the Corporate Governance and
+Nominating Committee. The Corporate Governance and Nominating Committee Charter shall be issued, modified, amended, supplemented, or repealed only by a majority vote of the full board of directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 17. ELECTION OF OFFICERS. At the first meeting of the board of directors in each year, at which a quorum shall be present, following
+the annual meeting of the stockholders of the corporation, the board of directors shall proceed to the election of the officers of the corporation, except regional or staff officers who are subject to appointment in accordance with Section&nbsp;18
+of Article VI of these bylaws. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 18. ACTION WITHOUT MEETING. Any action required or permitted to be taken at any meeting of the
+board of directors or of any committee thereof may be taken without a meeting, if prior to the action a written consent thereto is signed by all members of the board of directors or of the committee, as the case may be, and such written consent is
+filed with the minutes of the proceedings of the board of directors or committee. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 19. WAIVER OF NOTICE. Whenever any notice
+whatever is required to be given pursuant to the provisions of a statute, the Certificate of Incorporation or these bylaws of the corporation, a waiver thereof in writing signed by the person or persons entitled to the notice, whether before or
+after the time stated therein, shall be deemed equivalent thereto. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 20 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE VI. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OFFICERS </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1.
+OFFICERS. The officers of the corporation shall be (a)&nbsp;a chief executive officer, president, one or more executive vice presidents, each other executive &#147;officer&#148; for purposes of Section&nbsp;16 of the Securities Exchange Act of 1934,
+as amended, and a secretary, controller, treasurer, and head of internal audit, all as the board of directors may provide for and elect and (b)&nbsp;one or more senior vice presidents, vice presidents, and such assistant vice presidents, assistant
+secretaries, assistant treasurers, and assistant controllers as the chief executive officer may appoint or as the board of directors may elect. Any two or more offices may be held by the same person. The board of directors may appoint such other
+officers as they shall deem necessary, who shall have the authority and shall perform the duties that from time to time may be prescribed by the board of directors. In its discretion, the board of directors by a vote of a majority thereof may leave
+unfilled for any period that it may fix by resolution any office except those of president, treasurer, and secretary. The board of directors may designate a chief financial officer and a chief accounting officer from among the officers elected by
+the board. The chief financial officer shall be the corporation&#146;s principal financial officer and the chief accounting officer shall be the corporation&#146;s principal accounting officer for purposes of the Securities Exchange Act of 1934, as
+amended. Officers appointed by the chief executive officer shall not perform &#147;policy-making functions&#148; as defined pursuant to Section&nbsp;16 or any successor section(s) of the Securities Exchange Act of 1934, as amended, and shall be
+deemed not to be subject to such Section&nbsp;16 and the rules and regulations promulgated thereunder. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. ELECTION. The board of
+directors at its first meeting after each annual meeting of the stockholders or at any regular or special meeting shall elect, as may be required, a chief executive officer, president, one or more executive vice presidents, each other executive
+&#147;officer&#148; for purposes of Section&nbsp;16 of the Securities Exchange Act of 1934, as amended, and a secretary, treasurer, controller, and head of internal audit. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. TENURE. The officers of the corporation shall hold office until their successors are chosen and qualify in their stead. Any officer
+elected or appointed by the board of directors may be removed at any time by the affirmative vote of a majority of the board of directors. Any officer appointed by the chief executive officer may be removed at any time by the chief executive officer
+of the corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 4. SALARIES. The salaries of the officers of the corporation at the level of executive vice president or
+above shall be recommended by the management development and compensation committee and approved by the board of directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 5.
+VACANCIES. If the office of any officer of the corporation elected by the board of directors becomes vacant by reason of death, resignation, disqualification or otherwise, the directors by a majority vote, may choose his successor or successors.
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 21 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 6. RESIGNATION. Any officer may resign his office at any time, such resignation to be
+made in writing and take effect at the time of receipt by the corporation, unless some time be fixed in the resignation and then from that time. The acceptance of a resignation shall not be required to make it effective. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 7. DELEGATION OF DUTIES. Duties of officers may be delegated in case of the absence of any officer of the corporation or for any
+reason that the board of directors may deem sufficient. The board of directors may delegate the powers or duties of the officer to any other officer or to any director, except as otherwise provided by statute, for the time being, provided a majority
+of the entire board of directors concurs therein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 8. CHIEF EXECUTIVE OFFICER. The chief executive officer shall be the chief
+executive officer of the corporation and shall have, subject to the direction of the board of directors, general control and management of the corporation&#146;s business and affairs and shall also see that all the policies and resolutions of the
+board of directors are carried into effect, subject, however, to the right of the board of directors to delegate any specific powers, except such as may be by statute exclusively conferred on the president or to any other officer or officers of the
+corporation. He shall preside at all meetings of stockholders and the board of directors at which he may be present and from which the chairman of the board may be absent. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 9. PRESIDENT. The president shall perform those duties that shall be specifically assigned to him from time to time by the chief
+executive officer or the board of directors. In the absence of the chief executive officer or in the event of his death, inability or refusal to act, the president shall perform the duties of the chief executive officer, and when so acting shall
+have the powers of and be subject to all the restrictions upon the chief executive officer. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 10. EXECUTIVE VICE PRESIDENTS, SENIOR
+VICE PRESIDENTS, AND VICE PRESIDENTS. In the absence of the president or in the event of his death, inability or refusal to act, the senior executive vice president present shall perform the duties of the president, and when so acting, shall have
+all the powers of and be subject to all the restrictions upon the president. In the absence of the president and all executive or senior vice presidents, or in the event of their deaths, inability or refusal to act, a vice president designated by
+the board of directors, or in case the board of directors has failed to act, designated by the chief executive officer, shall perform the duties of the president and when so acting shall have all the powers of and be subject to all the restrictions
+upon the president. The executive vice presidents, the senior vice presidents, and all other vice presidents shall perform those duties consistent with these bylaws and that may be specifically designated by the chief executive officer, the
+president, or the board of directors. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 22 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 11. ASSISTANT VICE PRESIDENTS. The assistant vice presidents shall perform those duties,
+not inconsistent with these bylaws, the Certificate of Incorporation or statute that may be specifically designated by the board of directors, the chief executive officer, or the president. In the absence of the executive vice presidents, senior
+vice presidents, or vice presidents, an assistant vice president (or in the event there be more than one assistant vice president, the assistant vice presidents in the order designated at the time of their election, or in the absence of any
+designation, then in the order of their election) shall perform the duties of the executive vice presidents, senior vice presidents or vice presidents, and when so acting, shall have all the powers of and be subject to all restrictions upon the
+executive vice presidents, the senior vice presidents, and vice presidents. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 12. SECRETARY. The secretary shall attend and keep
+all the minutes of all meetings of the board of directors and all meetings of the stockholders and, when requested by the board of directors, of any committees of the board of directors. He shall give, or cause to be given, notice of all meetings of
+the stockholders and board of directors and when so ordered by the board of directors, shall affix the seal of the corporation thereto; he shall have charge of all of those books and records that the board of directors may direct, all of which
+shall, at all reasonable times, be open to the examination of any director at the office of the corporation during business hours; he shall, in general, perform all of the duties incident to the office of secretary subject to the control of the
+board of directors, the chief executive officer, or the president, under whose supervision he shall be, and shall do and perform any other duties that may from time to time be assigned to him by the board of directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 13. ASSISTANT SECRETARIES. In the absence of the secretary or in the event of his death, inability or refusal to act, the assistant
+secretary (or in the event there be more than one assistant secretary, the assistant secretaries in the order designated at the time of their election, or in the absence of any designation, then in the order of their election) shall perform the
+duties of the secretary, and when so acting shall have all the powers of and be subject to all the restrictions upon the secretary and shall perform any other duties that may from time to time be assigned to him by the board of directors, the chief
+executive officer, the president, or the secretary. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 14. TREASURER. The treasurer shall have custody of and be responsible for all
+funds and securities of the corporation, receive and give receipts for money due and payable to the corporation from any source whatsoever, and deposit all such moneys in the name of the corporation in those banks or depositories that shall be
+selected and designated by the board of directors and shall in general perform all of the duties incident to the office of treasurer and any other duties that may be assigned to him by the chief financial officer, the president, the chief executive
+officer, or the board of directors. If required by the board of directors, the treasurer shall give bond for the faithful discharge of his duties in the sum and with the surety or sureties as the board of directors shall determine. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 15. ASSISTANT TREASURERS. In the absence of the treasurer or in the event of his death, inability or refusal to act, the assistant
+treasurer (or in the event there be more than one assistant treasurer, the assistant treasurers in the order designated at the time of their election, or in the absence of any designation, then in the order of their
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 23 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+election) shall perform the duties of the treasurer and when so acting shall have all the powers and be subject to all the restrictions upon the treasurer, and shall perform any other duties that
+from time to time may be assigned to him by the chief executive officer, the president, the chief financial officer, the treasurer, or the board of directors. The assistant treasurers shall, if required by the board of directors, give bonds for the
+faithful discharge of their duties in the sums and with the surety or sureties that the board of directors shall determine. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 16.
+CONTROLLER. The controller shall maintain adequate records of all assets, liabilities and transactions of the corporation; see that adequate audits thereof are currently and regularly made; and, in conjunction with other officers and department
+heads, initiate and enforce measures and procedures whereby the business of the corporation shall be conducted with the maximum safety, efficiency and economy. Except as otherwise determined by the board of directors, or lacking a determination by
+the board of directors, then by the president, his duties and powers shall extend to all subsidiary corporations and, so far as may be practicable, to all affiliate corporations. He shall have any other powers and perform other duties that may be
+assigned to him by the chief executive officer, the president, the chief financial officer, or the board of directors. If required by the board of directors, the controller shall give bond for the faithful discharge of his duties in the sum and with
+the surety or sureties as the board of directors shall determine. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 17. ASSISTANT CONTROLLERS. In the absence of the controller or
+in the event of his death, inability or refusal to act, the assistant controller (or in the event there be more than one assistant controller, the assistant controllers, in the order designated at the time of their election, or in the absence of any
+designation, then in the order of their election) shall perform the duties of the controller and when so acting shall have all the powers and be subject to all the restrictions upon the controller, and shall perform any other duties that from time
+to time may be assigned to him by the chief executive officer, the president, the chief financial officer, the controller, or the board of directors. The assistant controllers shall, if required by the board of directors, give bonds for the faithful
+discharge of their duties in the sums and with the surety or sureties that the board of directors shall determine. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 18. REGIONAL
+VICE PRESIDENTS. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A. ELECTION. One or more regional vice presidents may be appointed by the chief executive officer, or the authority for
+such appointments may be delegated by the chief executive officer to the president of the corporation. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">B. TENURE. The regional vice
+presidents appointed by the chief executive officer or the president of the corporation shall hold office until their successors are chosen and qualify in their stead. Any regional vice president so appointed may be removed at any time by the chief
+executive officer or the president of the corporation. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 24 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">C. DUTIES. The regional vice presidents shall do and perform those duties that shall from time to
+time be specifically designated or assigned by the chief executive officer or the president of the corporation; however, the regional vice presidents shall not perform &#147;policy-making functions&#148; as defined pursuant to Section&nbsp;16 or any
+successor section(s) of the Securities Exchange Act of 1934, as amended, and shall be deemed not to be subject to such Section&nbsp;16 and the rules and regulations promulgated thereunder. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE VII. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INDEMNIFICATION OF OFFICERS, DIRECTORS, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EMPLOYEES AND AGENTS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. The board of directors shall cause the corporation to indemnify any person (and that person&#146;s heirs and personal
+representatives) who was or is a party or is threatened or expected to be made a party to any threatened, pending or completed action, suit, arbitration or proceeding, whether civil, criminal, administrative or investigative (other than an action by
+or in the right of the corporation) by reason of the fact that he is or was a director, officer, employee or agent of the corporation, or is or was serving at the request of the corporation as a director, officer, employee, partner or agent of
+another corporation, partnership (including a partnership in which the corporation is a partner), joint venture, trust or other enterprise, against expenses (including, but not limited to, attorneys&#146; fees, expert fees, bonds, prospective or
+retroactive insurance premiums or costs, litigation, appeal and court costs and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses of such person during any investigation hearing, arbitration,
+trial, or appeal of any such action, suit or proceeding, including any interest payable thereon), judgments, damages, arbitration awards, fines and amounts paid in settlement actually and reasonably incurred by him in connection with such action,
+suit, arbitration or proceeding, including any interest payable thereon, if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the corporation, and, with respect to any criminal action or
+proceeding, had no reasonable cause to believe his conduct was unlawful. The termination of any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere or its equivalent, shall not, of itself, create
+a presumption that the person did not act in good faith and in a manner which he reasonably believed to be in or not opposed to the best interests of the corporation, and, with respect to any criminal action or proceeding, had reasonable cause to
+believe that his conduct was unlawful. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. The board of directors shall indemnify any person (and that person&#146;s heirs and
+personal representatives) who was or is a party or is threatened or expected to be made a party to any threatened, pending or completed action or suit by or in the right of the corporation to procure a judgment in its favor by reason of the fact
+that he is or was a director, officer, employee or agent of the corporation or is or was serving at the request of the corporation as a director, officer, employee, partner or agent of another corporation, partnership (including a partnership in
+which the corporation is a partner), joint venture, trust or other enterprise against expenses (including, but not limited to, attorneys&#146; fees, expert fees, bonds, prospective or retroactive insurance premiums or costs, litigation, appeal and
+court costs, and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses of such person during any </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 25 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+investigation, hearing, trial or appeal of any such action or suit, including any interest payable thereon), actually and reasonably incurred by him in connection with the defense or settlement
+of such action or suit if he acted in good faith and in a manner he reasonably believed to be in or not opposed to the best interests of the corporation and except that no indemnification shall be made in respect of any claim, issue or matter as to
+which such person shall have been adjudged to be liable for negligence or misconduct in the performance of his duty to the corporation unless and only to the extent that the Court of Chancery or the court in which such action or suit was brought
+shall determine upon application that, despite the adjudication of liability but in view of all the circumstances of the case, such person is fairly and reasonably entitled to indemnity for such expenses which the Court of Chancery or such other
+court shall deem proper. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. To the extent that a present or past director, officer, employee or agent of the corporation has been
+successful on the merits or otherwise in defense of any action, suit, arbitration or proceeding referred to in Sections 1 and 2, or in defense of claim, issue or matter therein, he shall be indemnified against expenses (including, but not limited
+to, attorneys&#146; fees, expert fees, bonds, prospective or retroactive insurance premiums or costs, litigation, appeal, and court costs, and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses of
+such person during any investigation, hearing, arbitration, trial or appeal of any such action, suit or proceeding) actually and reasonably incurred by him in connection therewith, including any interest payable thereon. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 4. The board of directors shall cause the corporation to advance to any person covered by Sections 1 or 2 the expenses (including, but
+not limited to, attorneys&#146; fees, expert fees, bonds, prospective or retroactive insurance premiums or costs, litigation, appeal, and court costs and <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">out-of-pocket</FONT></FONT>
+expenses, of such person during any investigation, hearing, arbitration, trial or appeal of any such action, suit, arbitration or proceeding) incurred by that person in defending a threatened, pending, or completed civil, criminal, administrative,
+or investigative action suit, arbitration, or proceeding, including any interest payable thereon, in advance of the final disposition of such action, suit or proceeding. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 5. Any advance by the board of directors under Section&nbsp;4 above to any employee or agent who is not a present or past director or
+officer of the corporation shall be conditional upon evidence of compliance with the terms and conditions, if any, deemed appropriate and specified by the board of directors for such advance if such employee or agent is determined ultimately to be
+not legally entitled to indemnification from the corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 6. Any advance authorized by the board of directors under
+Section&nbsp;4 above to a present or past officer or director shall be conditional upon prior receipt by the corporation of a written undertaking from that officer or director to repay such advance if he is determined ultimately to be not legally
+entitled to indemnification from the corporation. Such undertaking shall be in the form of a simple agreement by the officer or director to repay advances made to him in the event that it is determined ultimately that he is not legally entitled to
+indemnification by the corporation. Such undertaking shall specifically </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 26 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+state that no bond, collateral or other security shall be required by the officer or director to insure its performance and that no interest on any amount advanced shall be required to be paid to
+the corporation if the officer or director is determined ultimately to be not legally entitled to indemnification from the corporation. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 7. The board of directors, in its sole discretion, may establish and may fund in advance and from time to time, in whole or in part, a
+separate provision or provisions, which may be in the form of a trust fund, periodic or advance retainers to counsel, or otherwise as the board of directors may determine in each instance, to be used as payment and/or advances of indemnification
+obligations under this Article VII to officers, directors, employees and agents of the corporation; provided, however, that any amount which is contributed to such fund shall not in any way be construed to be a limitation on the amount of
+indemnification and/or advances of the corporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 8. The board of directors shall cause the corporation to pay to any director,
+officer, employee or agent all expenses (including, but not limited to, attorneys&#146; fees, expert fees, bonds, prospective or retroactive insurance premiums or costs, litigation, appeal, and court costs, and <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">out-of-pocket</FONT></FONT> expenses of such person during any investigation, hearing, arbitration, trial or appeal of any such action, suit, arbitration or proceeding, including any interest payable thereon), which may be
+incurred by such director, officer, employee or agent in enforcing his rights to indemnification (as set forth herein in Sections 1, 2 and 3) and/or advances (as set forth herein in Section&nbsp;4) whether or not such director, officer, employee or
+agent is successful in enforcing such rights and whether or not suit or other proceedings are commenced. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 9. Any amendment to this
+Article VII shall only apply prospectively and shall in no way affect the corporation&#146;s obligations to indemnify and make advances to officers, directors, employees and agents as set forth in this Article VII for actions or events which
+occurred before any such amendment, and provided that any amendment to this Article VII shall require affirmative vote of <FONT STYLE="white-space:nowrap">four-fifths</FONT> of the entire board of directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 10. Any indemnification granted under the provisions of Sections 1, 2, 3 and 8 above shall be subject to the provisions of subsections
+(d), (e), (f)&nbsp;and (g)&nbsp;of Section&nbsp;145 of the General Corporation Law of the State of Delaware. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE VIII. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CONTRACTS, LOANS, CHECKS AND DEPOSITS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. CONTRACTS. The board of directors may authorize any officer or officers, agent or agents to enter into any contract or execute and
+deliver any instrument in the name of and on behalf of the corporation. Such authority may be general or confined to specific instances. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 27 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. LOANS. No loan shall be contracted on behalf of the corporation and no evidences of
+indebtedness shall be issued in its name, unless authorized by resolution of the board of directors. Such authority may be general or confined to specific instances. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. CHECKS, DRAFTS, ETC. All checks, drafts or other order or other orders for the payment of money, notes or other evidences of
+indebtedness issued in the name of the corporation shall be signed by such officer or officers, agent or agents and in such manner that shall from time to time be determined by resolution of the board of directors. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 4. DEPOSITS. All funds of the corporation not otherwise employed shall be deposited from time to time to the credit of the corporation
+in the bank or banks or other depositories that the board of directors may elect. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE IX. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>VOTING OF STOCK OF OTHER CORPORATIONS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Unless otherwise ordered by the board of directors, the chief executive officer, the president, each executive vice president, and each senior
+vice president shall have full power and authority on behalf of the corporation to act and vote at any meeting of stockholders of any corporation in which the corporation may hold stock, and at any such meeting, shall possess, and may exercise, any
+and all of the rights and powers incident to the ownership of the stock, which, as the owner thereof, the corporation might have possessed and exercised if present. The board of directors by resolution from time to time, may confer like powers upon
+any other person or persons. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE X. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>NOTICES </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. FORM
+OF NOTICE. Whenever under the provisions of the statutes, the Certificate of Incorporation, or these bylaws, notice is required to be given to any director or stockholder, it shall not be construed to mean personal notice, but the notice may be
+given in writing by mail, which shall mean depositing same in a United States Postal Service post office or letter box, in a postage paid, sealed envelope, addressed to the stockholder or director at the address that appears on the books of the
+corporation or, in default of other address, to such director or stockholder at the United States Postal Service general post office in the City of Wilmington, Delaware, and the notice shall be deemed to be given at the time when the same shall be
+thus mailed or by any other means expressly provided for in these bylaws. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 28 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. WAIVER OF NOTICE. Whenever any notice is required to be given under the provision of
+the statutes, the Certificate of Incorporation or these bylaws, a waiver thereof in writing signed by the person or persons entitled to the notice whether before or after the time stated therein shall be deemed equivalent thereto. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE XI. </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>STOCK
+CERTIFICATES </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. CERTIFICATED AND UNCERTIFICATED SHARES. Shares of the capital stock of the corporation may be certificated or
+uncertificated, as provided by the laws of the State of Delaware. The certificates for shares of the capital stock of the corporation shall be in the form, not inconsistent with the Certificate of Incorporation, that shall be approved by the board
+of directors. The certificate shall be signed by the chairman of the board, chief executive officer, president or a vice president, and either the treasurer or an assistant treasurer, or the secretary or an assistant secretary, but where the
+certificate is signed by a transfer agent or an assistant transfer agent and a registrar, the signatures of the chairman of the board, chief executive officer, president, vice president, treasurer, assistant treasurer, secretary or assistant
+secretary may be facsimiles. All certificates shall be consecutively numbered, and the name of the person owning the shares represented thereby, with the number of shares and the date of issue shall be entered in the corporation&#146;s books. No
+certificate shall be valid unless it is signed by the chairman of the board, chief executive officer, president, or a vice president, and either the treasurer or an assistant treasurer, or the secretary or an assistant secretary, but where the
+certificate is signed by a transfer agent or an assistant transfer agent and a registrar, the signatures of the chairman of the board, chief executive officer, president, vice president, treasurer, assistant treasurer, secretary or assistant
+secretary may be facsimiles. All certificates surrendered to the corporation shall be canceled, and no new certificates shall be issued until the former certificate for the same number of shares of the same class shall have been surrendered and
+canceled. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. TRANSFER OF SHARES. Shares of the capital stock of the corporation shall be transferred only on the books of the
+corporation by the holder thereof in person or by his attorney and, in the case of certificated shares, upon surrender and cancellation of certificates for the same number of shares. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. REGULATIONS. The board of directors shall have authority to make any rules and regulations that they may deem expedient concerning
+the issue, transfer and registration of certificates for shares of the capital stock of the corporation. The board of directors may appoint one or more transfer agents or assistant transfer agents and one or more registrars of transfers and may
+require all certificates to bear the signature of the transfer agent or assistant transfer agent and a registrar of transfers. The board of directors may at any time terminate the appointment of any transfer agent or any assistant transfer agent or
+any registrar of transfers by the vote of a majority of the board of directors. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 29 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 4. FIXING DATE FOR DETERMINATION OF STOCKHOLDERS&#146; RIGHTS. The board of directors may
+close the stock transfer books of the corporation for a period not exceeding 60 days preceding the date of any meeting of stockholders, or the date for payment of any dividend, or the date for the allotment of rights, or the date when any change or
+conversion or exchange of capital stock shall go into effect, or for a period not exceeding 60 days in connection with obtaining the consent of stockholders for any purpose. In lieu of closing the stock transfer books as aforesaid, the board of
+directors may fix a date not exceeding 60 days preceding the date of any meeting of stockholders, or the date for the payment of any dividend, or the date for the allotment of rights, or the date when any change or conversion or exchange of capital
+stock shall go into effect, or a date in connection with obtaining such consent, as a record date for the determination of the stockholders entitled to notice of, and to vote at, any meeting and any adjournment thereof, or entitled to receive
+payment of any dividend, or to any allotment of rights, or to exercise the rights in respect of any change, conversion or exchange of capital stock, or to give such consent, and in such case the stockholders and only the stockholders that shall be
+stockholders of record on the date so fixed shall be entitled to the notice or to receive payment of the dividend, or to receive the allotment of rights, or to exercise the rights or to give such consent, as the case may be, notwithstanding any
+transfer of any stock on the books of the corporation after any record date fixed as aforesaid. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 5. REGISTERED STOCKHOLDERS. The
+corporation shall be entitled to treat the holder of record of any share or shares of stock as the holder in fact thereof and accordingly shall not be bound to recognize any equitable or other claim to or interest in the share or shares on the part
+of any other person whether or not it shall have express or other notice thereof except as otherwise provided by the laws of the State of Delaware. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 6. LOST CERTIFICATES. The board of directors may direct a new certificate or certificates to be issued in place of any certificate or
+certificates theretofore issued by the corporation alleged to have been lost or destroyed, upon the making of an affidavit of that fact with the person claiming the certificate of stock to be lost or destroyed. When authorizing the issue of a new
+certificate or certificates, the board of directors may, in its discretion and as a condition precedent to the issuance thereof, require the owner of the lost or destroyed certificate or certificates, or his legal representative, to advertise the
+same in a manner that it shall require for each share of stock having voting power registered in his name and to give the corporation a bond in the sum that it may direct as indemnity against any claim that may be made against the corporation with
+respect to the certificate alleged to have been lost or destroyed. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 7. DIVIDENDS. The board of directors may from time to time
+declare, and the corporation may pay, dividends on its outstanding shares in the manner and upon the terms and conditions provided by law and the Certificate of Incorporation. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 30 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 8. RESERVE FUNDS. Before payment of any dividend there may be set aside out of any funds
+of the corporation available for dividends the sum or sums that the board of directors may from time to time in their absolute discretion think proper as a reserve fund to meet contingencies, or for equalizing dividends, or for repairing or
+maintaining any property of the corporation, or for any other purpose that the directors shall think conducive to the interest of the corporation and the board of directors may modify or abolish the reserve in the manner in which it was created.
+</P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE XII. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>GENERAL PROVISIONS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. FISCAL YEAR. The fiscal year of the corporation shall begin on the first day of January in each year. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2. INSPECTION OF BOOKS. The board of directors shall determine from time to time whether, and if allowed, when and under what
+conditions and regulations, the accounts and books of the corporation (except as may be by statute specifically open to inspection) or any of them, shall be open to the inspection of the stockholders, and a stockholder&#146;s rights in this respect
+are, and shall be, restricted and limited accordingly. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 3. GENDER. The use of the masculine gender in these bylaws shall be deemed
+to include the feminine gender. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ARTICLE XIII. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AMENDMENTS TO AND SUSPENSION OF BYLAWS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 1. AMENDMENTS. Subject to the provisions of Section&nbsp;12 of Article IV, these bylaws may be altered or repealed at any regular
+meeting of the stockholders or at any special meeting of the stockholders at which a quorum is present or represented, provided notice of the proposed alteration or repeal be contained in the notice of the special meeting, by the affirmative vote of
+a majority of the stockholders entitled to vote at the meeting and present or represented thereat, or by the affirmative vote of a majority of the board of directors at any regular meeting of the board of directors or at any special meeting of the
+board of directors, if notice of the proposed alteration or repeal be contained in the notice of the special meeting. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">SECTION 2.
+SUSPENSION. Any provision of these bylaws may be suspended by vote of two-thirds of the votes cast upon the motion to suspend except that the suspension of the bylaw provision might be in contravention of any provision of any statute or of the
+Certificate of Incorporation. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;* </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Page 31 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

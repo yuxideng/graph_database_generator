@@ -1,0 +1,412 @@
+<SEC-DOCUMENT>0001193125-17-170673.txt : 20170515
+<SEC-HEADER>0001193125-17-170673.hdr.sgml : 20170515
+<ACCEPTANCE-DATETIME>20170515161834
+ACCESSION NUMBER:		0001193125-17-170673
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170511
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170515
+DATE AS OF CHANGE:		20170515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APACHE CORP
+		CENTRAL INDEX KEY:			0000006769
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				410747868
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04300
+		FILM NUMBER:		17844443
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2000 POST OAK BLVD
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056-4400
+		BUSINESS PHONE:		7132966000
+
+	MAIL ADDRESS:	
+		STREET 1:		2000 POST OAK BLVD
+		STREET 2:		STE 100
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77056-4400
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	APACHE OIL CORP
+		DATE OF NAME CHANGE:	19660830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d387329d8k.htm
+<DESCRIPTION>8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:8pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): May&nbsp;11, 2017 </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>APACHE CORPORATION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>1-4300</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>41-0747868</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2000 Post Oak Boulevard </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Suite 100 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Houston, Texas
+77056-4400 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code:
+(713)&nbsp;296-6000 </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-Commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is an emerging growth company as defined in as defined in Rule 405 of the Securities Act of 1933 (&#167;230.405
+of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (&#167;240.12b-2 of this chapter). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Emerging growth
+company&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.02.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On May&nbsp;11, 2017, the board of directors (the &#147;Board&#148;) of Apache Corporation (the &#147;Company&#148;) appointed Mr.&nbsp;Rene&nbsp;R. Joyce as a
+new director of the Company&#146;s Board. Mr.&nbsp;Joyce has been appointed to the Management Development and Compensation Committee of the Company&#146;s Board. On May&nbsp;11, 2017, the Company issued a press release announcing this appointment, a
+copy of which is filed herewith as Exhibit 99.1. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">For his service, Mr.&nbsp;Joyce will receive compensation that is commensurate with that received by the
+Company&#146;s other non-employee directors. Such compensatory arrangements are described under the caption &#147;Director Compensation&#148; in the Company&#146;s definitive proxy statement relating to its 2017 annual meeting of stockholders, which
+was filed with the Securities and Exchange Commission on March&nbsp;28, 2017, and is incorporated by reference herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Other than as disclosed herein, no
+material plan, contract, or arrangement was entered into or materially amended, and there was no grant or award to Mr.&nbsp;Joyce or modification thereto under any such plan, contract, or arrangement, in connection with Mr.&nbsp;Joyce&#146;s
+appointment. Mr.&nbsp;Joyce has (i)&nbsp;no arrangements or understandings with any other person pursuant to which he was selected as a director and (ii)&nbsp;no direct or indirect material interest in any transaction or series of similar
+transactions contemplated by Item&nbsp;404(a) of Regulation S-K. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Joyce currently serves as a director of the midstream company Targa Resources
+Corporation (&#147;TRC&#148;). Mr.&nbsp;Joyce previously served as executive chairman of the board of TRC between 2012 and 2014 and as chief executive officer of TRC between 2005 and 2011. In addition to his leadership roles with TRC and several of
+its subsidiaries, Mr.&nbsp;Joyce previously served as president of onshore pipeline operations of Coral Energy, LLC, a subsidiary of Shell Oil Company (&#147;Shell&#148;) and as president of energy services of Coral Energy Holding, L.P.
+(&#147;Coral&#148;), a subsidiary of Shell which was the gas and power marketing joint venture between Shell and Tejas Gas Corporation (&#147;Tejas&#148;), a natural gas pipeline company. Prior to Shell&#146;s acquisition of Tejas in 1998,
+Mr.&nbsp;Joyce served as president of various operating subsidiaries of Tejas. Mr.&nbsp;Joyce holds a Bachelor of Science in Mechanical Engineering from Louisiana State University and a J.D. from Loyola University School of Law. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="9%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>(d) Exhibits. </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.10pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit&nbsp;No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release of Apache Corporation, dated May&nbsp;11, 2017.</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="46%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><B>APACHE CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: May&nbsp;15, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Rebecca A. Hoyt</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Rebecca A. Hoyt</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Senior Vice President, Chief Accounting Officer and Controller (Principal Accounting Officer)</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INDEX TO EXHIBITS </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="7%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.10pt; font-size:8pt; font-family:Times New Roman"><B>Exhibit&nbsp;No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release of Apache Corporation, dated May 11, 2017.</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d387329dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:16pt">
+<TD VALIGN="top">
+
+
+<IMG SRC="g387329g66u36.jpg" ALT="LOGO">
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right"><B>NEWS RELEASE</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>APACHE APPOINTS RENE R. JOYCE TO BOARD OF DIRECTORS </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">HOUSTON, May&nbsp;11, 2017 &#150; Apache Corporation (NYSE, Nasdaq: APA) today announced the appointment of Rene R. Joyce to its board of
+directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Joyce, 69, currently serves as a director of midstream company Targa Resources Corporation (TRC). Joyce previously served as
+executive chairman of the board of TRC between 2012 and 2014 and as chief executive officer of TRC between 2005 and 2011. In addition to his leadership roles with TRC and several of its subsidiaries, Joyce previously served as president of onshore
+pipeline operations of Coral Energy, LLC, a subsidiary of Shell Oil Company; and as president of energy services of Coral Energy Holding, LP, also a subsidiary of Shell and the gas and power marketing joint venture between Shell and Tejas Gas
+Corporation, a natural gas pipeline company. Prior to Shell&#146;s acquisition of Tejas in 1998, Joyce served as president of various operating subsidiaries of Tejas. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Joyce holds a Bachelor of Science degree in mechanical engineering from Louisiana State University and a law degree from Loyola University.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">&#147;We are pleased to welcome Rene to the Apache board. He brings extensive midstream expertise, which has become increasingly
+important for Apache as we develop our Alpine High discovery in the Delaware Basin. Rene will be a tremendous asset to Apache, and we look forward to his contributions,&#148; said John Lowe, Apache&#146;s nonexecutive board chairman. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About Apache </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Apache Corporation is an
+oil and gas exploration and production company with operations in the United States, Canada, Egypt and the United Kingdom. Apache posts announcements, operational updates, investor information and all press releases on its website,
+<U>www.apachecorp.com</U>. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>Contacts</B></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Media:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">(713)296-7189 Castlen Kennedy</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Investor:&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">(281)302-2286 Gary Clark</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Website:</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">www.apachecorp.com</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">-end- </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g387329g66u36.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g387329g66u36.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  H'!P@'!@H(" @+"@H+#A@0#@T-
+M#AT5%A$8(Q\E)"(?(B$F*S<O)BDT*2$B,$$Q-#D[/CX^)2Y$24,\2#<]/CO_
+MVP!# 0H+"PX-#AP0$!P[*"(H.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SL[
+M.SL[.SL[.SL[.SL[.SL[.SL[.SL[.SO_P  1"  ] *@# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+M! 0   %] 0(#  01!1(A,4$&$U%A!R)Q%#*!D:$((T*QP152T? D,V)R@@D*
+M%A<8&1HE)B<H*2HT-38W.#DZ0T1%1D=(24I35%565UA96F-D969G:&EJ<W1U
+M=G=X>7J#A(6&AXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&
+MQ\C)RM+3U-76U]C9VN'BX^3EYN?HZ>KQ\O/T]?;W^/GZ_\0 'P$  P$! 0$!
+M 0$! 0        $" P0%!@<("0H+_\0 M1$  @$"! 0#! <%! 0  0)W  $"
+M Q$$!2$Q!A)!40=A<1,B,H$(%$*1H;'!"2,S4O 58G+1"A8D-.$E\1<8&1HF
+M)R@I*C4V-S@Y.D-$149'2$E*4U155E=865IC9&5F9VAI:G-T=79W>'EZ@H.$
+MA8:'B(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4
+MU=;7V-G:XN/DY>;GZ.GJ\O/T]?;W^/GZ_]H # ,!  (1 Q$ /P#V:BBB@ IK
+M,J*68@*!DD]J221(HS)(P55&23VKF-4U9[UC''E8 >!W;W->?CL?3PD+RU;V
+M7]=#6G3<V2:IK#W+&&W8I".K#@M_]:MZP9GT^!F)),8R3]*XRNRT[_D'6_\
+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
+M\\NY!%96L#[XH$1AW I\UO#<*%FB5P.FX9J2BK5*FH\JBK=K"N[W*G]F6/\
+MSZQ_E3X["TAD$D=O&K#H0.E6**E8>BG=07W(?-+N5GT^SD<N]O&S,<DD=:F\
+MJ,1>4$4)C&T#C%/HJHTJ<6VHK7R%=LJC3;($$6L>1_LU+-;0W  FB60#IN&<
+M5+125&DDTHJS\@YGW*G]F6/_ #ZQ_P#?-']F6/\ SZQ_]\U;HJ?JU'^1?<A\
+-\NX@&!@44M%;DG__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

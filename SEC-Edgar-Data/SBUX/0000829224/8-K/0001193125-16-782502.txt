@@ -1,0 +1,572 @@
+<SEC-DOCUMENT>0001193125-16-782502.txt : 20161201
+<SEC-HEADER>0001193125-16-782502.hdr.sgml : 20161201
+<ACCEPTANCE-DATETIME>20161201160856
+ACCESSION NUMBER:		0001193125-16-782502
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20161201
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20161201
+DATE AS OF CHANGE:		20161201
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		IRS NUMBER:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		162028438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d299175d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant
+to Section&nbsp;13 or 15(d) of the </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): December&nbsp;1, 2016 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g299175g68x65.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Washington</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>0-20322</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>91-1325671</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(State of Incorporation)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2401 Utah Avenue South, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Seattle, Washington 98134 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(206) 447-1575 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K is intended to simultaneously satisfy the filing obligation of the registrant under any of the following
+provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))</TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On December&nbsp;1, 2016, Starbucks Corporation (the &#147;<U>Company</U>&#148; or &#147;<U>Starbucks</U>&#148;) announced the appointment of
+Kevin R. Johnson, currently president and chief operating officer of Starbucks, as president and chief executive officer of the Company and Howard Schultz, currently chairman and ceo of Starbucks, as executive chairman, such appointments to be
+effective April&nbsp;3, 2017. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">In his new role as executive chairman, Mr.&nbsp;Schultz will shift his focus to innovation, design and
+development of Starbucks Reserve<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> Roasteries around the world, expansion of the Starbucks Reserve<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> retail store format and the
+Company&#146;s social impact initiatives. Mr.&nbsp;Schultz will continue to serve as chairman of the Company&#146;s Board of Directors in this new role. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Johnson, 56, has served as president and chief operating officer of the Company since March 2015. He served as Chief Executive
+Officer of Juniper Networks, Inc., a leading provider of high-performance networking products and services, from September 2008 to December 2013. He also served on the Board of Directors of Juniper Networks from September 2008 through February 2014.
+Prior to joining Juniper Networks, Mr.&nbsp;Johnson served as President, Platforms and Services Division for Microsoft Corporation, a worldwide provider of software, services and solutions. Mr.&nbsp;Johnson was a member of Microsoft&#146;s Senior
+Leadership Team and held a number of senior executive positions over the course of his 16 years at Microsoft. Prior to joining Microsoft in 1992, Mr.&nbsp;Johnson worked in International Business Machine Corp.&#146;s systems integration and
+consulting business. Mr.&nbsp;Johnson will remain a member of the Starbucks Board of Directors, which he joined in March 2009. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Johnson&#146;s compensation in connection with his role as president and chief executive officer has not yet been determined. There
+is no arrangement or understanding between Mr.&nbsp;Johnson or any other person pursuant to which Mr.&nbsp;Johnson was selected as an officer or director. There are no family relationships among any of our directors or executive officers.
+Mr.&nbsp;Johnson has not had an interest in any transaction since the beginning of the Company&#146;s last fiscal year, or any currently proposed transaction, that requires disclosure pursuant to Item&nbsp;404(a) of Regulation S-K. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;7.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Regulation FD Disclosure. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">A copy of the Company&#146;s press release relating to the
+announcement described in Item&nbsp;5.02, dated December&nbsp;1, 2016, is furnished as Exhibit 99.1 to this Form 8-K. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Starbucks will hold
+a conference call hosted by Mr.&nbsp;Schultz and Mr. Johnson on Thursday, December&nbsp;1, 2016, at 1:30 p.m. Pacific Time. The conference call will be webcast and can be accessed on the Company&#146;s website: <U>http://investor.starbucks.com</U>.
+</P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits. </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) Exhibits: </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:26.20pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Exhibit<BR>Number</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release dated December&nbsp;1, 2016</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3"><B>STARBUCKS CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: December&nbsp;1, 2016</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000">/s/ Lucy Lee Helm</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Lucy Lee Helm</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">executive vice president, general counsel</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">and secretary</P></TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:26.20pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Index<BR>Number</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:37.25pt; font-size:8pt; font-family:Times New Roman">Description</P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release dated December&nbsp;1, 2016</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d299175dex991.htm
+<DESCRIPTION>EXHIBIT 99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>Exhibit 99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g299175g51t34.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Announces New Leadership Structure to Drive Next </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Wave of Global Growth </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>Kevin Johnson to become chief executive officer and assume full responsibility for Starbucks global </I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>business and operations; Howard Schultz to become executive chairman and focus on retail </I></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><I>innovation and accelerating growth of Starbucks ultra-premium retail formats </I></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">SEATTLE (Dec. 1, 2016) &#150; Starbucks Corporation (NASDAQ: SBUX) today announced that Kevin Johnson, president and chief operating officer and a 7-year
+member of the Starbucks Board of Directors, will expand his responsibilities and assume the role and responsibilities of president and chief executive officer, effective April&nbsp;3, 2017. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Also effective April&nbsp;3, 2017, Howard Schultz, chairman and ceo, will be appointed executive chairman and will shift his focus to innovation, design and
+development of Starbucks Reserve<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> Roasteries around the world, expansion of the Starbucks Reserve<SUP STYLE="font-size:85%; vertical-align:top">&reg;</SUP> retail store format and the
+company&#146;s social impact initiatives. In this new role Schultz will continue to serve as chairman of the Board. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Starbucks consistently
+outperforms the retail industry because our stores, our offerings and the experiences our partners create make us a destination. The best evidence of the success of the core strategy driving our business is that we continue to deliver quarter after
+quarter of record, industry leading revenue, comp sales and profit growth, and that the newest classes of Starbucks stores continue to deliver record-breaking revenues, AUV&#146;s and ROI &#150; both in the U.S. and around the world,&#148; said
+Schultz. &#147;As I focus on Starbucks next wave of retail innovation, I am delighted that Kevin Johnson&#151;our current president, coo, a seven-year board member and my partner in running every facet of Starbucks business over the last two
+years&#151;has agreed to assume the duties of Starbucks chief executive officer. This move ideally positions Starbucks to continue profitably growing our core business around the world into the future.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As president and chief operating officer since March 2015, Johnson has led the company&#146;s global operating businesses across all geographies as well as
+the core support functions of Starbucks supply chain, marketing, human resources, technology, and mobile and digital platforms. Johnson has been a Starbucks board member since 2009, and will continue to serve as a member of the Starbucks board of
+directors. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;Over the past two decades, I have grown to know Starbucks first as a customer, then as a director on the board, and for the past two
+years as a member of the management team. Through that journey, I fell in love with Starbucks and I share Howard&#146;s commitment to our mission and values and his optimism for the future,&#148; said Johnson. &#147;It is an honor for me to serve
+the more than 300,000 partners who proudly wear the green apron and I consider it a privilege to work side-by-side with Howard, our </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+world-class board of directors, and a very talented leadership team. Together, we will reaffirm our leadership in all things coffee, enhance the partner experience and exceed the expectations of
+our customers and shareholders. We believe in using our scale for good and having positive social impact in the communities we serve around the world.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Johnson&#146;s career spans 33 years in the technology industry which included a 16-year career at Microsoft and a five-year tour as ceo of Juniper Networks.
+At Microsoft, he led worldwide sales and marketing and became the president of the Platforms Division. In 2008, he was appointed to the National Security Telecommunication Advisory Committee where he served Presidents George W. Bush and Barack
+Obama. He joined the Starbucks board in 2009 and the management team in 2015. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Conference Call Details </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Starbucks will hold a conference call hosted by Howard Schultz and Kevin Johnson today, December&nbsp;1, at 1:30 p.m. Pacific Time/4:30 p.m. Eastern Time. The
+conference call will be webcast and can be accessed on the company&#146;s website: <U>http://investor.starbucks.com</U>. A replay of the webcast will be available on the company&#146;s website until end of day on Tuesday, January&nbsp;3, 2017. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>About Starbucks </U></B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since 1971, Starbucks Coffee
+Company has been committed to ethically sourcing and roasting high-quality <I>arabica</I> coffee. Today, with more than 25,000 stores around the globe, the company is the premier roaster and retailer of specialty coffee in the world. Through our
+unwavering commitment to excellence and our guiding principles, we bring the unique Starbucks Experience to life for every customer through every cup. To share in the experience, please visit us in our stores or online at
+<U>www.starbucks.com</U>&nbsp;and <U>www.news.starbucks.com</U>. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B><U>Forward Looking Statements </U></B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Certain statements contained herein are &#147;forward-looking statements&#148; within the meaning of the applicable securities laws and regulations. Generally,
+these statements can be identified by the use of words such as &#147;anticipate,&#148; &#147;expect,&#148; &#147;believe,&#148; &#147;could,&#148; &#147;estimate,&#148; &#147;feel,&#148; &#147;forecast,&#148; &#147;intend,&#148; &#147;may,&#148;
+&#147;plan,&#148; &#147;potential,&#148; &#147;project,&#148; &#147;should,&#148; &#147;will,&#148; &#147;would,&#148; and similar expressions intended to identify forward-looking statements, although not all forward-looking statements contain these
+identifying words. These statements are based upon information available to Starbucks as of the date hereof, and Starbucks actual results or performance could different materially from those stated or implied due to risks and uncertainties
+associated with its business. These risks and uncertainties include, but are not limited to, fluctuations in U.S. and international economies and currencies, our ability to preserve, grow and leverage our brands, potential negative effects of
+incidents involving food or beverage-borne illnesses, tampering, contamination or mislabeling, potential negative effects of material breaches of our information technology systems to the extent we experience a material breach, material failures of
+our information technology systems, costs associated with, and the successful execution of, the company&#146;s initiatives and plans, the acceptance of the company&#146;s products by our customers, the impact of competition, coffee, dairy and other
+raw materials prices and availability, the effect of legal proceedings, and other risks detailed in the company filings with the Securities and Exchange Commission, including the &#147;Risk Factors&#148; section of the Starbucks Annual Report on
+Form 10-K for the fiscal year ended October&nbsp;2, 2016. The company assumes no obligation to update any of these forward-looking statements. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"># # # </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g299175g51t34.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g299175g51t34.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( &H : ,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /?Z "@ H :\BQH7=@JJ,DDX H$W8Y#5_B9X;TIFC6Z:\F7^
+M"V7<!^/2@Y*F,IPTO<Y*[^-4N[%EHJA>QFE_H!0<DLR_E14_X7#KWD^?_9-I
+MY(?9N^?&[&<9SUQ01_:%2U^4M6GQJF##[9HJE?6&7'\Q07',OYD=9I'Q.\-Z
+MHRQO<M93-_#<KM&?][I0==/&4I];'8)(DB*\;*Z,,AE.0:#K3N/H&% !0 4
+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
+M.:C3="O9;,TO$?PZ;5_$5WJMQKQM+.;;OC48( &.23B@UJX92FY.5D9*>)/
+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
+0HH 6@!#TH$)0,4=* 9__V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g299175g68x65.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g299175g68x65.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( &, 9 ,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /?Z "@ H SM6UW3-"MO/U*\CMT[!C\S?0=31L9U*L*:O)GG
+M>K?&>WC9DTC36FQTDN&V@_\  1S4W/.J9BEI!'+W/Q9\4SL3%+;6P[".$''_
+M 'UFE=G)+'UGMH/N?'GCK3X+.YN=0 BNX_-BW6\>&7..RT[L<L5B8)-O?R19
+MLOC%KT! N[6TNE[X4HWZ''Z47+CF-1?$KG::)\6-"U-EBO1)ITQX_>\H?^!#
+MI^.*=SMI8^G/1Z'=12QS1K)$ZO&PRK*<@CZTSN335T/H&% !0 4 % 'G?CCX
+MEPZ(TFFZ1LGU </(>4A_Q/M2;L>=B<:J?NPW/%[Z_N]3NWNKVXDN)WZNYR?_
+M *U0>).<IN\F5NG%!)VW@;0?#'B.46.HW%U!J')1%<!)1[<=?:J5CNPM*C5]
+MV6YZQXF\)Z'JNBP1:BS6UKIZY21&"[% P<G'3BG8]:M0IS@E+1(\ UD:6FHR
+M)HYG:S7A7G(W/[\=!4GS]3D4K0V*':D9G1>&/&>K>%YU^S2F6T)^>VD.4/T]
+M#]*:=CIH8F=%Z;'O/AOQ/I_B?3A=6+X9>)86^]&?0_XU:/?HUHUHWB;5!L%
+M!0!Y[\2_&S:%:_V5ITF-0G7+N.L*>OU/:DW8\[&XGV2Y([GAI))))))Y)/>H
+M/"-/0=#E\0:A]@MKF"&Y928UF) D([ ^M,UI4G5ERIZGJ_@S0G^QS^&O%6C1
+M.T WV\KH&#H>H#CT/X\TUV9Z^'I:.E5B6[#P'9>$=?FUVS6>[A2(B&T1=\BN
+M?0^F/7I3M8N&%C0FZD=?(L:?KNOZE<7-CKWA>>WT^Z!1)(\/L4C&'&>?J*"H
+MU*LVXU(:,@\.?"W1]'4SZDJZA<Y)'F#]V@[87O\ 4T6)HX*G3UEJSC_$/AO6
+M/%&HW6K+;P:9HMLI6%Y_W:B-?X@H&>>M*USBK4)UI.=K11YRP 8@'(!X/K4G
+MF[&EH&O7OAS58K^R?#+PZ'[LB]U--:&M&K*E+FB?2.A:S:Z_I$&HV;9CE'*G
+MJC=U/N*L^EI5%5BI1-&@T*.KZG#HVD76HW!_=V\9<CU]!^)XH,ZDU3BY/H>,
+M^#-)C\>ZUKL^K@N\L6Y90>8G+<8^@&,>E2M3QL/36)G)S.+U32[G2=7N-,G4
+MF>!RA"C.[T(^HI;'%.FX3<'T(D^UZ?<17"K+!+&P=&*E2".AH)7-!W/83\7+
+M8Z5;M:Z;/=Z@442H!M1'/&,]\GIBJN>S]?7*K*[&:?K?Q \2WLT=DMCI]O"V
+MR24IO"MW4$YR1WQ2U"%7$UG[MDC7FT;Q]!$9+;Q/:SR@9\N2U50?;-/4U=/$
+MK53N8$/Q$\3Z3++%KFCQ3>1((YA$=CJ3]TXY&#V/2E=F"Q=:F[5(F3\0/B#!
+MK^E6^FZ8)HD8[KI9%VL".B?GS^5#9CB\6JD5&'S//#;3K'YA@E"?WBAQ^=2>
+M;RRWL=K\-O!L/B2^EO+]2VGVI *9QYC^GT'>J2N=V#PRJOFELC0^'&NOH?C"
+M[T*<[+:ZF9%7LD@) _/I^5"T-,'5]G5=-[,]KJCVSR[XQZUY.G6NC1G#3L)I
+M,=U&<#\_Y4F>7F-2T5!&[\-/#CZ#X:$MPFV[O")7!ZJO\(_+^="5C?!4?94[
+MO=G174.DZ6;K6+B&"%PNZ:X91NP!ZTSIDH0O-H\<USQ1/XWU&<,K0Z%8(9FC
+M'#2 <+D^K$@ =LU-[GC5:SQ$G_*C0MK)-*FU!A&BOHMA]H8*, W4@X/_  $<
+M#Z4&D8J%_P"ZOQ9GZ;XFU#3=#LHM.O=56Z2+>L/V)6@?DDC/WCG^]1<B%:<8
+M+E;OZ:'7^*O%^J6VE:#]E\RVDU"+S9WAA\R1% !(53]>]-LZZ^(FHQMI<YJR
+MU)=9\7Z;;7$U_<VU_;R6LIOH%C8@Y(P5X;! (]#2.:,^>JD[ZZ:E*71AJ-G
+MSX6_%P]@TPX/GQ\QL?\ > VGW -!FZ?,EWV^9UG@#Q]_:K+H6N!1>CY8I&
+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
+;)<(MW:U+-!0UD1_O*#]1F@5AW2@84 % '__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

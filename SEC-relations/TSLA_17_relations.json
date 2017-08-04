@@ -682,14 +682,14 @@
     "Content-Encoding": "gzip", 
     "Content-Length": "864", 
     "Content-Type": "application/json", 
-    "Date": "Mon, 31 Jul 2017 18:01:30 GMT", 
+    "Date": "Mon, 31 Jul 2017 16:48:18 GMT", 
     "Server": "openresty", 
     "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
     "Vary": "Accept-Encoding", 
     "X-RosetteAPI-App-Id": "1409615304782", 
     "X-RosetteAPI-Concurrency": "2", 
     "X-RosetteAPI-ProcessedLanguage": "eng", 
-    "X-RosetteAPI-Request-Id": "2bf6ad864e3c70731484819336a252d9", 
+    "X-RosetteAPI-Request-Id": "f9ebcad80656e702c34c6eb3827f30d0", 
     "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
   }
 }

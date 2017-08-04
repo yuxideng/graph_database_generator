@@ -1,6 +1,6 @@
 from neo4j.v1 import GraphDatabase
 import json
-#driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "19960407"))
+driver = GraphDatabase.driver("bolt://localhost:7687", auth=("neo4j", "19960407"))
 
 
 def add_friends(tx, name, friend_name):
@@ -119,4 +119,4 @@ def run_on_file(driver,path):
                 else:
                     continue
 
-#run_on_file(driver,r"C:\Users\dengy1\EDO-Intern-Project\Yuxi\sec-crawler\SEC-relations\F_17_relations.json")
+run_on_file(driver,r"SEC-relations\AMZN_17_relations.json")

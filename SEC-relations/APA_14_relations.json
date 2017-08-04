@@ -1,0 +1,136 @@
+{
+  "relationships": [
+    {
+      "arg1": "Frederick M. Bohen", 
+      "arg2": "Rockefeller University", 
+      "arg2Id": "Q270272", 
+      "confidence": 0.8704131841659546, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Charles J. Pitman", 
+      "arg2": "BP Amoco plc", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "EnCap Investments", 
+      "arg1Id": "Q16992548", 
+      "arg2": "EUGENE C. FIEDOREK", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "EUGENE C. FIEDOREK", 
+      "arg2": "EnCap Investments", 
+      "arg2Id": "Q16992548", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Harvard\n    University", 
+      "arg2Id": "Q13371", 
+      "confidence": 0.7885751724243164, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg1Id": "Q7145605", 
+      "arg2": "Harvard\n    University", 
+      "arg2Id": "Q13371", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Rodney J. Eichler", 
+      "arg2": "Egypt", 
+      "arg2Id": "Q79", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Rodney J. Eichler", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Rodney J. Eichler", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Arthur Andersen LLP", 
+      "arg2": "REBECCA A. HOYT", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "REBECCA A. HOYT", 
+      "arg2": "Arthur Andersen LLP", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Raymond Plank", 
+      "arg2": "Texas Independent", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Texas Independent", 
+      "arg2": "Raymond Plank", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "North America", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "George D. Lawrence", 
+      "arg2": "Management Development", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Kocur", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "1016", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:31:13 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "63474e3196136f15cf95cc1fe1c9b1dc", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

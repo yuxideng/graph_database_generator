@@ -1,0 +1,161 @@
+{
+  "relationships": [
+    {
+      "arg1": "KKR Management LLC", 
+      "arg1Id": "Q1570773", 
+      "arg2": "KKR & Co. L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Edith E. Holiday", 
+      "arg2": "Treasury Department", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Read & Co. Inc.", 
+      "arg1Id": "Q5276914", 
+      "arg2": "Dillon", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Dillon", 
+      "arg2": "Read & Co. Inc.", 
+      "arg2Id": "Q5276914", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "E&P", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "E&P", 
+      "arg2": "William G. Schrader", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Emerging Markets and International Affairs", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Federal Reserve Bank of New York", 
+      "arg2Id": "Q115860", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin O. Meyers", 
+      "arg2": "ConocoPhillips", 
+      "arg2Id": "Q214763", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "TNK-BP", 
+      "arg2Id": "Q2298901", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte Touche Tohmatsu Limited", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pioneer Natural Resources Co.", 
+      "arg1Id": "Q4046987", 
+      "arg2": "Head of International Operations", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "David McManus", 
+      "arg2": "Pioneer Natural Resources Co.", 
+      "arg2Id": "Q4046987", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Edith E. Holiday", 
+      "arg2": "Corporate Governance and Nominating Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Kean", 
+      "arg2": "Hess Foundation, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Talisman Energy Inc.", 
+      "arg1Id": "Q838716", 
+      "arg2": "Repsol S.A.", 
+      "arg2Id": "Q174747", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "Messrs. Hill", 
+      "arg2": "Royal Dutch Shell", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "You Sow", 
+      "arg2": "Park Foundation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "You Sow", 
+      "arg2": "Allen Hancock Revocable Living Trust", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John B. Hess", 
+      "arg1Id": "Q6219986", 
+      "arg2": "EHS & SR", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "EHS & SR", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "307", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:12:22 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "4ac6350970ade7b535fae498bc7e8ab7", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

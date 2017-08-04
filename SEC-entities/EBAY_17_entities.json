@@ -1,0 +1,7417 @@
+{
+  "entities": [
+    {
+      "count": 37, 
+      "entityId": "Q58024", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 33, 
+      "entityId": "T42", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 22, 
+      "entityId": "T111", 
+      "mention": "director", 
+      "normalized": "director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 16, 
+      "entityId": "Q758913", 
+      "mention": "Audit\n    Committee", 
+      "normalized": "Audit Committee", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 12, 
+      "entityId": "T163", 
+      "mention": "Mr.", 
+      "normalized": "Mr.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 11, 
+      "entityId": "T140", 
+      "mention": "Nominating Committee", 
+      "normalized": "Nominating Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "Q953944", 
+      "mention": "SEC", 
+      "normalized": "SECURITIES AND EXCHANGE COMMISSION", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "T11", 
+      "mention": "HAMILTON AVENUE", 
+      "normalized": "HAMILTON AVENUE", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T62", 
+      "mention": "executive officers", 
+      "normalized": "executive officers", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T150", 
+      "mention": "http://investor.ebay.com/governance", 
+      "normalized": "http://investor.ebay.com/governance", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T30", 
+      "mention": "San Jose, California", 
+      "normalized": "San Jose, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q488048", 
+      "mention": "PricewaterhouseCoopers LLP", 
+      "normalized": "PricewaterhouseCoopers LLP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T47", 
+      "mention": "April 16,\n    2007", 
+      "normalized": "April 16, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T49", 
+      "mention": "Secretary", 
+      "normalized": "Secretary", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T80", 
+      "mention": "Corporate Secretary", 
+      "normalized": "Corporate Secretary", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T81", 
+      "mention": "executive", 
+      "normalized": "executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T124", 
+      "mention": "us", 
+      "normalized": "us", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q82059", 
+      "mention": "Nasdaq", 
+      "normalized": "Nasdaq", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T167", 
+      "mention": "Chairman", 
+      "normalized": "Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T147", 
+      "mention": "Ms.", 
+      "normalized": "Ms.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T171", 
+      "mention": "Nominating", 
+      "normalized": "Nominating", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q21064349", 
+      "mention": "Thomas J. Tierney", 
+      "normalized": "Thomas J. Tierney", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T202", 
+      "mention": "Chief Executive Officer", 
+      "normalized": "Chief Executive Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q44294", 
+      "mention": "he", 
+      "normalized": "Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q7252898", 
+      "mention": "DEF 14A", 
+      "normalized": "DEF 14A", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q3070", 
+      "mention": "San Jose", 
+      "normalized": "SAN JOSE", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T28", 
+      "mention": "Inc.", 
+      "normalized": "Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T336", 
+      "mention": "Whitman", 
+      "normalized": "Margaret C. Whitman", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T200", 
+      "mention": "executives", 
+      "normalized": "executives", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T220", 
+      "mention": "March 30, 2007", 
+      "normalized": "March 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q297240", 
+      "mention": "Mr. Anderson", 
+      "normalized": "Mr. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T347", 
+      "mention": "Dawn G. Lepore", 
+      "normalized": "Dawn G. Lepore", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q7329367", 
+      "mention": "Schlosberg", 
+      "normalized": "Richard T. Schlosberg", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T280", 
+      "mention": "April 1,\n    2006", 
+      "normalized": "April 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T344", 
+      "mention": "Scott D. Cook", 
+      "normalized": "Scott D. Cook", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q258", 
+      "mention": "RSA", 
+      "normalized": "RSA", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q99", 
+      "mention": "CA", 
+      "normalized": "CA", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q136218", 
+      "mention": "ZIP", 
+      "normalized": "ZIP", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1999032", 
+      "mention": "Securities Exchange Act", 
+      "normalized": "Securities Exchange Act", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T31", 
+      "mention": "June 14,\n    2007", 
+      "normalized": "June 14, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T45", 
+      "mention": "December 31, 2007", 
+      "normalized": "December 31, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T48", 
+      "mention": "Michael R. Jacobson", 
+      "normalized": "Michael R. Jacobson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T78", 
+      "mention": "http://investor.ebay.com", 
+      "normalized": "http://investor.ebay.com", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T123", 
+      "mention": "http://investor.ebay.com/annuals.cfm", 
+      "normalized": "http://investor.ebay.com/annuals.cfm", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T132", 
+      "mention": "866-696-3229", 
+      "normalized": "866-696-3229", 
+      "type": "IDENTIFIER:PHONE_NUMBER"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q181487", 
+      "mention": "Audit", 
+      "normalized": "Audit", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T334", 
+      "mention": "Pierre M. Omidyar", 
+      "normalized": "Pierre M. Omidyar", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T211", 
+      "mention": "three years", 
+      "normalized": "three years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T276", 
+      "mention": "Barnholt", 
+      "normalized": "Messrs. Barnholt", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T346", 
+      "mention": "Kagle", 
+      "normalized": "Robert C. Kagle", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T0", 
+      "mention": "webmaster@www.sec.gov", 
+      "normalized": "webmaster@www.sec.gov", 
+      "type": "IDENTIFIER:EMAIL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T1", 
+      "mention": "TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB", 
+      "normalized": "TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T5", 
+      "mention": "EBAY INC", 
+      "normalized": "EBAY INC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q219203", 
+      "mention": "NEC", 
+      "normalized": "NEC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q973587", 
+      "mention": "IRS", 
+      "normalized": "IRS", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T15", 
+      "mention": "408-376-7400", 
+      "normalized": "408-376-7400", 
+      "type": "IDENTIFIER:PHONE_NUMBER"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q30", 
+      "mention": "UNITED STATES", 
+      "normalized": "UNITED STATES", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q61", 
+      "mention": "Washington, D.C.", 
+      "normalized": "Washington, D.C.", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T24", 
+      "mention": "SCHEDULE 14A", 
+      "normalized": "SCHEDULE 14A", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5253299", 
+      "mention": "Delaware corporation", 
+      "normalized": "Delaware corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T35", 
+      "mention": "Thursday, June 14, 2007", 
+      "normalized": "Thursday, June 14, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T36", 
+      "mention": "8:00 a.m.", 
+      "normalized": "8:00 a.m.", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q141690", 
+      "mention": "Bay Events Center", 
+      "normalized": "Bay Events Center", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T38", 
+      "mention": "Bay Grand", 
+      "normalized": "Bay Grand", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T39", 
+      "mention": "Berkeley Street", 
+      "normalized": "Berkeley Street", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q100", 
+      "mention": "Boston", 
+      "normalized": "Boston", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T41", 
+      "mention": "Massachusetts", 
+      "normalized": "Massachusetts", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T51", 
+      "mention": "April 30, 2007", 
+      "normalized": "April 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T52", 
+      "mention": "May 4, 2007", 
+      "normalized": "May 4, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T64", 
+      "mention": "three-year", 
+      "normalized": "three-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T84", 
+      "mention": "California", 
+      "normalized": "California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4972280", 
+      "mention": "Broadridge Financial Solutions, Inc.", 
+      "normalized": "Broadridge Financial Solutions, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T99", 
+      "mention": "D.F. King & Co.", 
+      "normalized": "D.F. King & Co.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T101", 
+      "mention": "D.F. King", 
+      "normalized": "D.F. King", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T103", 
+      "mention": "$8,500", 
+      "normalized": "$8,500", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T110", 
+      "mention": "December 29, 2007", 
+      "normalized": "December 29, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T113", 
+      "mention": "March 14, 2008", 
+      "normalized": "March 14, 2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T114", 
+      "mention": "April 15, 2008", 
+      "normalized": "April 15, 2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T118", 
+      "mention": "November 13, 1998", 
+      "normalized": "November 13, 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T119", 
+      "mention": "http://investor.ebay.com/sec.cfm", 
+      "normalized": "http://investor.ebay.com/sec.cfm", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q16553", 
+      "mention": "San Jose,\n    California", 
+      "normalized": "San Jose, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5419946", 
+      "mention": "Executive Compensation", 
+      "normalized": "Executive Compensation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T144", 
+      "mention": "Director Summary", 
+      "normalized": "Director Summary", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q218636", 
+      "mention": "B-1", 
+      "normalized": "B-1", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T184", 
+      "mention": "second two-year", 
+      "normalized": "second two-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T198", 
+      "mention": "September 2004", 
+      "normalized": "September 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T204", 
+      "mention": "executive officer", 
+      "normalized": "executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T205", 
+      "mention": "January 1", 
+      "normalized": "January 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T206", 
+      "mention": "third year", 
+      "normalized": "third year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T217", 
+      "mention": "January 1, 2005", 
+      "normalized": "January 1, 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T229", 
+      "mention": "October 2005", 
+      "normalized": "October 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T233", 
+      "mention": "Director Performance", 
+      "normalized": "Director Performance", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T239", 
+      "mention": "executive staff", 
+      "normalized": "executive staff", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4819986", 
+      "mention": "Auditor Independence", 
+      "normalized": "Auditor Independence", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T266", 
+      "mention": "Vice President", 
+      "normalized": "Vice President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q505275", 
+      "mention": "Capital Research and Management", 
+      "normalized": "Capital Research and Management", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T337", 
+      "mention": "Robert H. Swan", 
+      "normalized": "Robert H. Swan", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7286184", 
+      "mention": "Rajiv Dutta", 
+      "normalized": "Rajiv Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T339", 
+      "mention": "John J. Donahoe", 
+      "normalized": "John J. Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5494950", 
+      "mention": "Fred D. Anderson", 
+      "normalized": "Fred D. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T342", 
+      "mention": "Edward W. Barnholt", 
+      "normalized": "Edward W. Barnholt", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3379414", 
+      "mention": "Philippe Bourguignon", 
+      "normalized": "Philippe Bourguignon", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1679715", 
+      "mention": "William C. Ford", 
+      "normalized": "William C. Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T353", 
+      "mention": "60 days", 
+      "normalized": "60 days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 67, 
+      "entityId": "T1", 
+      "mention": "Mr.", 
+      "normalized": "Mr.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 28, 
+      "entityId": "T8", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 25, 
+      "entityId": "T213", 
+      "mention": "director", 
+      "normalized": "director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 21, 
+      "entityId": "T196", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 19, 
+      "entityId": "Q981845", 
+      "mention": "Margaret C. Whitman TTEES of Sweetwater", 
+      "normalized": "Margaret C. Whitman TTEES of Sweetwater", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 18, 
+      "entityId": "T0", 
+      "mention": "March 30, 2007", 
+      "normalized": "March 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 18, 
+      "entityId": "T617", 
+      "mention": "M. Omidyar", 
+      "normalized": "Pierre M. Omidyar", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 16, 
+      "entityId": "Q3379414", 
+      "mention": "Philippe\n    Bourguignon", 
+      "normalized": "Philippe Bourguignon", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 14, 
+      "entityId": "T15", 
+      "mention": "Ms.", 
+      "normalized": "Ms.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 14, 
+      "entityId": "T60", 
+      "mention": "60 days", 
+      "normalized": "60 days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 13, 
+      "entityId": "T3", 
+      "mention": "Chairman", 
+      "normalized": "Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 12, 
+      "entityId": "Q297240", 
+      "mention": "Mr. Anderson", 
+      "normalized": "Mr. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 11, 
+      "entityId": "T17", 
+      "mention": "President", 
+      "normalized": "President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 11, 
+      "entityId": "Q8768", 
+      "mention": "Mr. Ford", 
+      "normalized": "Mr. Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T476", 
+      "mention": "D. Cook", 
+      "normalized": "Scott D. Cook", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "T440", 
+      "mention": "Barnholt", 
+      "normalized": "Edward W. Barnholt", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T513", 
+      "mention": "C. Kagle", 
+      "normalized": "Robert C. Kagle", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "Q7329367", 
+      "mention": "Richard\n    T. Schlosberg", 
+      "normalized": "Richard T. Schlosberg", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "Q21064349", 
+      "mention": "Thomas J. Tierney", 
+      "normalized": "Thomas J. Tierney", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "Q133116", 
+      "mention": "Hamilton", 
+      "normalized": "Hamilton", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T297", 
+      "mention": "Chief Executive Officer", 
+      "normalized": "Chief Executive Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T579", 
+      "mention": "G. Lepore", 
+      "normalized": "G. Lepore", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T197", 
+      "mention": "executive officers", 
+      "normalized": "executive officers", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T694", 
+      "mention": "United States", 
+      "normalized": "United States", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q16553", 
+      "mention": "San Jose,\n    California", 
+      "normalized": "San Jose, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q5608913", 
+      "mention": "Griffith R. Harsh", 
+      "normalized": "Griffith R. Harsh", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T26", 
+      "mention": "Two Year", 
+      "normalized": "Two Year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T70", 
+      "mention": "Vice President", 
+      "normalized": "Vice President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q181487", 
+      "mention": "Audit Committee", 
+      "normalized": "Audit Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q191701", 
+      "mention": "M.B.A.", 
+      "normalized": "M.B.A.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T42", 
+      "mention": "March 2007", 
+      "normalized": "March 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T482", 
+      "mention": "Intuit", 
+      "normalized": "Intuit Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T568", 
+      "mention": "Vice Chairman", 
+      "normalized": "Vice Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T24", 
+      "mention": "IV", 
+      "normalized": "IV", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T300", 
+      "mention": "Executive Vice President", 
+      "normalized": "Executive Vice President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T25", 
+      "mention": "GRH", 
+      "normalized": "GRH", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T28", 
+      "mention": "MCW", 
+      "normalized": "MCW", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T33", 
+      "mention": "March 2006", 
+      "normalized": "March 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T51", 
+      "mention": "Partner", 
+      "normalized": "Partner", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T69", 
+      "mention": "Swan", 
+      "normalized": "Swan", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T82", 
+      "mention": "Dutta", 
+      "normalized": "Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T95", 
+      "mention": "Donahoe", 
+      "normalized": "Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T108", 
+      "mention": "Jacobson", 
+      "normalized": "Jacobson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T198", 
+      "mention": "SEC", 
+      "normalized": "SEC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T220", 
+      "mention": "Inc.", 
+      "normalized": "Inc.", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T225", 
+      "mention": "Meetup, Inc.", 
+      "normalized": "Meetup, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T282", 
+      "mention": "August 2003", 
+      "normalized": "August 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T335", 
+      "mention": "Harvard Business School", 
+      "normalized": "Harvard Business School", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T345", 
+      "mention": "February\n    1998", 
+      "normalized": "February 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T351", 
+      "mention": "General Manager", 
+      "normalized": "General Manager", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T420", 
+      "mention": "Apple", 
+      "normalized": "Apple Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T455", 
+      "mention": "Chief Executive", 
+      "normalized": "Chief Executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue\n    Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T14", 
+      "mention": "California", 
+      "normalized": "California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T21", 
+      "mention": "Trust U", 
+      "normalized": "Trust U", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T22", 
+      "mention": "10/15/99", 
+      "normalized": "10/15/99", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T157", 
+      "mention": "Ford Motor Company", 
+      "normalized": "Ford Motor Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T174", 
+      "mention": "drugstore.com", 
+      "normalized": "drugstore.com", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T190", 
+      "mention": "Bridgespan Group", 
+      "normalized": "Bridgespan Group", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T214", 
+      "mention": "executive officer", 
+      "normalized": "executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T247", 
+      "mention": "outside director", 
+      "normalized": "outside director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T252", 
+      "mention": "three-year", 
+      "normalized": "three-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q82059", 
+      "mention": "Nasdaq Global Select Market", 
+      "normalized": "Nasdaq Global Select Market", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T265", 
+      "mention": "December 1999", 
+      "normalized": "December 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T270", 
+      "mention": "January 2006", 
+      "normalized": "January 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T277", 
+      "mention": "March 2004", 
+      "normalized": "March 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q170418", 
+      "mention": "World Economic Forum", 
+      "normalized": "World Economic Forum", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T286", 
+      "mention": "Managing Director", 
+      "normalized": "Managing Director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1076645", 
+      "mention": "Club Mediterranee S.A.", 
+      "normalized": "Club Mediterranee S.A.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q206521", 
+      "mention": "Euro Disney", 
+      "normalized": "Euro Disney", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q764850", 
+      "mention": "Bain & Company", 
+      "normalized": "Bain & Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T353", 
+      "mention": "February\n    1995", 
+      "normalized": "February 1995", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T362", 
+      "mention": "October 1992", 
+      "normalized": "October 1992", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q212405", 
+      "mention": "The Procter &\n    Gamble", 
+      "normalized": "The Procter & Gamble", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q21578", 
+      "mention": "Princeton University", 
+      "normalized": "Princeton University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q5494950", 
+      "mention": "Fred\n    D. Anderson", 
+      "normalized": "Fred D. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T405", 
+      "mention": "March\n    1996", 
+      "normalized": "March 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T449", 
+      "mention": "May 1999", 
+      "normalized": "May 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T450", 
+      "mention": "March 2005", 
+      "normalized": "March 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q80978", 
+      "mention": "Hewlett-Packard Companys", 
+      "normalized": "Hewlett-Packard Companys", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T487", 
+      "mention": "March 1984", 
+      "normalized": "March 1984", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T520", 
+      "mention": "General", 
+      "normalized": "General", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1679715", 
+      "mention": "William C. Ford", 
+      "normalized": "William C. Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T553", 
+      "mention": "Ford", 
+      "normalized": "Ford", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q44294", 
+      "mention": "Fords", 
+      "normalized": "Fords", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q49108", 
+      "mention": "Massachusetts\n    Institute of Technology", 
+      "normalized": "Massachusetts Institute of Technology", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T589", 
+      "mention": "October 2004", 
+      "normalized": "October 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1066027", 
+      "mention": "Charles\n    Schwab", 
+      "normalized": "Charles Schwab Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T601", 
+      "mention": "May 2003", 
+      "normalized": "May 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T605", 
+      "mention": "March 2002", 
+      "normalized": "March 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T608", 
+      "mention": "November 2001", 
+      "normalized": "November 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T631", 
+      "mention": "engineer", 
+      "normalized": "engineer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T638", 
+      "mention": "May 1991", 
+      "normalized": "May 1991", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T695", 
+      "mention": "Compensation Committee", 
+      "normalized": "Compensation Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T740", 
+      "mention": "January 1, 2006", 
+      "normalized": "January 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q505275", 
+      "mention": "Capital Research and Management Company", 
+      "normalized": "Capital Research and Management Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T12", 
+      "mention": "South Hope Street", 
+      "normalized": "South Hope Street", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q65", 
+      "mention": "Los Angeles", 
+      "normalized": "Los Angeles", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T49", 
+      "mention": "Whitford Limited", 
+      "normalized": "Whitford Limited", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T50", 
+      "mention": "Managing General", 
+      "normalized": "Managing General", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T66", 
+      "mention": "San Jose", 
+      "normalized": "San Jose", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T71", 
+      "mention": "Finance and Chief\n    Financial Officer", 
+      "normalized": "Finance and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q483959", 
+      "mention": "PayPal", 
+      "normalized": "PayPal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q58024", 
+      "mention": "eBay Marketplaces", 
+      "normalized": "eBay Marketplaces", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T110", 
+      "mention": "General Counsel and Secretary", 
+      "normalized": "General Counsel and Secretary", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T136", 
+      "mention": "Messrs. Anderson", 
+      "normalized": "Messrs. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1318848", 
+      "mention": "Intuit, Inc.", 
+      "normalized": "Intuit, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q486860", 
+      "mention": "Mountain View, California", 
+      "normalized": "Mountain View, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T150", 
+      "mention": "Mr. Fords", 
+      "normalized": "Mr. Fords", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T153", 
+      "mention": "Fords", 
+      "normalized": "Fords", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q30", 
+      "mention": "American Road, Dearborn, Michigan", 
+      "normalized": "American Road, Dearborn, Michigan", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T165", 
+      "mention": "Benchmark Capital", 
+      "normalized": "Benchmark Capital", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3471805", 
+      "mention": "Sand Hill\n    Road", 
+      "normalized": "Sand Hill Road", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q74195", 
+      "mention": "Menlo Park, California", 
+      "normalized": "Menlo Park, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q214164", 
+      "mention": "Bellevue, Washington", 
+      "normalized": "Bellevue, Washington", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T182", 
+      "mention": "10 West", 
+      "normalized": "10 West", 
+      "type": "IDENTIFIER:LATITUDE_LONGITUDE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q975", 
+      "mention": "San Antonio, Texas", 
+      "normalized": "San Antonio, Texas", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q896007", 
+      "mention": "Boylston\n    Street", 
+      "normalized": "Boylston Street", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q100", 
+      "mention": "Boston, Massachusetts", 
+      "normalized": "Boston, Massachusetts", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T195", 
+      "mention": "Beneficial Ownership Reporting Compliance", 
+      "normalized": "Beneficial Ownership Reporting Compliance", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T199", 
+      "mention": "December 31,\n    2006", 
+      "normalized": "December 31, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q758913", 
+      "mention": "Audit\n    Committee", 
+      "normalized": "Audit Committee", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T206", 
+      "mention": "http://investor.ebay.com/governance", 
+      "normalized": "http://investor.ebay.com/governance", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1393", 
+      "mention": "Delaware", 
+      "normalized": "Delaware", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T218", 
+      "mention": "$2,000,000", 
+      "normalized": "$2,000,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1625371", 
+      "mention": "Meetup", 
+      "normalized": "Meetup", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T234", 
+      "mention": "$120,000", 
+      "normalized": "$120,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T235", 
+      "mention": "twelve-month", 
+      "normalized": "twelve-month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T251", 
+      "mention": "Certificate of Incorporation and Bylaws", 
+      "normalized": "Certificate of Incorporation and Bylaws", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T268", 
+      "mention": "Chairman of Revolution Resorts", 
+      "normalized": "Chairman of Revolution Resorts", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7318677", 
+      "mention": "Revolution LLC", 
+      "normalized": "Revolution LLC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T271", 
+      "mention": "April 2004", 
+      "normalized": "April 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q142", 
+      "mention": "Chairman of Aegis Media France", 
+      "normalized": "Chairman of Aegis Media France", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T276", 
+      "mention": "September\n    2003", 
+      "normalized": "September 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T280", 
+      "mention": "Co-Chief Executive", 
+      "normalized": "Co-Chief Executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T283", 
+      "mention": "October 2003", 
+      "normalized": "October 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T288", 
+      "mention": "April 1997", 
+      "normalized": "April 1997", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T289", 
+      "mention": "January 2003", 
+      "normalized": "January 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T299", 
+      "mention": "Disneyland Paris", 
+      "normalized": "Disneyland Paris", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q46", 
+      "mention": "Walt Disney Company (Europe", 
+      "normalized": "Walt Disney Company (Europe", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T302", 
+      "mention": "October 1996", 
+      "normalized": "October 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T307", 
+      "mention": "April\n    1993", 
+      "normalized": "April 1993", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T308", 
+      "mention": "Walt Disney Company", 
+      "normalized": "Walt Disney Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2302586", 
+      "mention": "University of Aix-en-Provence", 
+      "normalized": "University of Aix-en-Provence", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T312", 
+      "mention": "Institut dAdministration des Enterprises", 
+      "normalized": "Institut dAdministration des Enterprises", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T313", 
+      "mention": "IAE", 
+      "normalized": "IAE", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q90", 
+      "mention": "Paris", 
+      "normalized": "Paris", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T319", 
+      "mention": "March 2003", 
+      "normalized": "March 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T324", 
+      "mention": "Bridgespan", 
+      "normalized": "Bridgespan", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T329", 
+      "mention": "June 1992", 
+      "normalized": "June 1992", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T330", 
+      "mention": "January 2000", 
+      "normalized": "January 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q129421", 
+      "mention": "University of California at Davis", 
+      "normalized": "University of California at Davis", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T338", 
+      "mention": "Stars", 
+      "normalized": "Stars", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T348", 
+      "mention": "March 1998", 
+      "normalized": "March 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T349", 
+      "mention": "January 1997", 
+      "normalized": "January 1997", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q501476", 
+      "mention": "Hasbro Inc.", 
+      "normalized": "Hasbro Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T354", 
+      "mention": "December 1996", 
+      "normalized": "December 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T357", 
+      "mention": "FTD", 
+      "normalized": "FTD", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2356171", 
+      "mention": "Stride Rite", 
+      "normalized": "Stride Rite", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T368", 
+      "mention": "Stride Rite Childrens Group", 
+      "normalized": "Stride Rite Childrens Group", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T370", 
+      "mention": "Product Development", 
+      "normalized": "Product Development", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2630615", 
+      "mention": "Marketing & Merchandising, Keds Division", 
+      "normalized": "Marketing & Merchandising, Keds Division", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T372", 
+      "mention": "May 1989", 
+      "normalized": "May 1989", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7414", 
+      "mention": "The Walt\n    Disney Company", 
+      "normalized": "The Walt Disney Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T378", 
+      "mention": "Marketing", 
+      "normalized": "Marketing", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3030410", 
+      "mention": "Disney Consumer Products", 
+      "normalized": "Disney Consumer Products", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T380", 
+      "mention": "Disney", 
+      "normalized": "Disney", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q500088", 
+      "mention": "DreamWorks Animation SKG", 
+      "normalized": "DreamWorks Animation SKG", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q49126", 
+      "mention": "Harvard\n    Business School", 
+      "normalized": "Harvard Business School", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T400", 
+      "mention": "July 2003", 
+      "normalized": "July 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5359694", 
+      "mention": "Elevation Partners", 
+      "normalized": "Elevation Partners", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T404", 
+      "mention": "July 2004", 
+      "normalized": "July 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T406", 
+      "mention": "June 2004", 
+      "normalized": "June 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T408", 
+      "mention": "Executive Vice\n    President and Chief Financial Officer", 
+      "normalized": "Executive Vice President and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q312", 
+      "mention": "Apple Computer, Inc.", 
+      "normalized": "Apple Computer, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T413", 
+      "mention": "Chief Financial Officer", 
+      "normalized": "Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q489080", 
+      "mention": "Automatic Data Processing, Inc.", 
+      "normalized": "Automatic Data Processing, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T415", 
+      "mention": "August 1992", 
+      "normalized": "August 1992", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T417", 
+      "mention": "April 24, 2007", 
+      "normalized": "April 24, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T422", 
+      "mention": "executives", 
+      "normalized": "executives", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q994506", 
+      "mention": "Securities Act of 1933", 
+      "normalized": "Securities Act of 1933", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T428", 
+      "mention": "$3.5 million", 
+      "normalized": "$3.5 million", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T429", 
+      "mention": "$150,000", 
+      "normalized": "$150,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q6926479", 
+      "mention": "Move, Inc.", 
+      "normalized": "Move, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7996868", 
+      "mention": "Whittier College", 
+      "normalized": "Whittier College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q174710", 
+      "mention": "University of California, Los Angeles", 
+      "normalized": "University of California, Los Angeles", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T443", 
+      "mention": "April 2005", 
+      "normalized": "April 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q393762", 
+      "mention": "Agilent Technologies, Inc.", 
+      "normalized": "Agilent Technologies, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T452", 
+      "mention": "Agilent", 
+      "normalized": "Agilent", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T453", 
+      "mention": "November 2002", 
+      "normalized": "November 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T464", 
+      "mention": "Hewlett-Packard", 
+      "normalized": "Hewlett-Packard", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T468", 
+      "mention": "Executive Chairman", 
+      "normalized": "Executive Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q624649", 
+      "mention": "KLA-Tencor Corporation", 
+      "normalized": "KLA-Tencor Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q11463", 
+      "mention": "Adobe Systems Incorporated", 
+      "normalized": "Adobe Systems Incorporated", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1177343", 
+      "mention": "Trustees of the Packard Foundation", 
+      "normalized": "Trustees of the Packard Foundation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q41506", 
+      "mention": "Stanford\n    University", 
+      "normalized": "Stanford University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T479", 
+      "mention": "June 1998", 
+      "normalized": "June 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T490", 
+      "mention": "March 1993", 
+      "normalized": "March 1993", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T491", 
+      "mention": "July 1998", 
+      "normalized": "July 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T497", 
+      "mention": "April 1994", 
+      "normalized": "April 1994", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4614", 
+      "mention": "University of Southern California", 
+      "normalized": "University of Southern California", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T516", 
+      "mention": "June 1997", 
+      "normalized": "June 1997", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3534309", 
+      "mention": "Benchmark\n    Capital", 
+      "normalized": "Benchmark Capital", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T522", 
+      "mention": "Benchmark Capital Partners, L.P.", 
+      "normalized": "Benchmark Capital Partners, L.P.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1439864", 
+      "mention": "Benchmark Founders Fund, L.P.", 
+      "normalized": "Benchmark Founders Fund, L.P.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T524", 
+      "mention": "May 1995", 
+      "normalized": "May 1995", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T529", 
+      "mention": "Technology Venture", 
+      "normalized": "Technology Venture", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T530", 
+      "mention": "January 1984", 
+      "normalized": "January 1984", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T534", 
+      "mention": "Jamba, Inc.", 
+      "normalized": "Jamba, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q8072593", 
+      "mention": "ZipRealty, Inc.", 
+      "normalized": "ZipRealty, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q6395480", 
+      "mention": "General Motors Institute", 
+      "normalized": "General Motors Institute", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T539", 
+      "mention": "Kettering University", 
+      "normalized": "Kettering University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T540", 
+      "mention": "January 1998", 
+      "normalized": "January 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1413558", 
+      "mention": "Stanford Graduate School of Business", 
+      "normalized": "Stanford Graduate School of Business", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T547", 
+      "mention": "July 2005", 
+      "normalized": "July 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T551", 
+      "mention": "September 2001", 
+      "normalized": "September 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T554", 
+      "mention": "January 1999", 
+      "normalized": "January 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T557", 
+      "mention": "Fords Finance Committee", 
+      "normalized": "Fords Finance Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T559", 
+      "mention": "Environmental and Public Policy Committee", 
+      "normalized": "Environmental and Public Policy Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T560", 
+      "mention": "October 2001", 
+      "normalized": "October 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T561", 
+      "mention": "September 2006", 
+      "normalized": "September 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q271880", 
+      "mention": "Detroit Lions, Inc.", 
+      "normalized": "Detroit Lions, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T571", 
+      "mention": "Trustees", 
+      "normalized": "Trustees", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3521242", 
+      "mention": "The\n    Henry Ford", 
+      "normalized": "The Henry Ford", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q12439", 
+      "mention": "Detroit Renaissance", 
+      "normalized": "Detroit Renaissance", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T580", 
+      "mention": "Dawn", 
+      "normalized": "Dawn", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T587", 
+      "mention": "Chief\n    Executive Officer and Chairman", 
+      "normalized": "Chief Executive Officer and Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T595", 
+      "mention": "Active Trader, Operations, Business Strategy", 
+      "normalized": "Active Trader, Operations, Business Strategy", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1066028", 
+      "mention": "Charles\n    Schwab Corporation", 
+      "normalized": "Charles Schwab Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T599", 
+      "mention": "Vice Chairman of Technology", 
+      "normalized": "Vice Chairman of Technology", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T600", 
+      "mention": "Business Strategy", 
+      "normalized": "Business Strategy", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T604", 
+      "mention": "Technology, Operations", 
+      "normalized": "Technology, Operations", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T610", 
+      "mention": "Vice Chairman and Chief Information Officer", 
+      "normalized": "Vice Chairman and Chief Information Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T611", 
+      "mention": "July 1999", 
+      "normalized": "July 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q49204", 
+      "mention": "Smith\n    College", 
+      "normalized": "Smith College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T619", 
+      "mention": "September 1995", 
+      "normalized": "September 1995", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T622", 
+      "mention": "May\n    1996", 
+      "normalized": "May 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T623", 
+      "mention": "Chief Executive Officer, Chief\n    Financial Officer", 
+      "normalized": "Chief Executive Officer, Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T626", 
+      "mention": "November 1997", 
+      "normalized": "November 1997", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T627", 
+      "mention": "August 1996", 
+      "normalized": "August 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1501629", 
+      "mention": "General Magic", 
+      "normalized": "General Magic", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T633", 
+      "mention": "December 1994", 
+      "normalized": "December 1994", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T634", 
+      "mention": "July 1996", 
+      "normalized": "July 1996", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5324412", 
+      "mention": "Ink Development", 
+      "normalized": "Ink Development", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T641", 
+      "mention": "September 1994", 
+      "normalized": "September 1994", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1095605", 
+      "mention": "Claris", 
+      "normalized": "Claris", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T645", 
+      "mention": "Apple Computer", 
+      "normalized": "Apple Computer", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q75687", 
+      "mention": "Macintosh", 
+      "normalized": "Macintosh", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3352030", 
+      "mention": "Omidyar Network", 
+      "normalized": "Omidyar Network", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q49120", 
+      "mention": "Trustees of Tufts University", 
+      "normalized": "Trustees of Tufts University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1196057", 
+      "mention": "Santa Fe\n    Institute", 
+      "normalized": "Santa Fe Institute", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T657", 
+      "mention": "Tufts University", 
+      "normalized": "Tufts University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T664", 
+      "mention": "January\n    2004", 
+      "normalized": "January 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T667", 
+      "mention": "President and Chief\n    Executive Officer", 
+      "normalized": "President and Chief Executive Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T668", 
+      "mention": "David & Lucile Packard", 
+      "normalized": "David & Lucile Packard", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q188515", 
+      "mention": "The Times Mirror Company", 
+      "normalized": "The Times Mirror Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T674", 
+      "mention": "Los Angeles Times", 
+      "normalized": "Los Angeles Times", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2668654", 
+      "mention": "Denver Post", 
+      "normalized": "Denver Post", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q662095", 
+      "mention": "Edison International", 
+      "normalized": "Edison International", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q787324", 
+      "mention": "BEA Systems", 
+      "normalized": "BEA Systems", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T681", 
+      "mention": "USO World Board of Governors", 
+      "normalized": "USO World Board of Governors", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7227384", 
+      "mention": "Pomona College", 
+      "normalized": "Pomona College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1331280", 
+      "mention": "United States Air Force Academy", 
+      "normalized": "United States Air Force Academy", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T689", 
+      "mention": "Federal Income Tax", 
+      "normalized": "Federal Income Tax", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T691", 
+      "mention": "$1,000,000", 
+      "normalized": "$1,000,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q408", 
+      "mention": "Australia", 
+      "normalized": "Australia", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q40", 
+      "mention": "Austria", 
+      "normalized": "Austria", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q31", 
+      "mention": "Belgium", 
+      "normalized": "Belgium", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q155", 
+      "mention": "Brazil", 
+      "normalized": "Brazil", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q16", 
+      "mention": "Canada", 
+      "normalized": "Canada", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q148", 
+      "mention": "China", 
+      "normalized": "China", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q213", 
+      "mention": "Czech Republic, Estonia", 
+      "normalized": "Czech Republic, Estonia", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T713", 
+      "mention": "France", 
+      "normalized": "France", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q183", 
+      "mention": "Germany", 
+      "normalized": "Germany", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q668", 
+      "mention": "Hong Kong, India", 
+      "normalized": "Hong Kong, India", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q27", 
+      "mention": "Ireland", 
+      "normalized": "Ireland", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q801", 
+      "mention": "Israel", 
+      "normalized": "Israel", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q38", 
+      "mention": "Italy", 
+      "normalized": "Italy", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q17", 
+      "mention": "Japan", 
+      "normalized": "Japan", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q884", 
+      "mention": "Korea", 
+      "normalized": "Korea", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q32", 
+      "mention": "Luxembourg", 
+      "normalized": "Luxembourg", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q55", 
+      "mention": "Netherlands", 
+      "normalized": "Netherlands", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q928", 
+      "mention": "Philippines", 
+      "normalized": "Philippines", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q36", 
+      "mention": "Poland", 
+      "normalized": "Poland", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q334", 
+      "mention": "Singapore", 
+      "normalized": "Singapore", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q29", 
+      "mention": "Spain", 
+      "normalized": "Spain", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q34", 
+      "mention": "Sweden", 
+      "normalized": "Sweden", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q39", 
+      "mention": "Switzerland", 
+      "normalized": "Switzerland", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q865", 
+      "mention": "Taiwan", 
+      "normalized": "Taiwan", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q145", 
+      "mention": "United Kingdom", 
+      "normalized": "United Kingdom", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T738", 
+      "mention": "$33.15", 
+      "normalized": "$33.15", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T739", 
+      "mention": "10 years", 
+      "normalized": "10 years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T741", 
+      "mention": "seven years", 
+      "normalized": "seven years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T743", 
+      "mention": "three months", 
+      "normalized": "three months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T744", 
+      "mention": "12 months", 
+      "normalized": "12 months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T745", 
+      "mention": "18 months", 
+      "normalized": "18 months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T748", 
+      "mention": "EBITDA", 
+      "normalized": "EBITDA", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T749", 
+      "mention": "corporation", 
+      "normalized": "corporation", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T750", 
+      "mention": "Stockholder", 
+      "normalized": "Stockholder", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T754", 
+      "mention": "Internal", 
+      "normalized": "Internal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T755", 
+      "mention": "one year", 
+      "normalized": "one year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T757", 
+      "mention": "$1 million", 
+      "normalized": "$1 million", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T758", 
+      "mention": "Treasury Regulations", 
+      "normalized": "Treasury Regulations", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 32, 
+      "entityId": "T213", 
+      "mention": "Mr.", 
+      "normalized": "Mr.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 28, 
+      "entityId": "T92", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 25, 
+      "entityId": "T58", 
+      "mention": "PwC", 
+      "normalized": "PwC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 17, 
+      "entityId": "T157", 
+      "mention": "Vice President", 
+      "normalized": "Vice President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 15, 
+      "entityId": "Q758913", 
+      "mention": "Audit Committee", 
+      "normalized": "Audit Committee", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 12, 
+      "entityId": "T154", 
+      "mention": "President", 
+      "normalized": "President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 11, 
+      "entityId": "Q7286184", 
+      "mention": "Rajiv Dutta", 
+      "normalized": "Rajiv Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T0", 
+      "mention": "executive officers", 
+      "normalized": "executive officers", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T158", 
+      "mention": "Cobb", 
+      "normalized": "William C. Cobb", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T171", 
+      "mention": "Eskander E. Kazim", 
+      "normalized": "Eskander E. Kazim", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "T156", 
+      "mention": "She", 
+      "normalized": "Elizabeth L. Axelrod", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T400", 
+      "mention": "Chief Executive Officer", 
+      "normalized": "Chief Executive Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T423", 
+      "mention": "Compensation Committee", 
+      "normalized": "Compensation Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T150", 
+      "mention": "executive", 
+      "normalized": "Executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T173", 
+      "mention": "Robert H. Swan", 
+      "normalized": "Robert H. Swan", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T39", 
+      "mention": "Directors", 
+      "normalized": "Directors", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q181487", 
+      "mention": "Audit", 
+      "normalized": "Audit", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T162", 
+      "mention": "John J. Donahoe", 
+      "normalized": "John J. Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T2", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T22", 
+      "mention": "March 30, 2007", 
+      "normalized": "March 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T168", 
+      "mention": "Michael R. Jacobson", 
+      "normalized": "Michael R. Jacobson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T391", 
+      "mention": "July\n    2001", 
+      "normalized": "July 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T4", 
+      "mention": "December 31,\n    2006", 
+      "normalized": "December 31, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q30", 
+      "mention": "United States", 
+      "normalized": "United States", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q82059", 
+      "mention": "Nasdaq", 
+      "normalized": "Nasdaq", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T185", 
+      "mention": "Ms.", 
+      "normalized": "Ms.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q191701", 
+      "mention": "M.B.A.", 
+      "normalized": "M.B.A.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T279", 
+      "mention": "June\n    2006", 
+      "normalized": "June 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T280", 
+      "mention": "March 2006", 
+      "normalized": "March 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T20", 
+      "mention": "first day", 
+      "normalized": "first day", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T68", 
+      "mention": "December 31,\n\n\n \n\n\n\n\n \n\n\n \n\n\n2005", 
+      "normalized": "December 31, 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q49", 
+      "mention": "North America", 
+      "normalized": "North America", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T175", 
+      "mention": "Chief Financial Officer", 
+      "normalized": "Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T182", 
+      "mention": "March 2005", 
+      "normalized": "March 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T189", 
+      "mention": "director", 
+      "normalized": "director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T211", 
+      "mention": "December 2004", 
+      "normalized": "December 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T225", 
+      "mention": "November 2000", 
+      "normalized": "November 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T329", 
+      "mention": "August 1998", 
+      "normalized": "August 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q3535944", 
+      "mention": "Towers Perrin", 
+      "normalized": "Towers Perrin", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T10", 
+      "mention": "ten years", 
+      "normalized": "ten years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T28", 
+      "mention": "$33.15", 
+      "normalized": "$33.15", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q488048", 
+      "mention": "PricewaterhouseCoopers LLP", 
+      "normalized": "PricewaterhouseCoopers LLP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T109", 
+      "mention": "SEC", 
+      "normalized": "SEC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q483959", 
+      "mention": "PayPal", 
+      "normalized": "PayPal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T170", 
+      "mention": "General Counsel and Secretary", 
+      "normalized": "General Counsel and Secretary", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q49117", 
+      "mention": "University of Pennsylvania", 
+      "normalized": "University of Pennsylvania", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T210", 
+      "mention": "December 2006", 
+      "normalized": "December 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T218", 
+      "mention": "September 2002", 
+      "normalized": "September 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T231", 
+      "mention": "February 2000", 
+      "normalized": "February 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T235", 
+      "mention": "General", 
+      "normalized": "General", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T237", 
+      "mention": "July 1997", 
+      "normalized": "July 1997", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T285", 
+      "mention": "January 2001", 
+      "normalized": "January 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T290", 
+      "mention": "August 1999", 
+      "normalized": "August 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T296", 
+      "mention": "July 1998", 
+      "normalized": "July 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T301", 
+      "mention": "February 1998", 
+      "normalized": "February 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q624649", 
+      "mention": "KLA-Tencor", 
+      "normalized": "KLA-Tencor", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T340", 
+      "mention": "January 2007", 
+      "normalized": "January 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T346", 
+      "mention": "October 2005", 
+      "normalized": "October 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T356", 
+      "mention": "October 2002", 
+      "normalized": "October 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T361", 
+      "mention": "March 2002", 
+      "normalized": "March 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T455", 
+      "mention": "Mercer", 
+      "normalized": "Mercer", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T5", 
+      "mention": "$33.83", 
+      "normalized": "$33.83", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T6", 
+      "mention": "July 10, 1998", 
+      "normalized": "July 10, 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T7", 
+      "mention": "August 14, 1998", 
+      "normalized": "August 14, 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T8", 
+      "mention": "September 24, 1998", 
+      "normalized": "September 24, 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T9", 
+      "mention": "July 10, 2008", 
+      "normalized": "July 10, 2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T12", 
+      "mention": "March 28, 2007", 
+      "normalized": "March 28, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T13", 
+      "mention": "November 1, 2007", 
+      "normalized": "November 1, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T17", 
+      "mention": "ten days", 
+      "normalized": "ten days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T18", 
+      "mention": "twenty hours", 
+      "normalized": "twenty hours", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T19", 
+      "mention": "five months", 
+      "normalized": "five months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T21", 
+      "mention": "$25,000", 
+      "normalized": "$25,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T24", 
+      "mention": "January 1", 
+      "normalized": "January 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T29", 
+      "mention": "five days", 
+      "normalized": "five days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T30", 
+      "mention": "24-months", 
+      "normalized": "24-months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T31", 
+      "mention": "four six-month", 
+      "normalized": "four six-month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T32", 
+      "mention": "twenty-four month", 
+      "normalized": "twenty-four month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T33", 
+      "mention": "May 1st", 
+      "normalized": "May 1st", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T34", 
+      "mention": "November 1st", 
+      "normalized": "November 1st", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T35", 
+      "mention": "two-year", 
+      "normalized": "two-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T36", 
+      "mention": "24-month", 
+      "normalized": "24-month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q471280", 
+      "mention": "Section 125", 
+      "normalized": "Section 125", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q164746", 
+      "mention": "The Wall Street Journal", 
+      "normalized": "The Wall Street Journal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T47", 
+      "mention": "15 days", 
+      "normalized": "15 days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T48", 
+      "mention": "12 months", 
+      "normalized": "12 months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T50", 
+      "mention": "June 14, 2017", 
+      "normalized": "June 14, 2017", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T53", 
+      "mention": "two years", 
+      "normalized": "two years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T55", 
+      "mention": "one year", 
+      "normalized": "one year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T59", 
+      "mention": "December 31, 2007", 
+      "normalized": "December 31, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T73", 
+      "mention": "3,174\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "3,174 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T75", 
+      "mention": "5,376\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "5,376 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q856418", 
+      "mention": "Sarbanes-Oxley", 
+      "normalized": "Sarbanes-Oxley", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T82", 
+      "mention": "COMMITTEE PRE", 
+      "normalized": "COMMITTEE PRE", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T93", 
+      "mention": "The Audit Committees", 
+      "normalized": "The Audit Committees", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3359598", 
+      "mention": "Public Company Accounting Oversight Board", 
+      "normalized": "Public Company Accounting Oversight Board", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q994506", 
+      "mention": "Securities Act of 1933", 
+      "normalized": "Securities Act of 1933", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T123", 
+      "mention": "Independence Standards Board", 
+      "normalized": "Independence Standards Board", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T124", 
+      "mention": "Independence", 
+      "normalized": "Independence", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q297240", 
+      "mention": "Mr. Anderson", 
+      "normalized": "Mr. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T137", 
+      "mention": "March 2004", 
+      "normalized": "March 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T138", 
+      "mention": "Audit Committee Charter", 
+      "normalized": "Audit Committee Charter", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T139", 
+      "mention": "http://investor.ebay.com/governance", 
+      "normalized": "http://investor.ebay.com/governance", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T144", 
+      "mention": "February 28, 2007", 
+      "normalized": "February 28, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5494950", 
+      "mention": "Fred D. Anderson", 
+      "normalized": "Fred D. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T147", 
+      "mention": "Chair", 
+      "normalized": "Chair", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T148", 
+      "mention": "Dawn G. Lepore", 
+      "normalized": "Dawn G. Lepore", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7329367", 
+      "mention": "Richard T. Schlosberg", 
+      "normalized": "Richard T. Schlosberg", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T153", 
+      "mention": "Margaret C. Whitman", 
+      "normalized": "Margaret C. Whitman", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T155", 
+      "mention": "Chief Executive", 
+      "normalized": "Chief Executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T172", 
+      "mention": "Strategic Initiatives", 
+      "normalized": "Strategic Initiatives", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T176", 
+      "mention": "Margaret C. Whitmans", 
+      "normalized": "Margaret C. Whitmans", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T177", 
+      "mention": "Directors  Nominees for Election", 
+      "normalized": "Directors Nominees for Election", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T178", 
+      "mention": "Three-Year", 
+      "normalized": "Three-Year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T183", 
+      "mention": "May 2002", 
+      "normalized": "May 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T187", 
+      "mention": "Chief Talent Officer", 
+      "normalized": "Chief Talent Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1318049", 
+      "mention": "WPP Group PLC", 
+      "normalized": "WPP Group PLC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q310207", 
+      "mention": "McKinsey &\n    Company", 
+      "normalized": "McKinsey & Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T193", 
+      "mention": "October 1989", 
+      "normalized": "October 1989", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T194", 
+      "mention": "April 2002", 
+      "normalized": "April 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q798132", 
+      "mention": "B.S.E.", 
+      "normalized": "B.S.E.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1329269", 
+      "mention": "Wharton School", 
+      "normalized": "Wharton School", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T200", 
+      "mention": "Private Management (MPPM", 
+      "normalized": "Private Management (MPPM", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q8047426", 
+      "mention": "Yale School of\n    Management", 
+      "normalized": "Yale School of Management", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3783574", 
+      "mention": "Harvard Business School Press", 
+      "normalized": "Harvard Business School Press", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T219", 
+      "mention": "November 2004", 
+      "normalized": "November 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T223", 
+      "mention": "General Manager", 
+      "normalized": "General Manager", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q58024", 
+      "mention": "eBay International", 
+      "normalized": "eBay International", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T230", 
+      "mention": "Global Marketing", 
+      "normalized": "Global Marketing", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T232", 
+      "mention": "June 2000", 
+      "normalized": "June 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q7808927", 
+      "mention": "Netpliance, Inc.", 
+      "normalized": "Netpliance, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q668737", 
+      "mention": "International Marketing for Tricon Global Restaurants, Inc.", 
+      "normalized": "International Marketing for Tricon Global Restaurants, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T243", 
+      "mention": "Yum! Brands", 
+      "normalized": "Yum! Brands", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T244", 
+      "mention": "August 1995", 
+      "normalized": "August 1995", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T248", 
+      "mention": "Vice President and Chief Marketing Officer", 
+      "normalized": "Vice President and Chief Marketing Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q191615", 
+      "mention": "Pizza Hut, Inc.", 
+      "normalized": "Pizza Hut, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T250", 
+      "mention": "Tricon Global Restaurants, Inc.", 
+      "normalized": "Tricon Global Restaurants, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q309350", 
+      "mention": "Northwestern University", 
+      "normalized": "Northwestern University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T261", 
+      "mention": "January 2000", 
+      "normalized": "January 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T262", 
+      "mention": "February 2005", 
+      "normalized": "February 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T265", 
+      "mention": "Managing Director", 
+      "normalized": "Managing Director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q764850", 
+      "mention": "Bain & Company", 
+      "normalized": "Bain & Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q49116", 
+      "mention": "Trustees for Dartmouth College", 
+      "normalized": "Trustees for Dartmouth College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T272", 
+      "mention": "Dartmouth College", 
+      "normalized": "Dartmouth College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1413558", 
+      "mention": "Stanford Graduate School of Business", 
+      "normalized": "Stanford Graduate School of Business", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T289", 
+      "mention": "Vice President and Chief Financial Officer", 
+      "normalized": "Vice President and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T295", 
+      "mention": "Finance and Investor Relations", 
+      "normalized": "Finance and Investor Relations", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T310", 
+      "mention": "January 1988", 
+      "normalized": "January 1988", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T312", 
+      "mention": "Bio-Rad\n    Laboratories", 
+      "normalized": "Bio-Rad Laboratories", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2904022", 
+      "mention": "Bio-Rad", 
+      "normalized": "Bio-Rad", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T316", 
+      "mention": "Life Science Group", 
+      "normalized": "Life Science Group", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q665105", 
+      "mention": "St. Stephens College, Delhi University", 
+      "normalized": "St. Stephens College, Delhi University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q668", 
+      "mention": "India", 
+      "normalized": "India", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T322", 
+      "mention": "Drucker School of Management", 
+      "normalized": "Drucker School of Management", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5167436", 
+      "mention": "Cooley\n    Godward", 
+      "normalized": "Cooley Godward", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q49123", 
+      "mention": "Harvard College", 
+      "normalized": "Harvard College", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q8012895", 
+      "mention": "Stanford Law School", 
+      "normalized": "Stanford Law School", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T360", 
+      "mention": "Vice President of Marketing", 
+      "normalized": "Vice President of Marketing", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T366", 
+      "mention": "eBay Payments", 
+      "normalized": "eBay Payments", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T376", 
+      "mention": "Director of Engineering", 
+      "normalized": "Director of Engineering", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q842909", 
+      "mention": "Rice University", 
+      "normalized": "Rice University", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T383", 
+      "mention": "Finance and Chief Financial Officer", 
+      "normalized": "Finance and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T385", 
+      "mention": "February 2003", 
+      "normalized": "February 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T389", 
+      "mention": "Executive Vice President and Chief\n    Financial Officer", 
+      "normalized": "Executive Vice President and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q691126", 
+      "mention": "Electronic Data Systems Corporation", 
+      "normalized": "Electronic Data Systems Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T392", 
+      "mention": "December 2002", 
+      "normalized": "December 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T395", 
+      "mention": "Executive Vice\n    President and Chief Financial Officer", 
+      "normalized": "Executive Vice President and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q967620", 
+      "mention": "TRW Inc.", 
+      "normalized": "TRW Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q17087287", 
+      "mention": "Webvan Group, Inc.", 
+      "normalized": "Webvan Group, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T401", 
+      "mention": "April 2001", 
+      "normalized": "April 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T403", 
+      "mention": "Chief Operating Officer", 
+      "normalized": "Chief Operating Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T404", 
+      "mention": "September 2000", 
+      "normalized": "September 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T407", 
+      "mention": "October 1999", 
+      "normalized": "October 1999", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T409", 
+      "mention": "Webvan", 
+      "normalized": "Webvan", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1062835", 
+      "mention": "Chapter 11", 
+      "normalized": "Chapter 11", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q681025", 
+      "mention": "State University of New York at Buffalo", 
+      "normalized": "State University of New York at Buffalo", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q863813", 
+      "mention": "State\n    University of New York at Binghamton", 
+      "normalized": "State University of New York at Binghamton", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T424", 
+      "mention": "senior vice president", 
+      "normalized": "senior vice president", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T431", 
+      "mention": "vice presidents", 
+      "normalized": "vice presidents", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T449", 
+      "mention": "General Counsel", 
+      "normalized": "General Counsel", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T450", 
+      "mention": "Compensation Committees", 
+      "normalized": "Compensation Committees", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q163820", 
+      "mention": "Silicon Valley", 
+      "normalized": "Silicon Valley", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5419946", 
+      "mention": "Executive Compensation", 
+      "normalized": "Executive Compensation", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T469", 
+      "mention": "Tech Peer Group", 
+      "normalized": "Tech Peer Group", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q11463", 
+      "mention": "Adobe Systems", 
+      "normalized": "Adobe Systems", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q727697", 
+      "mention": "Coach, Inc.", 
+      "normalized": "Coach, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3884", 
+      "mention": "Amazon.com, Inc.", 
+      "normalized": "Amazon.com, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3295867", 
+      "mention": "The Coca-Cola Company", 
+      "normalized": "The Coca-Cola Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q312", 
+      "mention": "Apple Inc.", 
+      "normalized": "Apple Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q420822", 
+      "mention": "Gap, Inc.", 
+      "normalized": "Gap, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q173395", 
+      "mention": "Cisco Systems", 
+      "normalized": "Cisco Systems", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q629998", 
+      "mention": "General Mills, Inc.", 
+      "normalized": "General Mills, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q30873", 
+      "mention": "Dell Inc.", 
+      "normalized": "Dell Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q192814", 
+      "mention": "Harley-Davidson, Inc.", 
+      "normalized": "Harley-Davidson, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q173941", 
+      "mention": "Electronic Arts", 
+      "normalized": "Electronic Arts", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1056637", 
+      "mention": "The Hershey Company", 
+      "normalized": "The Hershey Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q877536", 
+      "mention": "EMC Corporation", 
+      "normalized": "EMC Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q856897", 
+      "mention": "Kellogg Company", 
+      "normalized": "Kellogg Company", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q906406", 
+      "mention": "First Data Corporation", 
+      "normalized": "First Data Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q483915", 
+      "mention": "Nike, Inc.", 
+      "normalized": "Nike, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q95", 
+      "mention": "Google Inc.", 
+      "normalized": "Google Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q334800", 
+      "mention": "PepsiCo, Inc.", 
+      "normalized": "PepsiCo, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q248", 
+      "mention": "Intel Corporation", 
+      "normalized": "Intel Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1641437", 
+      "mention": "Ralph Lauren\n    Corporation", 
+      "normalized": "Ralph Lauren Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q974846", 
+      "mention": "IAC/InterActiveCorp", 
+      "normalized": "IAC/InterActiveCorp", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1066027", 
+      "mention": "Charles\n    Schwab", 
+      "normalized": "Charles Schwab", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1318848", 
+      "mention": "Intuit Inc.", 
+      "normalized": "Intuit Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q37158", 
+      "mention": "Starbucks Corporation", 
+      "normalized": "Starbucks Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2283", 
+      "mention": "Microsoft Corporation", 
+      "normalized": "Microsoft Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1066858", 
+      "mention": "Tiffany & Co.", 
+      "normalized": "Tiffany & Co.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q544847", 
+      "mention": "Qualcomm", 
+      "normalized": "Qualcomm", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q191715", 
+      "mention": "Time Warner Inc.", 
+      "normalized": "Time Warner Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q677085", 
+      "mention": "Symantec Corporation", 
+      "normalized": "Symantec Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q819241", 
+      "mention": "Wm. Wrigley Jr.", 
+      "normalized": "Wm. Wrigley Jr.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q37093", 
+      "mention": "Yahoo! Inc.", 
+      "normalized": "Yahoo! Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 32, 
+      "entityId": "T12", 
+      "mention": "Mr.", 
+      "normalized": "Mr.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 31, 
+      "entityId": "Q58024", 
+      "mention": "eBay", 
+      "normalized": "eBay", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 20, 
+      "entityId": "T227", 
+      "mention": "him", 
+      "normalized": "Robert H. Swan", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 19, 
+      "entityId": "T3", 
+      "mention": "executive officers", 
+      "normalized": "executive officers", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 13, 
+      "entityId": "T221", 
+      "mention": "Chief Executive Officer", 
+      "normalized": "Chief Executive Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T0", 
+      "mention": "executive", 
+      "normalized": "executive", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "Q7286184", 
+      "mention": "Rajiv Dutta", 
+      "normalized": "Rajiv Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T92", 
+      "mention": "president", 
+      "normalized": "president", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "T46", 
+      "mention": "Donahoe", 
+      "normalized": "Messrs. Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T5", 
+      "mention": "executives", 
+      "normalized": "executives", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T99", 
+      "mention": "Compensation Committee", 
+      "normalized": "Compensation Committee", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T58", 
+      "mention": "Swans", 
+      "normalized": "Swans", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T219", 
+      "mention": "Whitman", 
+      "normalized": "Margaret C. Whitman", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T237", 
+      "mention": "Michael R. Jacobson", 
+      "normalized": "Michael R. Jacobson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T22", 
+      "mention": "Ms.", 
+      "normalized": "Ms.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q213205", 
+      "mention": "San Francisco Bay Area", 
+      "normalized": "San Francisco Bay Area", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T134", 
+      "mention": "Friday", 
+      "normalized": "Friday", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T147", 
+      "mention": "March 1", 
+      "normalized": "March 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T165", 
+      "mention": "December 31,\n    2006", 
+      "normalized": "December 31, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T234", 
+      "mention": "John J. Donahoe", 
+      "normalized": "John J. Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q5419946", 
+      "mention": "Executive\n    Compensation", 
+      "normalized": "Executive Compensation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T1", 
+      "mention": "Executive Compensation Practices", 
+      "normalized": "Executive Compensation Practices", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T15", 
+      "mention": "Donahoes", 
+      "normalized": "Donahoes", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T59", 
+      "mention": "$1,000,000", 
+      "normalized": "$1,000,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T60", 
+      "mention": "$200,000", 
+      "normalized": "$200,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T71", 
+      "mention": "senior vice president", 
+      "normalized": "senior vice president", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T80", 
+      "mention": "three-year", 
+      "normalized": "three-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T152", 
+      "mention": "September 1", 
+      "normalized": "September 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T194", 
+      "mention": "Financial Accounting Standards", 
+      "normalized": "Financial Accounting Standards", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T202", 
+      "mention": "Chairman", 
+      "normalized": "Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T208", 
+      "mention": "April 1, 2006", 
+      "normalized": "April 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T18", 
+      "mention": "$400,000", 
+      "normalized": "$400,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T19", 
+      "mention": "$800,000", 
+      "normalized": "$800,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T20", 
+      "mention": "March 1, 2006", 
+      "normalized": "March 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T23", 
+      "mention": "Whitmans", 
+      "normalized": "Whitmans", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T52", 
+      "mention": "$500,000", 
+      "normalized": "$500,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T93", 
+      "mention": "one-year", 
+      "normalized": "one-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T94", 
+      "mention": "two-year", 
+      "normalized": "two-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1439", 
+      "mention": "Texas", 
+      "normalized": "Texas", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q40984", 
+      "mention": "Skype", 
+      "normalized": "Skype", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q145", 
+      "mention": "United\n    Kingdom", 
+      "normalized": "United Kingdom", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T133", 
+      "mention": "July 2006", 
+      "normalized": "July 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T140", 
+      "mention": "26 weeks", 
+      "normalized": "26 weeks", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T144", 
+      "mention": "January 1, 2006", 
+      "normalized": "January 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T145", 
+      "mention": "seven years", 
+      "normalized": "seven years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T156", 
+      "mention": "six months", 
+      "normalized": "six months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T160", 
+      "mention": "four-year", 
+      "normalized": "four-year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T163", 
+      "mention": "six-month", 
+      "normalized": "six-month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T166", 
+      "mention": "$497,508", 
+      "normalized": "$497,508", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T175", 
+      "mention": "executive officer", 
+      "normalized": "executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q483959", 
+      "mention": "PayPal", 
+      "normalized": "PayPal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T256", 
+      "mention": "March 16, 2006", 
+      "normalized": "March 16, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T265", 
+      "mention": "FAS 123R", 
+      "normalized": "FAS 123R", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1338307", 
+      "mention": "Black-Scholes", 
+      "normalized": "Black-Scholes", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T297", 
+      "mention": "Gross", 
+      "normalized": "Gross", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T8", 
+      "mention": "a year", 
+      "normalized": "a year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T21", 
+      "mention": "$995,016", 
+      "normalized": "$995,016", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T29", 
+      "mention": "90 days", 
+      "normalized": "90 days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T35", 
+      "mention": "Target", 
+      "normalized": "Target", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T36", 
+      "mention": "$\n\n\n    1.370", 
+      "normalized": "$ 1.370", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T37", 
+      "mention": "$\n\n\n    1.671", 
+      "normalized": "$ 1.671", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T51", 
+      "mention": "$2,000,000", 
+      "normalized": "$2,000,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T68", 
+      "mention": "Compensation Committees", 
+      "normalized": "Compensation Committees", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T70", 
+      "mention": "Senior Vice President of Human Resources", 
+      "normalized": "Senior Vice President of Human Resources", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4982823", 
+      "mention": "Buck Consultants", 
+      "normalized": "Buck Consultants", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T83", 
+      "mention": "2006 at", 
+      "normalized": "2006 at", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1416161", 
+      "mention": "Accounting Standard Boards Statement of Financial", 
+      "normalized": "Accounting Standard Boards Statement of Financial", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T97", 
+      "mention": "one year", 
+      "normalized": "one year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T102", 
+      "mention": "200 hours", 
+      "normalized": "200 hours", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T117", 
+      "mention": "$3,000,000", 
+      "normalized": "$3,000,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q51689", 
+      "mention": "Plano,\n    Texas", 
+      "normalized": "Plano, Texas", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T125", 
+      "mention": "Duttas", 
+      "normalized": "Duttas", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T132", 
+      "mention": "January 2004", 
+      "normalized": "January 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T135", 
+      "mention": "first week", 
+      "normalized": "first week", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T136", 
+      "mention": "first day", 
+      "normalized": "first day", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T138", 
+      "mention": "June 2005", 
+      "normalized": "June 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T155", 
+      "mention": "four years", 
+      "normalized": "four years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T169", 
+      "mention": "$82,918", 
+      "normalized": "$82,918", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T171", 
+      "mention": "September 2004", 
+      "normalized": "September 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T177", 
+      "mention": "January 1", 
+      "normalized": "January 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T178", 
+      "mention": "third year", 
+      "normalized": "third year", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T180", 
+      "mention": "http://investor.ebay.com/governance", 
+      "normalized": "http://investor.ebay.com/governance", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T181", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T184", 
+      "mention": "January 1, 2005", 
+      "normalized": "January 1, 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T186", 
+      "mention": "March 30,\n    2007", 
+      "normalized": "March 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T187", 
+      "mention": "Beneficial", 
+      "normalized": "Beneficial", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue\n    Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T193", 
+      "mention": "Financial Accounting Standard Boards Statement", 
+      "normalized": "Financial Accounting Standard Boards Statement", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T201", 
+      "mention": "Edward W. Barnholt", 
+      "normalized": "Edward W. Barnholt", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3379414", 
+      "mention": "Philippe Bourguignon", 
+      "normalized": "Philippe Bourguignon", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1679715", 
+      "mention": "William C. Ford", 
+      "normalized": "William C. Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T205", 
+      "mention": "Robert C. Kagle", 
+      "normalized": "Robert C. Kagle", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q21064349", 
+      "mention": "Thomas J. Tierney", 
+      "normalized": "Thomas J. Tierney", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T209", 
+      "mention": "July 27, 2005", 
+      "normalized": "July 27, 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T214", 
+      "mention": "SEC", 
+      "normalized": "SEC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q994506", 
+      "mention": "Securities Act of 1933", 
+      "normalized": "Securities Act of 1933", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T222", 
+      "mention": "2006\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "2006 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T223", 
+      "mention": "995,016\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "995,016 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T224", 
+      "mention": "12,605,385\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "12,605,385 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T225", 
+      "mention": "911,684\n\n\n \n\n\n \n\n\n \n\n\n    \n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "911,684 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T226", 
+      "mention": "1,007,943\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "1,007,943 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T228", 
+      "mention": "Vice President", 
+      "normalized": "Vice President", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T229", 
+      "mention": "Finance and Chief\n    Financial Officer", 
+      "normalized": "Finance and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T230", 
+      "mention": "$\n\n\n    387,064", 
+      "normalized": "$ 387,064", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T239", 
+      "mention": "General", 
+      "normalized": "General", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T244", 
+      "mention": "$530,000", 
+      "normalized": "$530,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T255", 
+      "mention": "$600,000", 
+      "normalized": "$600,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1328899", 
+      "mention": "Boards Statement of Financial Accounting", 
+      "normalized": "Boards Statement of Financial Accounting", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T272", 
+      "mention": "January\n    2001", 
+      "normalized": "January 2001", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T275", 
+      "mention": "five years", 
+      "normalized": "five years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q2706107", 
+      "mention": "dividend yield", 
+      "normalized": "dividend yield", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q648666", 
+      "mention": "U.S. Treasury", 
+      "normalized": "U.S. Treasury", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T281", 
+      "mention": "$1,500", 
+      "normalized": "$1,500", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T283", 
+      "mention": "Aircraft Usage", 
+      "normalized": "Aircraft Usage", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q973587", 
+      "mention": "Internal\n    Revenue Service", 
+      "normalized": "Internal Revenue Service", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T303", 
+      "mention": "773,467\n\n\n \n\n\n \n\n\n \n\n\n    \n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "773,467 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T305", 
+      "mention": "22,398\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "22,398 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T313", 
+      "mention": "7,952,650\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "7,952,650 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T315", 
+      "mention": "$\n\n\n    1,950,000", 
+      "normalized": "$ 1,950,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T332", 
+      "mention": "Vice President and Chief\n    Financial Officer", 
+      "normalized": "Vice President and Chief Financial Officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T336", 
+      "mention": "July 7, 2006", 
+      "normalized": "July 7, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 31, 
+      "entityId": "T2", 
+      "mention": "Mr.", 
+      "normalized": "Mr.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 23, 
+      "entityId": "T166", 
+      "mention": "DSUs", 
+      "normalized": "DSUs", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 18, 
+      "entityId": "T7", 
+      "mention": "December 31,\n    2006", 
+      "normalized": "December 31, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 16, 
+      "entityId": "Q58024", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T9", 
+      "mention": "Securities", 
+      "normalized": "Securities", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T357", 
+      "mention": "Directors", 
+      "normalized": "Directors", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "T105", 
+      "mention": "four years", 
+      "normalized": "four years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 9, 
+      "entityId": "T175", 
+      "mention": "director", 
+      "normalized": "director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "T163", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "Q7436159", 
+      "mention": "Scott Cook", 
+      "normalized": "Scott D. Cook", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T219", 
+      "mention": "Pierre M. Omidyar", 
+      "normalized": "Pierre M. Omidyar", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T15", 
+      "mention": "3/1/2006", 
+      "normalized": "3/1/2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T22", 
+      "mention": "Robert H. Swan", 
+      "normalized": "Robert H. Swan", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "Q7286184", 
+      "mention": "he", 
+      "normalized": "Rajiv Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T31", 
+      "mention": "Michael R. Jacobson", 
+      "normalized": "Michael R. Jacobson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T71", 
+      "mention": "3/1/2013", 
+      "normalized": "3/1/2013", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T299", 
+      "mention": "March 30, 2007", 
+      "normalized": "March 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T28", 
+      "mention": "John J. Donahoe", 
+      "normalized": "John J. Donahoe", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T40", 
+      "mention": "FAS 123R", 
+      "normalized": "FAS 123R", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T50", 
+      "mention": "Swans", 
+      "normalized": "Swans", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T213", 
+      "mention": "Barnholt", 
+      "normalized": "Edward W. Barnholt", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q1679715", 
+      "mention": "William C. Ford", 
+      "normalized": "William C. Ford", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T217", 
+      "mention": "Kagle", 
+      "normalized": "Robert C. Kagle", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q21064349", 
+      "mention": "Thomas J. Tierney", 
+      "normalized": "Thomas J. Tierney", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T3", 
+      "mention": "Donahoes", 
+      "normalized": "Donahoes", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T6", 
+      "mention": "Executive Compensation Practices", 
+      "normalized": "Executive Compensation Practices", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T8", 
+      "mention": "executive officers", 
+      "normalized": "executive officers", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T11", 
+      "mention": "Target", 
+      "normalized": "Target", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T14", 
+      "mention": "Margaret C. Whitman", 
+      "normalized": "Margaret C. Whitman", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T43", 
+      "mention": "five years", 
+      "normalized": "five years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T66", 
+      "mention": "1/12/2011", 
+      "normalized": "1/12/2011", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T67", 
+      "mention": "2/12/2012", 
+      "normalized": "2/12/2012", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T69", 
+      "mention": "3/1/2014", 
+      "normalized": "3/1/2014", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T70", 
+      "mention": "3/1/2015", 
+      "normalized": "3/1/2015", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T100", 
+      "mention": "Ms.", 
+      "normalized": "Ms.", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T171", 
+      "mention": "DSU", 
+      "normalized": "DSU", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T172", 
+      "mention": "non-employee director", 
+      "normalized": "non-employee director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q3379414", 
+      "mention": "Philippe Bourguignon", 
+      "normalized": "Philippe Bourguignon", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T218", 
+      "mention": "Dawn G. Lepore", 
+      "normalized": "Dawn G. Lepore", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T220", 
+      "mention": "Schlosberg", 
+      "normalized": "Richard R. Schlosberg", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T367", 
+      "mention": "Stockholder", 
+      "normalized": "Stockholder", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T4", 
+      "mention": "Executive Compensation", 
+      "normalized": "Executive Compensation", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T10", 
+      "mention": "Grant", 
+      "normalized": "Grant", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T18", 
+      "mention": "33,486\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "33,486 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T19", 
+      "mention": "66,972\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "66,972 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T23", 
+      "mention": "3/31/2006", 
+      "normalized": "3/31/2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q1338307", 
+      "mention": "Black-Scholes", 
+      "normalized": "Black-Scholes", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q2706107", 
+      "mention": "dividend\n    yield", 
+      "normalized": "dividend yield", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q648666", 
+      "mention": "U.S. Treasury", 
+      "normalized": "U.S. Treasury", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T83", 
+      "mention": "3/3/2013", 
+      "normalized": "3/3/2013", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T104", 
+      "mention": "September 1, 2003", 
+      "normalized": "September 1, 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T110", 
+      "mention": "September 1, 2006", 
+      "normalized": "September 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T112", 
+      "mention": "March 16, 2007", 
+      "normalized": "March 16, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T151", 
+      "mention": "February 2006", 
+      "normalized": "February 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T155", 
+      "mention": "May\n    2005", 
+      "normalized": "May 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T167", 
+      "mention": "$150,000", 
+      "normalized": "$150,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T179", 
+      "mention": "non-employee directors", 
+      "normalized": "non-employee directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T192", 
+      "mention": "Chairman", 
+      "normalized": "Chairman", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q297240", 
+      "mention": "Mr. Anderson", 
+      "normalized": "Mr. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T261", 
+      "mention": "Beneficial Owners and Management Table", 
+      "normalized": "Beneficial Owners and Management Table", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T326", 
+      "mention": "January 1, 2007", 
+      "normalized": "January 1, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q2279861", 
+      "mention": "Shopping.com Ltd.", 
+      "normalized": "Shopping.com Ltd.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T0", 
+      "mention": "October 1, 2006", 
+      "normalized": "October 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T1", 
+      "mention": "$500,000", 
+      "normalized": "$500,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q14136184", 
+      "mention": "Fair Value", 
+      "normalized": "Fair Value", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T16", 
+      "mention": "500,000\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "500,000 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T17", 
+      "mention": "39.90\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "39.90 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T25", 
+      "mention": "9/29/2006", 
+      "normalized": "9/29/2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T36", 
+      "mention": "Messrs. Dutta", 
+      "normalized": "Messrs. Dutta", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T39", 
+      "mention": "March 1,\n    2006", 
+      "normalized": "March 1, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T48", 
+      "mention": "Friday", 
+      "normalized": "Friday", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T51", 
+      "mention": "26 weeks", 
+      "normalized": "26 weeks", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5419946", 
+      "mention": "Executive\n    Compensation", 
+      "normalized": "Executive Compensation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T58", 
+      "mention": "EQUITY AWARDS AT FISCAL YEAR", 
+      "normalized": "EQUITY AWARDS AT FISCAL YEAR", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T65", 
+      "mention": "0\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "0 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T68", 
+      "mention": "3/18/2013", 
+      "normalized": "3/18/2013", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T73", 
+      "mention": "3/31/2013", 
+      "normalized": "3/31/2013", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T74", 
+      "mention": "9/29/2013", 
+      "normalized": "9/29/2013", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T75", 
+      "mention": "$\n\n\n    1,503,500", 
+      "normalized": "$ 1,503,500", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T80", 
+      "mention": "8/30/2009", 
+      "normalized": "8/30/2009", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T86", 
+      "mention": "11/25/2015", 
+      "normalized": "11/25/2015", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T89", 
+      "mention": "3/25/2015", 
+      "normalized": "3/25/2015", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T93", 
+      "mention": "8/24/2008", 
+      "normalized": "8/24/2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T101", 
+      "mention": "Whitmans", 
+      "normalized": "Whitmans", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T102", 
+      "mention": "March 18, 2003", 
+      "normalized": "March 18, 2003", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T103", 
+      "mention": "March 1", 
+      "normalized": "March 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T106", 
+      "mention": "September 1, 2004", 
+      "normalized": "September 1, 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T108", 
+      "mention": "September 1, 2005", 
+      "normalized": "September 1, 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T115", 
+      "mention": "a half years", 
+      "normalized": "a half years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T120", 
+      "mention": "2007,\n    March 16", 
+      "normalized": "2007, March 16", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T121", 
+      "mention": "2008, March 16", 
+      "normalized": "2008, March 16", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T122", 
+      "mention": "March 16,\n    2010", 
+      "normalized": "March 16, 2010", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T125", 
+      "mention": "$30.07", 
+      "normalized": "$30.07", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T126", 
+      "mention": "December 29, 2006", 
+      "normalized": "December 29, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T130", 
+      "mention": "November 22, 2007", 
+      "normalized": "November 22, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T132", 
+      "mention": "March 17, 2006", 
+      "normalized": "March 17, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T139", 
+      "mention": "March 1, 2009", 
+      "normalized": "March 1, 2009", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T140", 
+      "mention": "March 1, 2010", 
+      "normalized": "March 1, 2010", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T141", 
+      "mention": "March 1, 2011", 
+      "normalized": "March 1, 2011", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T147", 
+      "mention": "$\n\n\n    4,231,343", 
+      "normalized": "$ 4,231,343", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T150", 
+      "mention": "executive officer", 
+      "normalized": "executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T152", 
+      "mention": "June 2007", 
+      "normalized": "June 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T153", 
+      "mention": "February 2008", 
+      "normalized": "February 2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T154", 
+      "mention": "February 2007", 
+      "normalized": "February 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T160", 
+      "mention": "November 2006", 
+      "normalized": "November 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T161", 
+      "mention": "December 2002", 
+      "normalized": "December 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T184", 
+      "mention": "February 2005", 
+      "normalized": "February 2005", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T185", 
+      "mention": "director or consultant", 
+      "normalized": "director or consultant", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T194", 
+      "mention": "$50,000", 
+      "normalized": "$50,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T196", 
+      "mention": "$10,000", 
+      "normalized": "$10,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T197", 
+      "mention": "Independent Director", 
+      "normalized": "Independent Director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T198", 
+      "mention": "$5,000", 
+      "normalized": "$5,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T205", 
+      "mention": "$2,000", 
+      "normalized": "$2,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T206", 
+      "mention": "$1,000", 
+      "normalized": "$1,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5494950", 
+      "mention": "Fred D. Anderson", 
+      "normalized": "Fred D. Anderson", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T210", 
+      "mention": "81,000\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "81,000 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T211", 
+      "mention": "37,473\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "37,473 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T212", 
+      "mention": "154,798\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "154,798 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T228", 
+      "mention": "$\n\n\n    53,750", 
+      "normalized": "$ 53,750", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T273", 
+      "mention": "June 13, 2006", 
+      "normalized": "June 13, 2006", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T275", 
+      "mention": "$184,806", 
+      "normalized": "$184,806", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T298", 
+      "mention": "60 days", 
+      "normalized": "60 days", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T307", 
+      "mention": "$30.82", 
+      "normalized": "$30.82", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T308", 
+      "mention": "6.47 years", 
+      "normalized": "6.47 years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T314", 
+      "mention": "$\n\n\n    31.01", 
+      "normalized": "$ 31.01", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T315", 
+      "mention": "134,376,618\n\n\n \n\n\n \n\n\n    $", 
+      "normalized": "134,376,618 $", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T324", 
+      "mention": "January 1", 
+      "normalized": "January 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T328", 
+      "mention": "$2.73", 
+      "normalized": "$2.73", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5641633", 
+      "mention": "Half.com, Inc.", 
+      "normalized": "Half.com, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T330", 
+      "mention": "$0.77", 
+      "normalized": "$0.77", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q483959", 
+      "mention": "X.com Corporation", 
+      "normalized": "X.com Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T332", 
+      "mention": "$9.14", 
+      "normalized": "$9.14", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T333", 
+      "mention": "PayPal, Inc.", 
+      "normalized": "PayPal, Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T334", 
+      "mention": "$9.47", 
+      "normalized": "$9.47", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T336", 
+      "mention": "$36.30", 
+      "normalized": "$36.30", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T338", 
+      "mention": "$3.88", 
+      "normalized": "$3.88", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q246125", 
+      "mention": "Skype Technologies S.A.", 
+      "normalized": "Skype Technologies S.A.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T341", 
+      "mention": "SEC", 
+      "normalized": "SEC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T342", 
+      "mention": "September 25, 1998", 
+      "normalized": "September 25, 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T343", 
+      "mention": "Management  Director", 
+      "normalized": "Management Director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T344", 
+      "mention": "$0.39", 
+      "normalized": "$0.39", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T346", 
+      "mention": "June 1998", 
+      "normalized": "June 1998", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T350", 
+      "mention": "10 years", 
+      "normalized": "10 years", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T351", 
+      "mention": "June 2002", 
+      "normalized": "June 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T354", 
+      "mention": "January\n    2007", 
+      "normalized": "January 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T360", 
+      "mention": "April 30, 2007", 
+      "normalized": "April 30, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T362", 
+      "mention": "http://investor.ebay.com/annuals.cfm", 
+      "normalized": "http://investor.ebay.com/annuals.cfm", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T363", 
+      "mention": "Investor Relations", 
+      "normalized": "Investor Relations", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q16553", 
+      "mention": "San Jose, California", 
+      "normalized": "San Jose, California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T368", 
+      "mention": "May 23, 2000", 
+      "normalized": "May 23, 2000", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T370", 
+      "mention": "March 14,\n    2002", 
+      "normalized": "March 14, 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T372", 
+      "mention": "June 5, 2002", 
+      "normalized": "June 5, 2002", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T373", 
+      "mention": "March 18, 2004", 
+      "normalized": "March 18, 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T375", 
+      "mention": "June 24, 2004", 
+      "normalized": "June 24, 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T377", 
+      "mention": "September 9,\n    2004", 
+      "normalized": "September 9, 2004", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T379", 
+      "mention": "January 10,\n    2007", 
+      "normalized": "January 10, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T381", 
+      "mention": "March 28,\n    2007", 
+      "normalized": "March 28, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q30", 
+      "mention": "United States of America", 
+      "normalized": "United States of America", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T383", 
+      "mention": "corporation", 
+      "normalized": "corporation", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T385", 
+      "mention": "United States", 
+      "normalized": "United States", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5253299", 
+      "mention": "Delaware\n    corporation", 
+      "normalized": "Delaware corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T397", 
+      "mention": "chief executive officer", 
+      "normalized": "chief executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T398", 
+      "mention": "chief\n    executive officer", 
+      "normalized": "chief executive officer", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 10, 
+      "entityId": "T0", 
+      "mention": "director", 
+      "normalized": "Director", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 8, 
+      "entityId": "Q7316309", 
+      "mention": "Restricted stock units", 
+      "normalized": "Restricted stock units", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q5429965", 
+      "mention": "Fair Market Value", 
+      "normalized": "Fair Market Value", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "T20", 
+      "mention": "Rule 16b-3", 
+      "normalized": "Rule 16b-3", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "Q1393", 
+      "mention": "Delaware", 
+      "normalized": "Delaware", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q994506", 
+      "mention": "Regulation S-K", 
+      "normalized": "Regulation S-K", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "T37", 
+      "mention": "Companys", 
+      "normalized": "Companys", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T12", 
+      "mention": "Item 404", 
+      "normalized": "Item 404", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q58024", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T42", 
+      "mention": "Securities", 
+      "normalized": "Securities", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T65", 
+      "mention": "Parent", 
+      "normalized": "Parent Corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T1", 
+      "mention": "United States", 
+      "normalized": "United States", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1999032", 
+      "mention": "Securities Exchange Act", 
+      "normalized": "Securities Exchange Act", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q82059", 
+      "mention": "Nasdaq National Market", 
+      "normalized": "Nasdaq National Market", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T5", 
+      "mention": "Nasdaq", 
+      "normalized": "Nasdaq", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q164746", 
+      "mention": "The Wall Street Journal", 
+      "normalized": "The Wall Street Journal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T23", 
+      "mention": "Treasury Regulations", 
+      "normalized": "Treasury Regulations", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T26", 
+      "mention": "EBITDA", 
+      "normalized": "EBITDA", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q953944", 
+      "mention": "United\n    States Securities", 
+      "normalized": "United States Securities", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T32", 
+      "mention": "Powers of Board", 
+      "normalized": "Powers of Board", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T35", 
+      "mention": "Covered Employees", 
+      "normalized": "Covered Employees", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T41", 
+      "mention": "Corporation Law", 
+      "normalized": "Corporation Law", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T45", 
+      "mention": "General Corporation Law", 
+      "normalized": "General Corporation Law", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T55", 
+      "mention": "Securities Law Compliance", 
+      "normalized": "Securities Law Compliance", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T62", 
+      "mention": "March 28, 2007", 
+      "normalized": "March 28, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1666281", 
+      "mention": "Internal Revenue Code of 1986", 
+      "normalized": "Internal Revenue Code of 1986", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 12, 
+      "entityId": "T2", 
+      "mention": "Companys", 
+      "normalized": "Companys", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 7, 
+      "entityId": "Q648666", 
+      "mention": "Treasury Department", 
+      "normalized": "Treasury Department", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 6, 
+      "entityId": "Q58024", 
+      "mention": "eBay Inc.", 
+      "normalized": "eBay Inc.", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T0", 
+      "mention": "Companys", 
+      "normalized": "Companys", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "Q953944", 
+      "mention": "SEC", 
+      "normalized": "Securities and Exchange Commission", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 5, 
+      "entityId": "T23", 
+      "mention": "first day", 
+      "normalized": "first day", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 4, 
+      "entityId": "Q145", 
+      "mention": "UK", 
+      "normalized": "United Kingdom", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T16", 
+      "mention": "Securities", 
+      "normalized": "Securities", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "Q164746", 
+      "mention": "The Wall Street\n    Journal", 
+      "normalized": "The Wall Street Journal", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T117", 
+      "mention": "0$", 
+      "normalized": "0$", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 3, 
+      "entityId": "T133", 
+      "mention": "2$", 
+      "normalized": "2$", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T5", 
+      "mention": "NIC", 
+      "normalized": "NIC", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q5429965", 
+      "mention": "Fair Market\n    Value", 
+      "normalized": "Fair Market Value", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q82059", 
+      "mention": "Nasdaq National Market", 
+      "normalized": "Nasdaq National Market", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T55", 
+      "mention": "Treasury Departments", 
+      "normalized": "Treasury Departments", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T67", 
+      "mention": "directors", 
+      "normalized": "directors", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T76", 
+      "mention": "11:59 p.m.", 
+      "normalized": "11:59 p.m.", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T93", 
+      "mention": "MARGARET C. WHITMAN", 
+      "normalized": "Margaret C. Whitman", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q141690", 
+      "mention": "Back Bay", 
+      "normalized": "Back Bay", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q29", 
+      "mention": "SP", 
+      "normalized": "SP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "T139", 
+      "mention": "3$", 
+      "normalized": "3$", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 2, 
+      "entityId": "Q235", 
+      "mention": "MC", 
+      "normalized": "MC", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T1", 
+      "mention": "January 1", 
+      "normalized": "January 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T4", 
+      "mention": "United States", 
+      "normalized": "United States", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q218636", 
+      "mention": "B-1", 
+      "normalized": "B-1", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T12", 
+      "mention": "Registration Statement", 
+      "normalized": "Registration Statement", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q994506", 
+      "mention": "Securities Act of\n    1933", 
+      "normalized": "Securities Act of 1933", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T18", 
+      "mention": "May 1", 
+      "normalized": "May 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T19", 
+      "mention": "November 1", 
+      "normalized": "November 1", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T20", 
+      "mention": "April 30", 
+      "normalized": "April 30", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T21", 
+      "mention": "October 31", 
+      "normalized": "October 31", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T22", 
+      "mention": "November 1, 2007", 
+      "normalized": "November 1, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T25", 
+      "mention": "April 30,\n    2008", 
+      "normalized": "April 30, 2008", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T26", 
+      "mention": "six month", 
+      "normalized": "six month", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T27", 
+      "mention": "six months", 
+      "normalized": "six months", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q180285", 
+      "mention": "B-2", 
+      "normalized": "B-2", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T33", 
+      "mention": "Grant", 
+      "normalized": "Grant", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T42", 
+      "mention": "Nasdaq", 
+      "normalized": "Nasdaq", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q471280", 
+      "mention": "Section 125", 
+      "normalized": "Section 125", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T59", 
+      "mention": "$25,000", 
+      "normalized": "$25,000", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T68", 
+      "mention": "Stockholder", 
+      "normalized": "Stockholder", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T69", 
+      "mention": "March 28, 2007", 
+      "normalized": "March 28, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1999032", 
+      "mention": "Securities Exchange Act", 
+      "normalized": "Securities Exchange Act", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q99", 
+      "mention": "State of California", 
+      "normalized": "State of California", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q433671", 
+      "mention": "AVE", 
+      "normalized": "AVE", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3070", 
+      "mention": "SAN JOSE, CA", 
+      "normalized": "SAN JOSE, CA", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T75", 
+      "mention": "www.proxyvote.com", 
+      "normalized": "www.proxyvote.com", 
+      "type": "IDENTIFIER:URL"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T78", 
+      "mention": "annual", 
+      "normalized": "annual", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T79", 
+      "mention": "800-690-6903", 
+      "normalized": "800-690-6903", 
+      "type": "IDENTIFIER:PHONE_NUMBER"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T81", 
+      "mention": "Vote Voice", 
+      "normalized": "Vote Voice", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T82", 
+      "mention": "Mark", 
+      "normalized": "Mark", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4972280", 
+      "mention": "Broadridge", 
+      "normalized": "Broadridge", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T85", 
+      "mention": "Mercedes Way", 
+      "normalized": "Mercedes Way", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q60", 
+      "mention": "Edgewood, NY 11717", 
+      "normalized": "Edgewood, NY 11717", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T87", 
+      "mention": "June 13, 2007", 
+      "normalized": "June 13, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T88", 
+      "mention": "MARK", 
+      "normalized": "MARK", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3379414", 
+      "mention": "Philippe Bourguignon", 
+      "normalized": "Philippe Bourguignon", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q21064349", 
+      "mention": "Thomas J. Tierney", 
+      "normalized": "Thomas J. Tierney", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5466644", 
+      "mention": "For\n \nAgainst", 
+      "normalized": "For Against", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1666281", 
+      "mention": "Internal\nRevenue Code", 
+      "normalized": "Internal Revenue Code", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q488048", 
+      "mention": "PricewaterhouseCoopers LLP", 
+      "normalized": "PricewaterhouseCoopers LLP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T97", 
+      "mention": "December 31, 2007", 
+      "normalized": "December 31, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T98", 
+      "mention": "July 1, 2007", 
+      "normalized": "July 1, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T100", 
+      "mention": "PLEASE SIGN WITHIN BOX", 
+      "normalized": "PLEASE SIGN WITHIN BOX", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T102", 
+      "mention": "JUNE 14, 2007", 
+      "normalized": "JUNE 14, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T104", 
+      "mention": "ROBERT H. SWAN AND MICHAEL R. JACOBSON", 
+      "normalized": "ROBERT H. SWAN AND MICHAEL R. JACOBSON", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T105", 
+      "mention": "attorneys", 
+      "normalized": "attorneys", 
+      "type": "TITLE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q5253299", 
+      "mention": "Delaware corporation", 
+      "normalized": "Delaware corporation", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T109", 
+      "mention": "Thursday, June 14,\n2007", 
+      "normalized": "Thursday, June 14, 2007", 
+      "type": "TEMPORAL:DATE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T110", 
+      "mention": "8:00 a.m.", 
+      "normalized": "8:00 a.m.", 
+      "type": "TEMPORAL:TIME"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T113", 
+      "mention": "Berkeley\nStreet", 
+      "normalized": "Berkeley Street", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q100", 
+      "mention": "Boston, Massachusetts", 
+      "normalized": "Boston, Massachusetts", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T115", 
+      "mention": "PLEASE VOTE", 
+      "normalized": "PLEASE VOTE", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q30", 
+      "mention": "THE UNITED STATES", 
+      "normalized": "THE UNITED STATES", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T118", 
+      "mention": "HP", 
+      "normalized": "HP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q4649500", 
+      "mention": "A58", 
+      "normalized": "A58", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T121", 
+      "mention": "ZD", 
+      "normalized": "ZD", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T123", 
+      "mention": "MID", 
+      "normalized": "MID", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1197", 
+      "mention": "LS", 
+      "normalized": "LS", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T126", 
+      "mention": "DDP", 
+      "normalized": "DDP", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T128", 
+      "mention": "U.", 
+      "normalized": "U.", 
+      "type": "PERSON"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T129", 
+      "mention": "PJ", 
+      "normalized": "PJ", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T130", 
+      "mention": "Z`GPK", 
+      "normalized": "Z`GPK", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q3270095", 
+      "mention": "JCW", 
+      "normalized": "JCW", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q54173", 
+      "mention": "GE", 
+      "normalized": "GE", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T135", 
+      "mention": "MJ", 
+      "normalized": "MJ", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q622329", 
+      "mention": "FYI", 
+      "normalized": "FYI", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q462763", 
+      "mention": "GIZ", 
+      "normalized": "GIZ", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T140", 
+      "mention": "6S", 
+      "normalized": "6S", 
+      "type": "IDENTIFIER:LATITUDE_LONGITUDE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T141", 
+      "mention": "BWM", 
+      "normalized": "BWM", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T142", 
+      "mention": "MS", 
+      "normalized": "MS", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T143", 
+      "mention": "VYV", 
+      "normalized": "VYV", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q219776", 
+      "mention": "X2", 
+      "normalized": "X2", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q830215", 
+      "mention": "E!", 
+      "normalized": "E!", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T146", 
+      "mention": "CYOS", 
+      "normalized": "CYOS", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T147", 
+      "mention": "M9/C", 
+      "normalized": "M9/C", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T148", 
+      "mention": "5N", 
+      "normalized": "5N", 
+      "type": "IDENTIFIER:LATITUDE_LONGITUDE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T149", 
+      "mention": "DW", 
+      "normalized": "DW", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T150", 
+      "mention": "$8", 
+      "normalized": "$8", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T151", 
+      "mention": "MJS", 
+      "normalized": "MJS", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q19879161", 
+      "mention": "@CR", 
+      "normalized": "@CR", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T153", 
+      "mention": "HM", 
+      "normalized": "HM", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1397", 
+      "mention": "0H", 
+      "normalized": "0H", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1439", 
+      "mention": "TX", 
+      "normalized": "TX", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q796", 
+      "mention": "IQ", 
+      "normalized": "IQ", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T159", 
+      "mention": "AQI", 
+      "normalized": "AQI", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T160", 
+      "mention": "P+R", 
+      "normalized": "P+R", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q1160312", 
+      "mention": "J#", 
+      "normalized": "J#", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T162", 
+      "mention": "AOX", 
+      "normalized": "AOX", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q311940", 
+      "mention": "DF", 
+      "normalized": "DF", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T164", 
+      "mention": "4S", 
+      "normalized": "4S", 
+      "type": "IDENTIFIER:LATITUDE_LONGITUDE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q758769", 
+      "mention": "Q5", 
+      "normalized": "Q5", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T166", 
+      "mention": "XFH", 
+      "normalized": "XFH", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q527994", 
+      "mention": "F2B", 
+      "normalized": "F2B", 
+      "type": "PRODUCT"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T168", 
+      "mention": "AJL", 
+      "normalized": "AJL", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T170", 
+      "mention": "MU", 
+      "normalized": "MU", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T171", 
+      "mention": "ZL", 
+      "normalized": "ZL", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T172", 
+      "mention": "$1", 
+      "normalized": "$1", 
+      "type": "IDENTIFIER:MONEY"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T173", 
+      "mention": "RPA", 
+      "normalized": "RPA", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T174", 
+      "mention": "2E", 
+      "normalized": "2E", 
+      "type": "IDENTIFIER:LATITUDE_LONGITUDE"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T175", 
+      "mention": "DJW", 
+      "normalized": "DJW", 
+      "type": "ORGANIZATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "Q8678", 
+      "mention": "RJ", 
+      "normalized": "RJ", 
+      "type": "LOCATION"
+    }, 
+    {
+      "count": 1, 
+      "entityId": "T178", 
+      "mention": "PA", 
+      "normalized": "PA", 
+      "type": "ORGANIZATION"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "2224", 
+    "Content-Type": "application/json", 
+    "Date": "Wed, 02 Aug 2017 18:38:16 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "af5445e35111045ba03309b58dcaebdf"
+  }
+}

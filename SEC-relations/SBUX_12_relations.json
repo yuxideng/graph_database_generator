@@ -1,0 +1,900 @@
+{
+  "relationships": [
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Howard Schultz", 
+      "arg2Id": "Q472330", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Howard Schultz", 
+      "arg2Id": "Q472330", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "William W. Bradley", 
+      "arg1Id": "Q504025", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "William W. Bradley", 
+      "arg2Id": "Q504025", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William W. Bradley", 
+      "arg1Id": "Q504025", 
+      "arg2": "Allen & Company LLC", 
+      "arg2Id": "Q4731492", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Allen & Company LLC", 
+      "arg1Id": "Q4731492", 
+      "arg2": "William W. Bradley", 
+      "arg2Id": "Q504025", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William W. Bradley", 
+      "arg1Id": "Q504025", 
+      "arg2": "Democratic", 
+      "arg2Id": "Q29552", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William W. Bradley", 
+      "arg1Id": "Q504025", 
+      "arg2": "U.S. Senate", 
+      "arg2Id": "Q66096", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William W. Bradley", 
+      "arg1Id": "Q504025", 
+      "arg2": "New York Knicks", 
+      "arg2Id": "Q131364", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Robert M. Gates", 
+      "arg2Id": "Q212979", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robert M. Gates", 
+      "arg1Id": "Q212979", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert M. Gates", 
+      "arg1Id": "Q212979", 
+      "arg2": "College of\nWilliam & Mary", 
+      "arg2Id": "Q875637", 
+      "confidence": 0.6723415851593018, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Robert M. Gates", 
+      "arg1Id": "Q212979", 
+      "arg2": "Texas A&M University", 
+      "arg2Id": "Q49212", 
+      "confidence": 0.6997827291488647, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Texas A&M University", 
+      "arg1Id": "Q49212", 
+      "arg2": "Robert M. Gates", 
+      "arg2Id": "Q212979", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robert M. Gates", 
+      "arg1Id": "Q212979", 
+      "arg2": "Texas A&M University", 
+      "arg2Id": "Q49212", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ariel Capital\nManagement, Inc.", 
+      "arg2": "Mellody Hobson", 
+      "arg2Id": "Q6813152", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mellody Hobson", 
+      "arg1Id": "Q6813152", 
+      "arg2": "Ariel Capital\nManagement, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mellody Hobson", 
+      "arg1Id": "Q6813152", 
+      "arg2": "DreamWorks Animation SKG,\nInc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mellody Hobson", 
+      "arg1Id": "Q6813152", 
+      "arg2": "The Estee Lauder Companies", 
+      "arg2Id": "Q1260606", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mellody Hobson", 
+      "arg1Id": "Q6813152", 
+      "arg2": "Investment Company Institute", 
+      "arg2Id": "Q6060779", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hobsons", 
+      "arg2": "ABCs Good Morning America", 
+      "arg2Id": "Q825946", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin R. Johnson", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Kevin R. Johnson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kevin R. Johnson", 
+      "arg2": "Juniper Networks, Inc.", 
+      "arg2Id": "Q1049080", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kevin R. Johnson", 
+      "arg2": "Microsoft Corporation", 
+      "arg2Id": "Q2283", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Microsoft Corporation", 
+      "arg1Id": "Q2283", 
+      "arg2": "Kevin R. Johnson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Olden Lee", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Taco Bell", 
+      "arg1Id": "Q752941", 
+      "arg2": "KFC", 
+      "arg2Id": "Q524757", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "PepsiCo, Inc.", 
+      "arg2Id": "Q334800", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "PepsiCo", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Joshua Cooper Ramo", 
+      "arg2Id": "Q6289742", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kissinger Associates", 
+      "arg1Id": "Q3197516", 
+      "arg2": "Joshua Cooper Ramo", 
+      "arg2Id": "Q6289742", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Kissinger Associates", 
+      "arg2Id": "Q3197516", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Goldman Sachs", 
+      "arg2Id": "Q193326", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "NBC", 
+      "arg2Id": "Q13974", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Olympics", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Beijing", 
+      "arg2Id": "Q956", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "China", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "The Age", 
+      "arg2Id": "Q631893", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "New York Times", 
+      "arg2Id": "Q9684", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Young Global Leaders", 
+      "arg2Id": "Q2624519", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joshua Cooper Ramo", 
+      "arg1Id": "Q6289742", 
+      "arg2": "Council on Foreign Relations", 
+      "arg2Id": "Q594712", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James G. Shennan", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "James G. Shennan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James G. Shennan", 
+      "arg2": "Trinity Ventures", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Trinity Ventures", 
+      "arg2": "James G. Shennan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Addison Consultants, Inc.", 
+      "arg2": "James G. Shennan", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James G. Shennan", 
+      "arg2": "Addison Consultants, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Clara Shih", 
+      "arg2Id": "Q16222044", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Hearsay Social", 
+      "arg2Id": "Q5691702", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "ess Operations", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Microsoft Corporation", 
+      "arg2Id": "Q2283", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Google, Inc.", 
+      "arg2Id": "Q95", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Facebook", 
+      "arg2Id": "Q355", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Facebook", 
+      "arg1Id": "Q355", 
+      "arg2": "Clara Shih", 
+      "arg2Id": "Q16222044", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "Hearsay Social", 
+      "arg2Id": "Q5691702", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "JAVIER G. TERUEL", 
+      "arg2Id": "Q14336", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Colgate-Palmolive Company", 
+      "arg1Id": "Q609466", 
+      "arg2": "JAVIER G. TERUEL", 
+      "arg2Id": "Q14336", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Colgate-Palmolive Company", 
+      "arg2Id": "Q609466", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Colgate-Palmolives", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Colgate-Palmolives", 
+      "arg2": "JAVIER G. TERUEL", 
+      "arg2Id": "Q14336", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Asia", 
+      "arg2Id": "Q48", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Global Business\nDevelopment", 
+      "arg2": "JAVIER G. TERUEL", 
+      "arg2Id": "Q14336", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "New York", 
+      "arg2Id": "Q60", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Body Care", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Body Care", 
+      "arg2": "JAVIER G. TERUEL", 
+      "arg2Id": "Q14336", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Mexico", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Colgate", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Global Business\nDevelopment", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Colgate-Mexico", 
+      "arg2Id": "Q96", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "JAVIER G. TERUEL", 
+      "arg1Id": "Q14336", 
+      "arg2": "Colgate-Europe", 
+      "arg2Id": "Q46", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Nielsen Company B.V.", 
+      "arg1Id": "Q540891", 
+      "arg2": "Qualifications", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Qualifications", 
+      "arg2": "Nielsen Company B.V.", 
+      "arg2Id": "Q540891", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "MYRON E. ULLMAN", 
+      "arg2Id": "Q16886254", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "J.C. Penney Company, Inc.", 
+      "arg2Id": "Q920037", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "J.C. Penney Company, Inc.", 
+      "arg1Id": "Q920037", 
+      "arg2": "MYRON E. ULLMAN", 
+      "arg2Id": "Q16886254", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "DFS Group Limited", 
+      "arg2": "MYRON E. ULLMAN", 
+      "arg2Id": "Q16886254", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "DFS Group Limited", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "R.H. Macy", 
+      "arg2Id": "Q629269", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Federal Reserve Bank of Dallas", 
+      "arg1Id": "Q3268621", 
+      "arg2": "MYRON E. ULLMAN", 
+      "arg2Id": "Q16886254", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "R.H. Macy", 
+      "arg1Id": "Q629269", 
+      "arg2": "MYRON E. ULLMAN", 
+      "arg2Id": "Q16886254", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "Federal Reserve Bank of Dallas", 
+      "arg2Id": "Q3268621", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CRAIG E. WEATHERUP", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "CRAIG E. WEATHERUP", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "CRAIG E. WEATHERUP", 
+      "arg2": "PepsiCo, Inc.", 
+      "arg2Id": "Q334800", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CRAIG E. WEATHERUP", 
+      "arg2": "Pepsi Bottling Group, Inc.", 
+      "arg2Id": "Q1484906", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pepsi Bottling Group, Inc.", 
+      "arg1Id": "Q1484906", 
+      "arg2": "CRAIG E. WEATHERUP", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Johnson", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James G. Shennan", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "Subcommittee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Towers\nWatson", 
+      "arg2Id": "Q3535949", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Compensation Committees", 
+      "arg2": "Messrs. Johnson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Messrs. Johnson", 
+      "arg2": "Compensation Committees", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Frederic W. Cook", 
+      "arg1Id": "Q5497151", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "MYRON E. ULLMAN", 
+      "arg1Id": "Q16886254", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James G. Shennan", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Johnson", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Olden Lee", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "F.W. Cooks", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Frederic W. Cook", 
+      "arg1Id": "Q5497151", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Clara Shih", 
+      "arg1Id": "Q16222044", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert M. Gates", 
+      "arg1Id": "Q212979", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Culver", 
+      "arg1Id": "Q433448", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jeff Hansberry", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Culver", 
+      "arg1Id": "Q433448", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jeff Hansberry", 
+      "arg2": "RSU", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Audit Committee", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Non-Employee Directors", 
+      "arg2": "Deferred Compensation", 
+      "arg2Id": "Q878055", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Non-Employee Directors", 
+      "arg2": "Deferred Compensation", 
+      "arg2Id": "Q878055", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Fidelity Management & Research Company", 
+      "arg1Id": "Q1411292", 
+      "arg2": "Fidelity Management & Research Company", 
+      "arg2Id": "Q1411292", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Michelle Gass", 
+      "arg2": "Starbucks Corporation", 
+      "arg2Id": "Q37158", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starbucks Corporation", 
+      "arg1Id": "Q37158", 
+      "arg2": "Michelle Gass", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "1192", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:17:24 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "f48de654baeab94211c605dbaa72b7d9", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

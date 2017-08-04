@@ -1,0 +1,126 @@
+{
+  "relationships": [
+    {
+      "arg1": "Abelardo E. Bru", 
+      "arg2": "Frito-Lay", 
+      "arg2Id": "Q1221751", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Sabritas", 
+      "arg1Id": "Q7396446", 
+      "arg2": "PepsiCo", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Abelardo E. Bru", 
+      "arg2": "Kimberly-Clark", 
+      "arg2Id": "Q1741634", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kimberly-Clark", 
+      "arg1Id": "Q1741634", 
+      "arg2": "Abelardo E. Bru", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Marsha J. Evans", 
+      "arg1Id": "Q2225296", 
+      "arg2": "U.S. Navy", 
+      "arg2Id": "Q11220", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "OFFICE DEPOT", 
+      "arg2": "David I. Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David I. Fuente", 
+      "arg2": "OFFICE DEPOT", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brenda J. Gaines", 
+      "arg2": "Citigroup", 
+      "arg2Id": "Q219508", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Myra M. Hart", 
+      "arg2": "Staples, Inc.", 
+      "arg2Id": "Q785943", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Staples, Inc.", 
+      "arg1Id": "Q785943", 
+      "arg2": "Myra M. Hart", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "INC.", 
+      "arg2": "OFFICE DEPOT", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "May Company", 
+      "arg1Id": "Q7750720", 
+      "arg2": "Mervyns", 
+      "arg2Id": "Q6820949", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "INC.", 
+      "arg2": "Mills", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mills", 
+      "arg2": "INC.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Office Depot", 
+      "arg2": "David Fuente", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "David Fuente", 
+      "arg2": "Office Depot", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "510", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:57:13 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "94d86747c0ae1cc9fbba9b59bf20d831", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

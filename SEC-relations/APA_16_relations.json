@@ -1,0 +1,218 @@
+{
+  "relationships": [
+    {
+      "arg1": "European Energy Group", 
+      "arg2": "London", 
+      "arg2Id": "Q84", 
+      "predicate": "Organization Headquarters", 
+      "predicateId": "ORG-HEADQUARTERS"
+    }, 
+    {
+      "arg1": "Targa Resources Corp.", 
+      "arg2": "Joung", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Joung", 
+      "arg2": "Targa Resources Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "RANDOLPH M. FERLIC", 
+      "arg2": "Democrat", 
+      "arg2Id": "Q29552", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "RANDOLPH M. FERLIC", 
+      "arg2": "Republican", 
+      "arg2Id": "Q29468", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Radcliffe Institute", 
+      "arg1Id": "Q7280030", 
+      "arg2": "PATRICIA ALBJERG GRAHAM", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "confidence": 0.825992226600647, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg2": "Radcliffe Institute", 
+      "arg2Id": "Q7280030", 
+      "confidence": 0.7562205791473389, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "PATRICIA ALBJERG GRAHAM", 
+      "arg2": "Northwestern Mutual", 
+      "arg2Id": "Q1630166", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "European Energy Group", 
+      "arg2": "London", 
+      "arg2Id": "Q84", 
+      "predicate": "Organization Headquarters", 
+      "predicateId": "ORG-HEADQUARTERS"
+    }, 
+    {
+      "arg1": "Amoco Corporation", 
+      "arg1Id": "Q465952", 
+      "arg2": "Charles J. Pitman", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Charles J. Pitman", 
+      "arg2": "Amoco Corporation", 
+      "arg2Id": "Q465952", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Charles J. Pitman", 
+      "arg2": "United States Department of State", 
+      "arg2Id": "Q789915", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Steven Farris", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN R. BEDINGFIELD", 
+      "arg2": "Exxon Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "MARGERY M. HARRIS", 
+      "arg2": "Santa Fe Snyder", 
+      "arg2Id": "Q2841", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "REBECCA A. HOYT", 
+      "arg2": "Arthur Andersen LLP", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Arthur Andersen LLP", 
+      "arg2": "REBECCA A. HOYT", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Parker Drilling", 
+      "arg2": "ROGER B. PLANK", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "ROGER B. PLANK", 
+      "arg2": "Parker Drilling", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Steven Farris", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Steven Farris", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "North America", 
+      "arg2Id": "Q49", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Steven Farris", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Steven Farris", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "Canada", 
+      "confidence": 0.5337998867034912, 
+      "predicate": "Citizen Of", 
+      "predicateId": "CIT-OF(e1,e2)"
+    }, 
+    {
+      "arg1": "John A. Crum", 
+      "arg2": "United States", 
+      "arg2Id": "Q30", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "John A. Kocur", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "447", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:30:26 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "7a86c471a888d16d4ea8b93c984a9759", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

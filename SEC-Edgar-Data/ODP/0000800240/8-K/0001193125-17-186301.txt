@@ -1,0 +1,471 @@
+<SEC-DOCUMENT>0001193125-17-186301.txt : 20170530
+<SEC-HEADER>0001193125-17-186301.hdr.sgml : 20170529
+<ACCEPTANCE-DATETIME>20170530072257
+ACCESSION NUMBER:		0001193125-17-186301
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170530
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170530
+DATE AS OF CHANGE:		20170530
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OFFICE DEPOT INC
+		CENTRAL INDEX KEY:			0000800240
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS SHOPPING GOODS STORES [5940]
+		IRS NUMBER:				592663954
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10948
+		FILM NUMBER:		17875608
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6600 NORTH MILITARY TRAIL
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33496
+		BUSINESS PHONE:		561-438-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		6600 NORTH MILITARY TRAIL
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33496
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d405133d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>FORM 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO SECTION 13 OR 15(d) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (date of earliest event reported): May&nbsp;30, 2017 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>OFFICE DEPOT, INC. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">1-10948</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">59-2663954</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of&nbsp;incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>6600 North Military Trail, Boca Raton, Florida</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>33496</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(561) <FONT STYLE="white-space:nowrap">438-4800</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Former name or former address, if changed since last report: N/A </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is an emerging growth company as
+defined in Rule 405 of the Securities Act of 1933 (&#167;&nbsp;230.405 of this chapter) or Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Securities Exchange Act of 1934 <FONT STYLE="white-space:nowrap">(&#167;&nbsp;240.12b-2</FONT> of
+this chapter). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Emerging growth company&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>ITEM&nbsp;5.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>DEPARTURE OF DIRECTORS OR CERTAIN OFFICERS; ELECTION OF DIRECTORS; APPOINTMENT OF CERTAIN OFFICERS; COMPENSATORY ARRANGEMENTS OF CERTAIN OFFICERS. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On May&nbsp;30, 2017, Office Depot, Inc. (the &#147;Company&#148;) announced the appointments of Stephen R. Calkins, 46, and Troy Rice, 54, to serve as the
+Company&#146;s President, Business Solutions Division and the Company&#146;s President, Retail Division, respectively, effective immediately. The appointments are aligned to the Company&#146;s reporting segments, North American Business Solutions
+Division (&#147;BSD&#148;) and North American Retail Division (&#147;Retail Division&#148;). The decisions are made in connection with the Company&#146;s focus on its strategic initiatives to grow its North American business. Mr.&nbsp;Calkins
+currently serves as the Company&#146;s Executive Vice President, Chief Legal Officer and Corporate Secretary. Mr.&nbsp;Calkins will continue to hold these positions while taking on the new role of President, Business Solutions Division, pending a
+successor being named. Mr.&nbsp;Rice currently serves as the Company&#146;s Executive Vice President and Chief Operating Officer, North America, a position that will be replaced with his new role as President, Retail Division. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Calkins has been serving as the Company&#146;s Executive Vice President, Chief Legal Officer and Corporate Secretary since August 2016. Between 2011
+and 2016, Mr.&nbsp;Calkins held various leadership roles in operations, including as Executive Vice President, Contract Sales from December 2013 to August 2016, during which time he was responsible for the Company&#146;s contract sales business,
+Canadian operations, print and services and customer service. Prior to this role, Mr.&nbsp;Calkins served as Senior Vice President, North American Business Solutions from April 2011 to December 2013, Vice President, Deputy General Counsel from March
+2010 to April 2011, and Vice President, Associate General Counsel from February 2007 to March 2010. Between 2003 and 2007, Mr.&nbsp;Calkins held various leadership positions in the Company&#146;s legal department. Before Office Depot,
+Mr.&nbsp;Calkins was an attorney with Kilpatrick Townsend&nbsp;&amp; Stockton LLP. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Mr.&nbsp;Rice has been serving as the Company&#146;s Executive Vice
+President and Chief Operating Officer, North America since August 2016. Mr.&nbsp;Rice joined Office Depot in April 2014 as Executive Vice President of Retail. Before joining Office Depot, Mr.&nbsp;Rice served as Executive Vice President of Stores
+and Services for Toys &#147;R&#148; Us where he worked from 2006 to 2014. Prior to Toys &#147;R&#148; Us, Mr.&nbsp;Rice worked for The Home Depot from 1990 to 2006 where he held a number of leadership roles, leaving as Division President, Northern
+Division. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">A copy of the press release announcing the business unit Presidents and other executive appointments is attached hereto as Exhibit 99.1 and is
+incorporated herein by reference. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>ITEM&nbsp;9.01.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>FINANCIAL STATEMENTS AND EXHIBITS </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="89%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;99.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Press Release dated May&nbsp;30, 2017.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">OFFICE DEPOT, INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date:&nbsp;May&nbsp;30,&nbsp;2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="right">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Stephen R. Calkins</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Stephen R. Calkins</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman">Executive Vice President, Chief Legal Officer &amp; Corporate Secretary</P></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press Release dated May&nbsp;30, 2017.</TD></TR>
+</TABLE> <P STYLE="font-size:12pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d405133dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Exhibit 99.1 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g405133g0527072452727.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>CONTACTS:</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">AnneMarie Mathews</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Richard Leland</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Media Relations</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Investor Relations</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">561-438-6710</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">561-438-3796</FONT></FONT></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">annemarie.mathews@officedepot.com</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">richard.leland@officedepot.com</TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OFFICE DEPOT ANNOUNCES BUSINESS UNIT PRESIDENTS </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AND EXECUTIVE APPOINTMENTS </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Boca Raton,
+Fla., May</B><B></B><B>&nbsp;30, 2017 &#150;</B>&nbsp;Office Depot, Inc.&nbsp;(NASDAQ:ODP), a leading provider of <U>office products, services, and solutions</U>, today announced the appointment of several senior executives to align with the
+Company&#146;s focus to grow its North American business. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Steve Calkins has been named President, Business Solutions Division, focused on serving Office
+Depot&#146;s B2B customers. With Office Depot since 2003, Calkins has been the Company&#146;s Executive Vice President and Chief Legal Officer since August 2016. Prior to that, he held various executive leadership roles in operations for over five
+years, including having responsibility for the Company&#146;s contract sales business and Canadian operations. Having already been successful in these roles, he brings a wealth of knowledge and relationships that will support the continued momentum
+currently underway and drive expansion in adjacencies and services among B2B customers. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Troy Rice has been named President, Retail Division, focusing on
+our B2C customers. With a background of nearly 30 years in the retail industry, Rice, will maintain responsibility for setting the strategic direction of the Company&#146;s retail offerings while transforming the customer experience. In addition, he
+will oversee the Copy and Print business. Rice was previously Executive Vice President and Chief Operating Officer, and has been with Office Depot since April 2014. Prior to joining Office Depot, Rice held various executive leadership roles with
+Toys &#147;R&#148; Us and The Home Depot. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;With our Company&#146;s revenue evenly split between the retail and delivery businesses, it is imperative
+that we have strong leadership to meet our customer needs in both of these key business segments,&#148; said Gerry Smith, Chief Executive Officer for Office Depot, Inc. &#147;Both Steve and Troy have significant experience leading these businesses
+which will allow us to better leverage our integrated multi-channel business model and continue to execute against our strategic initiatives.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Additionally, Michael Allison, formerly Executive Vice President and Chief People Officer, recently has assumed the new role of Executive Vice President,
+Chief Administrative Officer. With Office Depot since 2006, Allison is utilizing his significant company and industry experience as he continues to oversee Human Resources, Communications, Loss Prevention and Events, and has added responsibilities
+for IT, Real Estate and Construction. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Kevin Moffitt, currently Senior Vice President, eCommerce, will assume the expanded role of Chief Digital Officer,
+leading eCommerce and all digital-related activities for the </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+Company. Moffitt, who has been with the company since 2012, will build on his more than 20 years of experience creating integrated, customer-centric digital experiences. Reporting to Steve
+Calkins, he will be responsible for transforming&nbsp;Office Depot&#146;s digital platforms, driving digital strategy and innovation and accelerating the company&#146;s online and mobile growth. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">In addition, John Gannfors has recently joined Office Depot as Executive Vice President, Transformation and Strategic Sourcing. Gannfors is leading the
+company&#146;s Transformation Office, process improvement and strategic sourcing areas where he will be responsible for procurement, driving business process improvements across the organization and executing on various efficiency and cost savings
+opportunities. He most recently spent nearly 10 years as Vice President, Global Supply Chain and Chief Procurement Officer, Data Center Group, at Lenovo. Prior to joining Lenovo, he spent approximately 12 years in various leadership roles at Dell.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Rounding out the company&#146;s executive team are Stephen Hare, Executive Vice President and Chief Financial Officer, and Timothy Beauchamp, Executive
+Vice President, Supply Chain. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">&#147;I am confident that with these leaders in place, we have the optimal structure and expertise to support and expand
+our customer base and focus on growing our North American business to position Office Depot for long-term future success,&#148; added Smith. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About
+Office Depot, Inc. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Office Depot, Inc. is a leading provider of products, services, and solutions&nbsp;for every workplace &#150; whether your
+workplace is an office, home, school or car.</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The company had 2016 annual sales of approximately $11&nbsp;billion, employed approximately 38,000
+associates, and served consumers and businesses in North America and abroad with approximately 1,400 retail stores, award-winning <FONT STYLE="white-space:nowrap">e-commerce</FONT> sites and a dedicated <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">business-to-business</FONT></FONT> sales organization &#150; with a global network of wholly owned operations, franchisees, licensees and alliance partners. The company operates under several banner brands including Office
+Depot, OfficeMax and Grand&nbsp;&amp; Toy. The company&#146;s portfolio of exclusive product brands include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and Highmark. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Office Depot, Inc.&#146;s common stock is listed on the NASDAQ Global Select Market under the symbol &#147;ODP.&#148; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Office Depot is a trademark of The Office Club, Inc. OfficeMax is a trademark of OMX, Inc. <SUP STYLE="font-size:85%; vertical-align:top">&copy;</SUP>2017
+Office Depot, Inc. All rights reserved. Any other product or company names mentioned herein are the trademarks of their respective owners. </I></P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g405133g0527072452727.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g405133g0527072452727.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  < :,# 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+-Z0(/O&@1K4444 ?_V0$!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

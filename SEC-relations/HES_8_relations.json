@@ -1,0 +1,172 @@
+{
+  "relationships": [
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Federal Reserve Bank of New York", 
+      "arg2Id": "Q115860", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "KKR Management LLC", 
+      "arg1Id": "Q1570773", 
+      "arg2": "KKR & Co. L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Marc S. Lipschultz", 
+      "arg2": "Owl Rock", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Deloitte", 
+      "arg2": "James H. Quigley", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "E&P", 
+      "arg2": "William G. Schrader", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "E&P", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hess Corporation", 
+      "arg1Id": "Q1615684", 
+      "arg2": "William G. Schrader", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William G. Schrader", 
+      "arg2": "Hess Corporation", 
+      "arg2Id": "Q1615684", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Head, Emerging Markets and International Affairs", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Terrence J. Checki", 
+      "arg2": "Federal Reserve Bank of New York", 
+      "arg2Id": "Q115860", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Quigley", 
+      "arg2": "Deloitte Touche Tohmatsu Limited", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Pioneer Natural Resources Co.", 
+      "arg1Id": "Q4046987", 
+      "arg2": "Head of International Operations", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "David McManus", 
+      "arg2": "Pioneer Natural Resources Co.", 
+      "arg2Id": "Q4046987", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marc S. Lipschultz", 
+      "arg2": "Global Head of Energy", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marc S. Lipschultz", 
+      "arg2": "KKR & Co. LP", 
+      "arg2Id": "Q1570773", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Kean", 
+      "arg2": "Hess Foundation, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Michael R. Turner", 
+      "arg1Id": "Q505722", 
+      "arg2": "Global Production", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Global Production", 
+      "arg2": "Michael R. Turner", 
+      "arg2Id": "Q505722", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Goodell", 
+      "arg2": "MLP", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Hill", 
+      "arg2": "Royal Dutch Shell", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Timothy B. Goodell", 
+      "arg2": "Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corporation", 
+      "arg2": "Corporation", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "341", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:13:17 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "0b1a8c402e7985c732a024339dafbea4", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

@@ -1,0 +1,611 @@
+<SEC-DOCUMENT>0001193125-17-041986.txt : 20170214
+<SEC-HEADER>0001193125-17-041986.hdr.sgml : 20170214
+<ACCEPTANCE-DATETIME>20170214080603
+ACCESSION NUMBER:		0001193125-17-041986
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20170214
+ITEM INFORMATION:		Regulation FD Disclosure
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170214
+DATE AS OF CHANGE:		20170214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OFFICE DEPOT INC
+		CENTRAL INDEX KEY:			0000800240
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-MISCELLANEOUS SHOPPING GOODS STORES [5940]
+		IRS NUMBER:				592663954
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1226
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10948
+		FILM NUMBER:		17602555
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6600 NORTH MILITARY TRAIL
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33496
+		BUSINESS PHONE:		561-438-4800
+
+	MAIL ADDRESS:	
+		STREET 1:		6600 NORTH MILITARY TRAIL
+		CITY:			BOCA RATON
+		STATE:			FL
+		ZIP:			33496
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d348496d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM 8-K
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT
+TO SECTION 13 OR 15(d) </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of Earliest Event Reported): February&nbsp;14, 2017 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission file number 1-10948 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>OFFICE DEPOT,
+INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>59-2663954</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>6600 North Military Trail, Boca Raton, FL</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>33496</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(561) 438-4800 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Former name or former address, if changed since last report: N/A </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ITEM&nbsp;7.01. Regulation FD Disclosure. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On February&nbsp;14, 2017, Office Depot, Inc. (the &#147;Company&#148;) announced that its Board of Directors has declared a quarterly cash dividend on the
+Company&#146;s common stock of $0.025 per share, payable on March&nbsp;15, 2017, to shareholders of record at the close of business on March&nbsp;3, 2017. The Company&#146;s February&nbsp;14, 2017 press release announcing the declaration of the
+dividend, a copy of which is attached hereto as Exhibit 99.1, is incorporated herein by reference. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ITEM&nbsp;9.01. Financial Statements and Exhibits.
+</B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press release of Office Depot, Inc., dated February&nbsp;14, 2017.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">OFFICE DEPOT, INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: February 14, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Stephen R. Calkins</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Stephen R. Calkins</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Executive Vice President, Chief Legal Officer</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&amp; Corporate Secretary</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="88%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>Exhibit&nbsp;99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Press release of Office Depot, Inc., dated February&nbsp;14, 2017.</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>2
+<FILENAME>d348496dex991.htm
+<DESCRIPTION>EX-99.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-99.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 99.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g348496g27n49.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><B>CONTACTS:</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Richard Leland</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Karen Denning</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Investor Relations</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Media Relations</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">561-438-3796</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">630-438-7445</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"><U>Richard.Leland@officedepot.com</U></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><U>Karen.Denning@officedepot.com</U></TD></TR>
+</TABLE> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OFFICE DEPOT DECLARES QUARTERLY CASH DIVIDEND </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OF $0.025 PER SHARE </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Boca Raton, Fla.
+February&nbsp;14, 2017</B> &#150; Office Depot, Inc. (NASDAQ: ODP) announced that its Board of Directors declared a dividend of $0.025 per share ($0.10 per share on an annualized basis) on the common stock of the Company. The dividend is payable on
+March&nbsp;15, 2017, to shareholders of record at the close of business on March&nbsp;3, 2017. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>About Office Depot, Inc. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Office Depot, Inc. is a leading global provider of products, services, and solutions&nbsp;for every workplace &#150; whether your workplace is an office, home,
+school or car.</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">As of our most recent filed annual report for fiscal year ended 2015, the Company had annual sales of approximately $14 billion, employed
+approximately 49,000 associates, and served consumers and businesses in 59 countries with approximately 1,800 retail stores, award-winning e-commerce sites and a dedicated business-to-business sales organization &#150; all delivered through a global
+network of wholly owned operations, franchisees, licensees and alliance partners. The Company operates under several banner brands including Office Depot, OfficeMax and Grand&nbsp;&amp; Toy. The company&#146;s portfolio of exclusive product brands
+include TUL, Foray, Brenton Studio, Ativa, WorkPro, Realspace and HighMark. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Office Depot, Inc.&#146;s common stock is listed on the NASDAQ Global Select
+Market under the symbol &#147;ODP&#148;. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>All trademarks, service marks and trade names of Office Depot, Inc. and OfficeMax Incorporated used herein
+are trademarks or registered trademarks of Office Depot, Inc. and OfficeMax Incorporated, respectively. Any other product or company names mentioned herein are the trademarks of their respective owners. </I></P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>FORWARD LOOKING STATEMENTS </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">This communication may
+contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements or disclosures may discuss goals, intentions and expectations as to future trends, plans, events, results of operations
+or financial condition, or state other information relating to, among other things, Office Depot, based on current beliefs and assumptions made by, and information currently available to, management. Forward-looking statements generally will be
+accompanied by words such as &#147;anticipate,&#148; &#147;believe,&#148; &#147;plan,&#148; &#147;could,&#148; &#147;estimate,&#148; &#147;expect,&#148; &#147;forecast,&#148; &#147;guidance,&#148; &#147;intend,&#148; &#147;may,&#148;
+&#147;possible,&#148; </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+&#147;potential,&#148; &#147;predict,&#148; &#147;project,&#148; &#147;propose&#148; or other similar words, phrases or expressions, or other variations of such words. These forward-looking
+statements are subject to various risks and uncertainties, many of which are outside of Office Depot&#146;s control. There can be no assurances that Office Depot will realize these expectations or that these beliefs will prove correct, and therefore
+investors and stockholders should not place undue reliance on such statements. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Factors that could cause actual results to differ materially from those in
+the forward-looking statements include, among other things, risks related to the termination of the Staples acquisition, disruption in key business activities or any impact on Office Depot&#146;s relationships with third parties as a result of the
+announcement of the termination of the Staples Merger Agreement; unanticipated changes in the markets for Office Depot&#146;s business segments; the inability to realize expected benefits from the disposition of the European operations; fluctuations
+in currency exchange rates, unanticipated downturns in business relationships with customers; competitive pressures on Office Depot&#146;s sales and pricing; increases in the cost of material, energy and other production costs, or unexpected costs
+that cannot be recouped in product pricing; the introduction of competing technology products and services; unexpected technical or marketing difficulties; unexpected claims, charges, litigation, dispute resolutions or settlement expenses; new laws
+and governmental regulations. The foregoing list of factors is not exhaustive. Investors and stockholders should carefully consider the foregoing factors and the other risks and uncertainties described in Office Depot&#146;s Annual Reports on Form
+10-K, as amended, and Quarterly Reports on Form 10-Q filed with the Securities and Exchange Commission. Office Depot does not assume any obligation to update or revise any forward-looking statements. </P>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g348496g27n49.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g348496g27n49.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  (" @(" @(" @(" @(" @(" @(" @(" @(" @(" @("
+M @(" @,# @(# @(" P0# P,#! 0$ @,$! 0$! ,$! ,! @(" @(" @(" @,"
+M @(# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,# P,#
+M P,# P,# __$ #<   $$ P$!              <$!08(  (# 0D! 0 " P$!
+M 0             ! P($!0<&"/_" !$( !P!? ,!$0 "$0$#$0'_V@ , P$
+M A #$    ;M5]2N_/]4DUO'.N[YM63G>OES:^&%NO]C(<^8<=WSMPFCP],,,
+M,,,,,,,,,,,(P4;92T/**S)EI'T6*"ZA2)B"E*F5DD 9,M1<E'8Z&'AZ4=XO
+MZ-LGT?'@3I>F<V$3J[\ONX#KEHQ>OL&[<\]$VI]Q+;N'"Z>]8O>\M"^K]ZDB
+MV66<<5ZWV92VOB8C3]"GC.6V\6.U]1;EKQNKK=,J[?\ 4\/J=.#X5V2A#*BM
+M#(_(0@^),"4L(@5IT(N7+17!.H0$ E-ZT'=%;>=ZP/*/J6"OJ&K=\Y%.K]Q,
+M[OGW3+2#>GZ ^6<J:7<&+5=ILQV;,]+R$$Z/I>\U.^6F#-'TDU[WG$8I[\CL
+MXFTR_P"?,B57;?<M"27<,Z;OG(AG"G:6$G8445A96%8@Y,M-1@)X@&LGY$N%
+M8)$K [H A]'6)6,&^+U2OG&7*,]IC#2,E&52"+W.=5JC;=LM1#C?M,*E23&_
+M><=8GOE7WFN/U]-^LYJ;&WU"C*O=$?'$PU.1W,&DD!'QY$@N.)X-9W%9L=A4
+M /_$ "80  (# 0 " 0,$ P        0% @,& 0 '%!(3%A 1%4 @)C;_V@ (
+M 0$  04"9M0E%%_L>[ZU?L ,JT@FH8:&U?LB"WUJI"!J=4SGH]B6E8BW=(&_
+MHN&PB-=+V'M79.=]G'\8[;42RZNG<[<&;K<:$S24:G;/TF$YH8HYW4U=\G?3
+M5W4,6:M-WVGK!Y>OM69IA6?M-[2URVYUKQQ9=33R,HSY_ANB;+G^56"!)]^M
+M%#+A9HC<QF*GUMNRIT$.8^C22I<MM4I+T6GFE!^5N[@W6L/6 $,=4N'S;GKQ
+M;JF&D2%_*V]2Q3H&6D!!?:@\Y'=IIN=*UTJ0\EQKU [3<2K55";PD-3K6C ,
+MUEM%P5)^W)!J^K[7M^V<4_J<>JO,^UQZZ=-M$TJ@,CA*B<Z)G.7Z[>96]6J0
+M:$E'Z[3XUEJE6?=Z7-YD*M$TJ]3OC;"KZ8$^R\PSEDFP:[_3_5'_ "WXU.3S
+MUR?<)KO864;#V7D2;4I,9-:J\VF9*.N4;0Q,*62XV+%J0OS.?Q;D-29O'(9$
+M<2^ J"U3<1RRT-L78ZK?C!K]A1>9.B_#_9R45O\ %;YF$83S7#5YS*A]SPX,
+MEDF.88(A7NY8AGLD>=#T%&W0R'\&]@@UK<.L+):^P6(=L<,T"XI'(@37OD%V
+M@0Y'<W9"J_K7V+I?9+L*WN0W2\;+B:44?8^Q->"6G4DQ;YO(^P.9=8#3KMFE
+MS;[,JPLWK)+J?R&'Y5M^<(9Z$WB7*XS7D K$1.?H*0MZ4&DW7L*!PI7!DGF2
+MU-&J!_2T46[L*ZZHSIIL\^*+SR0X\^Q''AWX@OD*JJ^= ![WZ8_3_'+_ -^<
+MY'DQ!+/*Q1J?)0A/GQ!?(CCP[T4;O855U_IU0JE/G.1Y(>B?8T4U^1C&'/"U
+M*H^0XHPE?11I61#$A'H /83%&LE 4:NPE,H,MA"%<24R@VSX]'*?@ _;^U5^
+MU@HUTXB"PMM3*+B"5BTR<@Q)]^(+Y5331'S_Q  [$  " 0,"! 0"!@D$ P
+M   ! @,$!1$ $@83(3$'(D%1,F$4%2-QD;$0%C-"4G*!H=$@0%23))*B_]H
+M" $#  $_ ;39KC>ZI:2W4YFD/Q'LD8_B=^RCH?F<= 3JE\)HUC!N-ZV2'N(8
+MQM!]@\C>;_U&KUX87*AA>HME2MS2,;FCV\N;'NHR5D^X$'V!U34TU5504D2_
+M;3R+$H/3SLVT ^W4]=2^'O#=GI(I;_?9())/+E=J)OQDJB[9';'O_7IJ@X;C
+MO?$D]HM%5OH(V=EJ6Z_^.F/M,#;N8Y  \O4^FKKP9P;9HY(:R^S)<!"TD<;&
+M-2YVG9T$;;0[# W,/OUPGP)1<06M[A474P/O=!'&$/+V^LVXYP>XQCR^NJJ
+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
+M)+$LQRQ[D]])4U$:A8YY$4=@KL!^ .GGGEP))GD"]MSLV/NR>FB23DG)/^W
+M_\0 -1   @$"! 0$ 0P# 0       0(# !$$$B$Q$T%Q@2)189%2$!0C,D"A
+ML<'1X?#Q!3-"4/_:  @! @ !/P&25(EN[91_-J;_ "!OX(O?]JBQZ-8.,A//
+ME1(4%N0%Z&,FD8B&*X'?]+4TW"A$DBV8V\/KY5'B<3+8K$,A-KZZ??6(Q30N
+M$$=^=]=>E*;J#:U__(QSDSE>26_ &_WV[5AHECB6PU87)]36.C52C*+9[W[4
+M&Q#X8%6&100U]S;R[:5A1/XN 0+6O?\ JL8)[$LPX.891SVZ=:P@Q&5;,HBU
+MTYW_ +J6?%0OD9P>@'YC2L3B."BVU=MO3UK-C2@EN;>0M?VM4V*>)(U ^E90
+M3?EV\Z9\5$HDXRF__.A_*L/+QHPUK$:'K6)DQ$)N)!E<FPL- .U9L8L0F#JR
+MVO:VMO:HIWQ"%5(CE7TN+5'B,3))PQ( ==2!;3M41Q/%RO(CHN^6U_UK$38B
+M%K<0$-J/#L*:;%1*DA965^5N]2XS+%&47QR"^O*VGX[4$QI7B<2QWR_M:U18
+MJ2172WTJK=;<SY6\Z>;&1HKNULQM:PO^%"3&F-'4YPQV"B^G:AL/L^,PS2'B
+M1ZD"Q%18QH5$;)?+M_R>E,9<9(++:VWD.IJ5H\/!P#N5-M*P4J1,RM<9\H'6
+ML=,A'!'UE()]JP>(C""+4,+G\ZQ,J2RYD^J!:L0>.J2Q@E4\+>G.HL>JQJKJ
+M;KII;E6+5F*3J/"ZCL?6WI0; V%XV!_GK6&X7"O$N53??VK'2(Q5%-V0FX]J
+M^=J(!$@)?+EZ?K6&3YNK33>"^@J/A\4\7_6;[7[;5AG@68I$&\?,G337;>L:
+MZNZY3?("#[U!ATG4$S,X0#P_#Z?U6-@(RNB^%1ETY6VH8^,(+JV<#;E?K6"C
+M=I#,191?N3Y5CW4Y8P?$AU':L$ZF$(#XDN3[T-?M! .XO6VVE%5.Z@V\Q61/
+M@&GH**(=U!["LB#90.PKAQ_ OL* "["W2LJ_"/;Y,J_"/;Y,J_"/:@ -@!1
+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
+M<<4<>79Z:,F[/+,>ESXECZ=!H>S\AE>IJJ"<(\<?<>66XDD=BPP7D/WFUM5
+MJ^7\\6""(Q)G9^4_'UZ#O#UT-ICY>U4=6LDQ*6BMP-T5[]X^]7RTNTOS=J3M
+ME5TCO$8D!F:SAOBP!Z6T*NCY.(4T</ODP8LC2$D+<]WO#5)NNWQU$D%%3Q[=
+M6Y16,$J#D1[*3>)@Y[WW"_CJFI*JCF:6EB2#.!XL'6-<4:SD%6Q N.NJ+?XH
+M7['N%#3DD>\[/( ?=RLO0=TCKT%P=(:BAW6.HQ'(D<V:9^>#\H[M_4#7+M<$
+M]/3SU$KF.HDY9,UM%<GR!5%-OOU2T]/+E-0-5PU2E'7C<F&PNP ?X&\+^&H=
+MGI()Y:TT?8Y&*#BCS!5RMB6E.)-A8:JM]WG.B@ECCIH4>-S+C(X/(\2C)06"
+M@7'J=9;IR_1[/.TG!ER]<C%;'K\>-]&FVJFKR*Z].DU3/'QB-09LA%QAQU2W
+M5CJ$4LG(:2*2EG[CIA,D[Y+W@,OF.FHI9M\K*N.D6&.2D$;Q"F+)?LZ22LPQ
+M %LD7RU1UE#3GL5/2K1R)$"W9Q&S-&[#QP;,W;U'7QU&)::H-=%"L>"A.SR2
+M(N(?ER[B$B]L;C1WB2-DIH>=A(1BLU1.&7"*_P 2J'8DCPZ#5/MR2WJZ6HY9
+MH\'&*20'$YD8GXAX'347*>TTG:*J>/!^["TO1LK6;Q'0'0ECOC<BS"S!E-B"
+M/GJ2&D7.MHY5K*5/.4QJRRP GZSQ.UOUE757ME9MTM3$9S,(L^S5--466.57
+M25.JM@OH01]^C)3TIB67BA.-WAV^ABZ%YY[ %[%F\LF:RC5)[,TL$\;;!*L;
+M228"-T['$D8B"MET!'4@>&I8GI*PGV:VZG-48Q&RSB2HX%X3GW3DP)SQL+^F
+MF]IG@F-*U?5U?9U:/FPJ$E5%N3@6&8OUU!M"4U6LVZ4>V;M%)(J)&D,K<RQM
+MWKM+BMCB" ?/4WLC34M1+NW;IMZI&3 Q2"FIQR0$9!ED: 3!>A!8H//53M-7
+MMTM0T4TTU,498FCEDMG!5))8HO(+Y#J+D6UO\D\]364R&&LHHI1W):Z&8N\&
+MWW LHI6F6R]+F-?'4]%[0>S:UU9#+(T4YIX6F;+_ +:I$Y5H<&!L>O3RZ==[
+MW_\ HMMT.WPI#!!)MM+V1UDGJ$5:1ZPAN6()=W;'HR)]L6_I**8X?2OTCV7E
+M%\<\N+FQME;SMJEWR*G>G@]H=NI=T2)N\4F*\,\>0%G;*(-T\1*#YZVGV0:C
+M9*FIIZ3>ZFI9@HY*B:>4P<6-S(HXU)OTQM;4WLS0T,DNX5K;C)154<HO%/)1
+MWA]QA=B)(?&X\1Z:JYO:>BK]P[MXDBF,;&JR/(*PF6-R3TZY="#<==4V\5%%
+M/%31-4SI1QC&1:>K@GC@$7-CE&HD6S7ZA=3['MD-33B0Q]MJ9P(FDIFB240Q
+MH&+('S&1:W=!'4-KV:W/9ZNI[?+1C<)FEB:-4J8ZJ6/W-_CA]V\9'4%4R_M+
+M:EJH::6F>FD2"H23$H9C$LC<+J3DG>\['\MYJ:"4^LL,;G\64ZPC1(U'@J*%
+M7\%T#)%&Y'AFBM;Y7&OZM!T_P8_]NBS00LQ\6:)"3\R1JZP0J>HNL2 V/B.@
+MU_5J?_1C_P!NB(XT0'Q"(J@_, ==7-%2$WO<TT-[^M\/'6.*X^&-AC;TMJ_8
+M:._KV:&_XX:LH 'H!8:O)2T\A)N2\,;=?7O+XZO#3P1'_#BC3_Y76+HKK]EE
+M##\#K^K4_P#HQ_[=!D@A5AX,L2 CY$#1)IX"3U),4=R?O[NCQQI'?QP15O\
+M/$?DY6VS;S+>_(:*F+W]<^.]]!5  '0 "P ^X:R>"%F^TT:,?Q(T<(8DN+'&
+M-5N/0V'4:"JH51X!0 !\@/R!J[;-OK&'@U71T]0P^1FC:VA#2T\%-$/"*GBC
+MAC'R2-0-&9J> S$8F4Q1F0J/ %\;D:D1*6G1)OTRK#&JR_\ L 7O^/GH1&BI
+M#&OPQFGA*"WA9<+#2/)3P.\0M$SQ1LT8]$)7N#Y:,T=/ DI&)E2&-9"/0N%N
+M1T'X:YJO:MMJIA_:U-#33R_QR1$_STJ1HJ(HLJ(H55'HJCH!KFK-JVVKE_O:
+MFAIIY/XY8B==G$$0I\<>#C3AQ^SQVQQ^ZVN+L5)Q?W79X>/U^#"WCI5XH\8Q
+M9%P6R = %%NZ+ >'II))J>"62/\ 1O)$CNG[#,MU_=KG2FIUFM;E6&-9;>G(
+M%O;]^NU3;5MLM5>_:9:&F>HOZ\S1%K_OU%)5[?0U4D'Z%ZFD@G>&W]TTL9,?
+M[K:=GI:=C* LA:&,F10+ .2O> 'KJ/\ -J?W*X1>YC]TGV(^[W%^X:*0110J
+M6+%8HUC4L?%B$ [Q]?R _\0 )1 ! 0 # 0 " @(!!0       1$ (3%!46%Q
+M@1"1H4"QP?#Q_]H " $!  $_(=%9OB /?X@@H-XR178-N]F=:U_+A#PRVT%>
+M:U+U&\DF]*?:>D:^:8'96.0%&^3E8+B)W*Y=JH\=805<A67TPFJIUFJ8!TX(
+M'1S[I<TXWI6BFKOZ<\Y_HC#)1@X[285 M0B:/'Z!#\70U'QA30DY[)V ;V.
+M7Y4)I&08/5X,4]?NP+DK:40XU)P@13:!&_&R%\GOXEG:N^*CB$3W$"$/86\]
+MOF/E7Z5 "_HS_IC4P\-Z +V<N2MZ>A0@GM!W6 .I0UCP=6PDW@XT$HF\)&2G
+MSJV7=B7M[4" @WM9/!"[&(+?0@0<-)[!>? 2+I_K!(8(K)10B3^5"5"L*S;P
+M/O\ A_VPW!8\/3\?!BTKG$:J%F*R7*M&#;'#7P&0L/5L006ISK1'P7<7Q*Q%
+MEV2>8=Q"?5_Q)-^*'U@'6'M;EMM'(ZFFQ=)2N 7U!T< 3.K!0&@20HG4+7=!
+M*PS%FD6(R-R",?*Q:P3,"=(P0)UO5% $V^W[RQ_6_:,I9RTI67%.MT.J]  1
+M=W)/R(_Z6R]5@7S*,"!GB(_1&[T!;7XAK8T%%50S35VB-N6'H^F,M7 JNKI8
+M0MF&R0G%@PN#=+\A^&!HD=J%I1KB$;K#07+;ST0G&(U 7;<@JS %P[5$Q0:M
+M]JE=:+A^#[$-#J4X+84QM;$E$;V X[X?(&DL1]Z1'_ R"^K"@%FT0'GW9/,N
+MR@1TQUWKA$(6&E@+[AFU<8<U]3-"E9S7.PN)'J-#*FU<CH8.\"@S$LFH ]59
+M.A?(Z=$Z1<Y]?FJL<B*B ;.F@]>=9VX))BPD)$(D H'NW88OJ_\ S5D'R8S2
+ML&8Y.S$J)D,M'W9#HPPI?C&+E^ _;*\CI?P!?\?U@#JG_H0:47K%,08D,9VZ
+MC4$.;6545PGLZ('V8#$G^_KY42^ G>#)#;Q;PR5(?2TP1Y*T.><)J/0=9/,B
+MI(PH*E >@(P+&:YL>$D19-09?#T%[=@>&@Z9X];G$(E=W!]LY[[WH1U[S4=W
+MK)N:CU@P1M!71D'-Z!"A*)6/=82J\3C@D&="48#7DD.9+0] H[AL*ZP/O=8]
+MP/3;X0'#T>W6Q1OF"U@8V]2P(%GY9![<B*'?&QC]LYOGD1/1*BJ*ZB9FP.<L
+MQ7TE(2UZT2"EITE?@N&"ETBFFJ2R;<BQ.N@QUA]OVP5^U3KXX J=\P\I)"69
+M8#6]GWDDIS@>HHA4I"RY1@\*& /,PZJXK8=8'4C7FCOZSDP,\LML] [YD*:7
+M15?.P>*?#@D=)YQF2 ^A>X4^\AID46IL>FF]H LF@1C1:<D*.YA5,"*@_CN<
+M8O,>4X#NSV/#_E8&#*DPUTQSL+8]?B;:23ARW]/L"WTI@@.1 0I*T".DI,<,
+M+/Z/V.D$WW#-'GF!-B ,942X'"'3#UPWCAA##\.._EJ/AN=\F%@G!2IZ"V#0
+MS)_N7@SN)*]*HN"L^MB9H[,RYM5,;H:"L279W!QNC$S )%B(>BN$\RA1DP;N
+M1-D#8!Y<!ZT9*U)+HVAPR65!)PIO^11OH(CZ4.']80XR?36B _K'0]B?'8FA
+M<&""H1 1-B/".?A)H';%=&:1GH")06)I/X8? %^%FB--;Q8PT82:I4U[@<0G
+M27Z&3ZF?^C6OR]PX5<$'X#F.JH,]74I?MC=.VKM.;+Y<=JB+43BBE/X0;2*^
+M!VA36)A!0D-5.RN%@I4$HT("LQ!$01(B:1Z)\9\5.,7*?N7#@N!@. : ^,:H
+M4JS"%2L,:3-MKZS_  . 2V"-\  /X\ SSI-JT^,\,;BA"%Z YA6=QYE>+""S
+M6653MY$9Q8N7KD/3?8F>A7A[GV2457Y^A&<?/D/U[R"^/C D[(2)$AN(?I@M
+M/&'\!!? &%!'@M)PGP]\PVDB15['_$,_>GU+_N+G<7>@%0PT(  CCXS4! ?5
+MJ+;=[&?- W"1D:M3$-E"#+/23OYY'.F\A321!WXRACIO+RZT* UBJUE7:(1^
+M%AQ-9/"Q:.2&!8K/X/_:  P# 0 "$ ,0   0&?FK @       , D($%@%D
+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
+M8>7ZB1%Z@!K% ")C$&T VP$UG:C-QB59B@JP]/_$ "$0 0$  P " P$! 0$
+M      $1 "$Q06$04<%Q@2"1_]H " $#  $_$(!.>HUJTQ-]!J,E,FD_3%(Z
+M45\!BM1A<(K5@"L&;J&5">/>K'!"C4=:QUZ")^P1>U\ H#,"2'/N&AH1@0L#
+MA)U[C4LX=@EB[G!ZYWZE"H4.J>(V>!2!:^.F]/7N<]3/S/SXYZF<]9^?'/4S
+MGJ9SU,YZSGK.>IGY\AX-9(;9B0T\P5^IB'-8 %?&1#ZQ@ZX9^9SU,_,!9P,]
+MTS0P.MS$#O,_,YZ_YUDD@E6[,P$!T5N'$L!KH*%TLU%@!NJ&U2K2$%<A 2SV
+M<R@KK/3+D)D[TR:*] IT'P4"8GV.$^N.MX=J<:^O!F9",!7.&*W>26,@68 <
+M=U&I#>4>4-B$J(4!= 00<&A*S1KL0UQ8F*Q.D::;%UNB0 KH*4$")0G<(DT*
+M&3=8 IRT*2 $)+ 0?C;99%-UATF:2J@= "!4D@HIB6]U^E%;&<: 4'!4DZZ
+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
+D&-8KX]37;X]37::[37:>OCU/4UV^-=JGJ>IKM4UVKX]?'__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

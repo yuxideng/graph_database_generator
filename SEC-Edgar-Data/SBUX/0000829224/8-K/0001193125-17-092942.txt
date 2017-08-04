@@ -1,0 +1,309 @@
+<SEC-DOCUMENT>0001193125-17-092942.txt : 20170323
+<SEC-HEADER>0001193125-17-092942.hdr.sgml : 20170323
+<ACCEPTANCE-DATETIME>20170323090057
+ACCESSION NUMBER:		0001193125-17-092942
+CONFORMED SUBMISSION TYPE:	8-K/A
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20161201
+ITEM INFORMATION:		Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers
+FILED AS OF DATE:		20170323
+DATE AS OF CHANGE:		20170323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARBUCKS CORP
+		CENTRAL INDEX KEY:			0000829224
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING & DRINKING PLACES [5810]
+		IRS NUMBER:				911325671
+		STATE OF INCORPORATION:			WA
+		FISCAL YEAR END:			0927
+
+	FILING VALUES:
+		FORM TYPE:		8-K/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-20322
+		FILM NUMBER:		17708307
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 34067
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98124-1067
+		BUSINESS PHONE:		2064471575
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 UTAH AVENUE SOUTH
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98134
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K/A
+<SEQUENCE>1
+<FILENAME>d335493d8ka.htm
+<DESCRIPTION>8-K/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>8-K/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K/A</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section 13 or 15(d) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of the Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported): December&nbsp;1, 2016 </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Starbucks Corporation </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt" ALIGN="center">
+
+
+<IMG SRC="g335493g0323052653082.jpg" ALT="LOGO">
+ </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Washington</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">0-20322</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">91-1325671</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>2401 Utah Avenue South, </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Seattle, Washington 98134 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices) (Zip Code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(206) <FONT STYLE="white-space:nowrap">447-1575</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> is intended to simultaneously satisfy the filing obligation of the
+registrant under any of the following provisions: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="10%" VALIGN="top" ALIGN="left"><B>Item&nbsp;5.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers. </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On December&nbsp;1, 2016, Starbucks Corporation (&#147;Starbucks&#148;) filed a Current Report on Form
+<FONT STYLE="white-space:nowrap">8-K</FONT> (the &#147;Original <FONT STYLE="white-space:nowrap">8-K)</FONT> reporting that Kevin R. Johnson, currently president and chief operating officer, would become president and ceo, and that Howard Schultz,
+currently chairman and ceo, would become executive chairman, both such appointments to be effective April&nbsp;3, 2017. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March 21,
+2017, the Board of Directors of Starbucks approved, based on the recommendation of the Compensation and Management Development Committee of the Starbucks Board of Directors, compensation for Messrs. Johnson and Schultz in their new roles. This
+filing is being made to amend the Original 8-K to include the following information regarding these new compensation arrangements: (a) annualized base salary for Mr. Johnson was increased to $1,300,000; (b) annualized base salary for Mr. Schultz was
+reduced to $1; (c) Mr. Johnson&#146;s target under the Executive Management Bonus Plan was increased to 200% of his base salary; (d) Mr. Schultz&#146;s target under the Executive Management Bonus Plan remained at $3,750,000 (which is equivalent to
+his prior bonus target of 250% applied to his prior annualized base salary of $1,500,000); (e) Mr. Johnson will be granted a promotional equity award of $800,000; and (f) Mr. Schultz will be granted an equity award of $750,000. The equity awards
+will be granted on April 17, 2017 and will consist of approximately 40% stock options and 60% performance-based restricted stock units (&#147;<U>PRSUs</U>&#148;). The stock options will vest in four equal increments of 25% on each of the first four
+anniversaries of November 21, 2016, subject to continued employment. The extent to which the PRSUs will vest is based on fiscal 2018 earnings per share and return on invested capital goals. To the extent such targets are met, the PRSUs will vest 50%
+on November 21, 2018 and 50% on November 21, 2019. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="45%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="44%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"><B>STARBUCKS CORPORATION</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Dated: March&nbsp;23, 2017</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Lucy Lee Helm</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Name:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Lucy Lee Helm</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">Title:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">executive vice president, general counsel and secretary</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>2
+<FILENAME>g335493g0323052653082.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g335493g0323052653082.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1" !@ & # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+: 'D]O;PVEO';P1K'%&NU54< 5+113.T__]D!
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,36 @@
+{
+  "relationships": [
+    {
+      "arg1": "Hill", 
+      "arg2": "Royal Dutch Shell plc", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Caxton Health", 
+      "arg2": "Robert N. Wilson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robert N. Wilson", 
+      "arg2": "Caxton Health", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "426", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:09:38 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "28a933d783ee1bcbd0e605f459977d81", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

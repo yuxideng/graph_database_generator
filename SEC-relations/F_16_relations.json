@@ -1,0 +1,849 @@
+{
+  "relationships": [
+    {
+      "arg1": "Semler Brossy", 
+      "arg2": "Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Willis Towers Watson", 
+      "arg2": "Committee", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Willis Towers Watson", 
+      "arg2": "Committee", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Stephen G. Butler", 
+      "arg2": "Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Richard A. Gephardt", 
+      "arg1Id": "Q1209677", 
+      "arg2": "Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James P. Hackett", 
+      "arg2": "Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William Clay Ford, Jr.", 
+      "arg1Id": "Q321698", 
+      "arg2": "The Detroit Lions, Inc.", 
+      "arg2Id": "Q271880", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William Clay Ford, Jr.", 
+      "arg1Id": "Q321698", 
+      "arg2": "Lions", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Marketing Associates Division of Lason Systems, Inc.", 
+      "arg2": "Marketing Associates, LLC", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "Marketing Associates Division of Lason Systems, Inc.", 
+      "arg2": "Marketing Associates, LLC", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Henry Ford III", 
+      "arg2": "Edsel B. Ford II", 
+      "arg2Id": "Q552844", 
+      "predicate": "Person Parents", 
+      "predicateId": "PER-PARENTS"
+    }, 
+    {
+      "arg1": "Stephen G. Butler", 
+      "arg2": "KPMG", 
+      "arg2Id": "Q493751", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "KPMG", 
+      "arg1Id": "Q493751", 
+      "arg2": "Stephen G. Butler", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Stephen G. Butler", 
+      "arg2": "KPMG", 
+      "arg2Id": "Q493751", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kimberly A. Casiano", 
+      "arg2": "Board of Directors of Scotiabank of Puerto Rico", 
+      "arg2Id": "Q1183", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PG&E Corporation", 
+      "arg2": "Anthony F. Earley", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Anthony F. Earley", 
+      "arg2": "PG&E Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Anthony F. Earley", 
+      "arg2": "Long Island Lighting", 
+      "arg2Id": "Q6672702", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Long Island Lighting", 
+      "arg1Id": "Q6672702", 
+      "arg2": "Anthony F. Earley", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mark Fields", 
+      "arg1Id": "Q6767603", 
+      "arg2": "Ford Motor\nCompany", 
+      "arg2Id": "Q44294", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ford Motor\nCompany", 
+      "arg1Id": "Q44294", 
+      "arg2": "Mark Fields", 
+      "arg2Id": "Q6767603", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ford Motor\nCompany", 
+      "arg1Id": "Q44294", 
+      "arg2": "Mr. Ford", 
+      "arg2Id": "Q8768", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Ford Motor Credit Company LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Ford Motor\nCompany", 
+      "arg2Id": "Q44294", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ford Motor Credit Company LLC", 
+      "arg2": "Ford Motor\nCompany", 
+      "arg2Id": "Q44294", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Ford Motor Credit Company LLC", 
+      "arg2": "Mr. Ford", 
+      "arg2Id": "Q8768", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Finance Committee", 
+      "arg2": "Mr. Ford", 
+      "arg2Id": "Q8768", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Finance Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Detroit Lions, Inc.", 
+      "arg2": "Mr. Ford", 
+      "arg2Id": "Q8768", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Ford", 
+      "arg1Id": "Q8768", 
+      "arg2": "Detroit Lions, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Carlyle Group", 
+      "arg2Id": "Q926806", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Carlyle Group", 
+      "arg1Id": "Q926806", 
+      "arg2": "James H. Hance", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Bank of America", 
+      "arg2Id": "Q487907", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "NCNB\nCorporation", 
+      "arg2Id": "Q7054562", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Price Waterhouse", 
+      "arg1Id": "Q488048", 
+      "arg2": "James H. Hance", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Consolidated Coin Caterers Corp.", 
+      "arg2": "James H. Hance", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Price Waterhouse", 
+      "arg2Id": "Q488048", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Consolidated Coin Caterers Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Washington University in St.", 
+      "arg2Id": "Q777403", 
+      "confidence": 0.8815941214561462, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Board of Trustees of Johnson & Wales University", 
+      "arg2Id": "Q1798494", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Washington University in St.", 
+      "arg2Id": "Q777403", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Sprint Nextel Corporation", 
+      "arg1Id": "Q301965", 
+      "arg2": "James H. Hance", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James H. Hance", 
+      "arg2": "Sprint Nextel Corporation", 
+      "arg2Id": "Q301965", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William W. Helman IV", 
+      "arg2": "Greylock", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William W. Helman IV", 
+      "arg2": "Board of Trustees of Dartmouth College", 
+      "arg2Id": "Q49116", 
+      "confidence": 0.7201384902000427, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "William W. Helman IV", 
+      "arg2": "Board of Trustees of Dartmouth College", 
+      "arg2Id": "Q49116", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Broad Institute", 
+      "arg1Id": "Q4971893", 
+      "arg2": "William W. Helman IV", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William W. Helman IV", 
+      "arg2": "Broad Institute", 
+      "arg2Id": "Q4971893", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Board of Trustees of Dartmouth College", 
+      "arg1Id": "Q49116", 
+      "arg2": "William W. Helman IV", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Huntsman Cancer\nFoundation", 
+      "arg2": "Jon M. Huntsman, Jr.", 
+      "arg2Id": "Q11607", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Atlantic Council", 
+      "arg1Id": "Q756373", 
+      "arg2": "Jon M. Huntsman, Jr.", 
+      "arg2Id": "Q11607", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Jon M. Huntsman, Jr.", 
+      "arg1Id": "Q11607", 
+      "arg2": "Huntsman Cancer\nFoundation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon M. Huntsman, Jr.", 
+      "arg1Id": "Q11607", 
+      "arg2": "Atlantic Council", 
+      "arg2Id": "Q756373", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon M. Huntsman, Jr.", 
+      "arg1Id": "Q11607", 
+      "arg2": "White House", 
+      "arg2Id": "Q35525", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ronald Reagan", 
+      "arg2": "White House", 
+      "arg2Id": "Q35525", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon M. Huntsman, Jr.", 
+      "arg1Id": "Q11607", 
+      "arg2": "U.S. Naval Academy Foundation", 
+      "arg2Id": "Q559549", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "Velocitas Partners LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Velocitas Partners LLC", 
+      "arg2": "William E. Kennard", 
+      "arg2Id": "Q2579585", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "Executive Board of Staple\nStreet Capital", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Executive Board of Staple\nStreet Capital", 
+      "arg2": "William E. Kennard", 
+      "arg2Id": "Q2579585", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Velocitas Partners LLC", 
+      "arg2": "William E. Kennard", 
+      "arg2Id": "Q2579585", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "U.S. Federal Communications Commission", 
+      "arg1Id": "Q128831", 
+      "arg2": "William E. Kennard", 
+      "arg2Id": "Q2579585", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "U.S. Federal Communications Commission", 
+      "arg2Id": "Q128831", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Carlyle Group", 
+      "arg1Id": "Q926806", 
+      "arg2": "William E. Kennard", 
+      "arg2Id": "Q2579585", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "Carlyle Group", 
+      "arg2Id": "Q926806", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "Yale Corporation", 
+      "arg2Id": "Q2599066", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Eli Lilly and Company", 
+      "arg1Id": "Q632240", 
+      "arg2": "John C. Lechleiter", 
+      "arg2Id": "Q6224507", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John C. Lechleiter", 
+      "arg1Id": "Q6224507", 
+      "arg2": "Eli Lilly and Company", 
+      "arg2Id": "Q632240", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John C. Lechleiter", 
+      "arg1Id": "Q6224507", 
+      "arg2": "American Chemical Society", 
+      "arg2Id": "Q247556", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John C. Lechleiter", 
+      "arg1Id": "Q6224507", 
+      "arg2": "Pharmaceutical Research and Manufacturers of America", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John C. Lechleiter", 
+      "arg1Id": "Q6224507", 
+      "arg2": "Central Indiana Corporate Partnership", 
+      "arg2Id": "Q1415", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John C. Lechleiter", 
+      "arg1Id": "Q6224507", 
+      "arg2": "Board", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ellen R. Marram", 
+      "arg2": "Barnegat Group, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Barnegat Group, LLC", 
+      "arg2": "Ellen R. Marram", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Brock Capital Group LLC", 
+      "arg2": "Ellen R. Marram", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ellen R. Marram", 
+      "arg2": "Brock Capital Group LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "North Castle Partners, LLC", 
+      "arg1Id": "Q2889867", 
+      "arg2": "Ellen R. Marram", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ellen R. Marram", 
+      "arg2": "North Castle Partners, LLC", 
+      "arg2Id": "Q2889867", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Group", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Group", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Caterpillar", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Caterpillar", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Caterpillar", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Group", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Group", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "U.S. Chamber of Commerce", 
+      "arg1Id": "Q1800288", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Illinois Neurological Institute", 
+      "arg1Id": "Q1204", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Board\nof Trustees of Bradley University", 
+      "arg2Id": "Q897052", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Board\nof Trustees of Bradley University", 
+      "arg1Id": "Q897052", 
+      "arg2": "Gerald L. Shaheen", 
+      "arg2Id": "Q1043", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "Illinois Neurological Institute", 
+      "arg2Id": "Q1204", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg1Id": "Q1043", 
+      "arg2": "U.S. Chamber of Commerce", 
+      "arg2Id": "Q1800288", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Barrick Gold Corporation", 
+      "arg2Id": "Q808908", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Barrick Gold Corporation", 
+      "arg1Id": "Q808908", 
+      "arg2": "John L. Thornton", 
+      "arg2Id": "Q6243718", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "China Securities Regulatory\nCommission", 
+      "arg2Id": "Q642889", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "PineBridge Investments", 
+      "arg2Id": "Q4046285", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "PineBridge Investments", 
+      "arg1Id": "Q4046285", 
+      "arg2": "John L. Thornton", 
+      "arg2Id": "Q6243718", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Tsinghua University School of Economics and Management", 
+      "arg2Id": "Q16955", 
+      "confidence": 0.8370631337165833, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Tsinghua University School of Economics and Management", 
+      "arg2Id": "Q16955", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Goldman Sachs Group, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Goldman Sachs Group, Inc.", 
+      "arg2": "John L. Thornton", 
+      "arg2Id": "Q6243718", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Goldman Sachs", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Asia", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "John L. Thornton", 
+      "arg1Id": "Q6243718", 
+      "arg2": "Goldman Sachs\nInternational", 
+      "arg2Id": "Q193326", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Goldman Sachs\nInternational", 
+      "arg1Id": "Q193326", 
+      "arg2": "John L. Thornton", 
+      "arg2Id": "Q6243718", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James P. Hackett", 
+      "arg2": "Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Committee", 
+      "arg2": "Mark Fields", 
+      "arg2Id": "Q6767603", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "James D. Farley", 
+      "arg2": "Benefit\nEqualization Plan", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Anthony F. Earley", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon M. Huntsman, Jr.", 
+      "arg1Id": "Q11607", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ford", 
+      "arg1Id": "Q44294", 
+      "arg2": "Non-Employee Directors", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Sydney Finkelstein", 
+      "arg1Id": "Q18157165", 
+      "arg2": "Tuck School of Business", 
+      "arg2Id": "Q1263832", 
+      "confidence": 0.5140501260757446, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Sydney Finkelstein", 
+      "arg1Id": "Q18157165", 
+      "arg2": "Tuck School of Business", 
+      "arg2Id": "Q1263832", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mike McCauley", 
+      "arg2": "Florida State Board of Administration", 
+      "arg2Id": "Q861548", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corporation", 
+      "arg2": "Corporation", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Gerald L. Shaheen", 
+      "arg2": "For\n  Against", 
+      "arg2Id": "Q5466644", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William E. Kennard", 
+      "arg1Id": "Q2579585", 
+      "arg2": "For\n  Against", 
+      "arg2Id": "Q5466644", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Length": "20", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 15:04:58 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "c23a3f39268ccfd443fb588a698b29a6", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

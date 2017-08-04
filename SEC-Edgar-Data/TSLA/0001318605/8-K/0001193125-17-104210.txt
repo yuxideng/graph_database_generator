@@ -1,0 +1,640 @@
+<SEC-DOCUMENT>0001193125-17-104210.txt : 20170330
+<SEC-HEADER>0001193125-17-104210.hdr.sgml : 20170330
+<ACCEPTANCE-DATETIME>20170330164603
+ACCESSION NUMBER:		0001193125-17-104210
+CONFORMED SUBMISSION TYPE:	8-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20170327
+ITEM INFORMATION:		Entry into a Material Definitive Agreement
+ITEM INFORMATION:		Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant
+ITEM INFORMATION:		Unregistered Sales of Equity Securities
+ITEM INFORMATION:		Other Events
+ITEM INFORMATION:		Financial Statements and Exhibits
+FILED AS OF DATE:		20170330
+DATE AS OF CHANGE:		20170330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Tesla, Inc.
+		CENTRAL INDEX KEY:			0001318605
+		STANDARD INDUSTRIAL CLASSIFICATION:	MOTOR VEHICLES & PASSENGER CAR BODIES [3711]
+		IRS NUMBER:				912197729
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		8-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34756
+		FILM NUMBER:		17726366
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+		BUSINESS PHONE:		650-681-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		3500 DEER CREEK RD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94070
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TESLA MOTORS INC
+		DATE OF NAME CHANGE:	20050222
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>8-K
+<SEQUENCE>1
+<FILENAME>d370699d8k.htm
+<DESCRIPTION>FORM 8-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 8-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, DC 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">8-K</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>CURRENT
+REPORT </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Pursuant to Section&nbsp;13 or 15(d) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>of The Securities Exchange Act of 1934 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Date of Report (Date of earliest event reported) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>March&nbsp;27, 2017 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Tesla, Inc.
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="34%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="32%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">001-34756</FONT></B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">91-2197729</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>of incorporation)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Commission</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>File Number)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(IRS Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>3500 Deer Creek Road </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Palo Alto, California 94304 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices, including zip code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(650) <FONT STYLE="white-space:nowrap">681-5000</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Former name or former address, if changed since last report) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Check the appropriate box below if the Form <FONT STYLE="white-space:nowrap">8-K</FONT> filing is intended to simultaneously satisfy the filing obligation of
+the registrant under any of the following provisions (see General Instruction A.2): </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top">Soliciting material pursuant to Rule <FONT STYLE="white-space:nowrap">14a-12</FONT> under the Exchange Act (17 CFR <FONT STYLE="white-space:nowrap">240.14a-12)</FONT> </TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">14d-2(b)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.14d-2(b))</FONT> </TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#9744;</TD>
+<TD ALIGN="left" VALIGN="top"><FONT STYLE="white-space:nowrap">Pre-commencement</FONT> communications pursuant to Rule <FONT STYLE="white-space:nowrap">13e-4(c)</FONT> under the Exchange Act (17 CFR
+<FONT STYLE="white-space:nowrap">240.13e-4(c))</FONT> </TD></TR></TABLE> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;1.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Entry into a Material Definitive Agreement </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The information set forth in Item 8.01 of
+this Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> under the headings &#147;Additional Note Hedge Transactions&#148; and &#147;Additional Warrant Transactions&#148; is incorporated by reference into this Item 1.01. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;2.03</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Creation of a Direct Financial Obligation or an Obligation under an <FONT STYLE="white-space:nowrap">Off-Balance</FONT> Sheet Arrangement of a Registrant </B></TD></TR></TABLE>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The information set forth in Item 8.01 of this Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> is incorporated by reference
+into this Item 2.03. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;3.02</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Unregistered Sales of Equity Securities </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The information set forth in Item 8.01 of this
+Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> under the heading &#147;Additional Warrant Transactions&#148; is incorporated by reference into this Item 3.02. </P>
+<P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;8.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Other Events </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March&nbsp;27, 2017, Goldman, Sachs&nbsp;&amp; Co., Deutsche Bank
+Securities Inc., Citigroup Global Markets Inc. and Morgan Stanley&nbsp;&amp; Co. LLC, as representatives of the underwriters (the &#147;<U>Underwriters</U>&#148;) of Tesla, Inc.&#146;s (the &#147;<U>Company</U>&#148;) previously consummated public
+offering of its 2.375% Convertible Senior Notes due March&nbsp;15, 2022 (the &#147;<U>Notes</U>&#148;), notified the Company of the Underwriters&#146; exercise in full of their option to purchase an additional $127.5&nbsp;million aggregate principal
+amount of the Notes (the &#147;<U>Option Notes</U>&#148;). The Option Notes were sold pursuant to a Registration Statement on Form <FONT STYLE="white-space:nowrap">S-3</FONT> (File <FONT STYLE="white-space:nowrap">No.&nbsp;333-211437)</FONT> (the
+&#147;<U>Registration Statement</U>&#148;) and a related prospectus, including the related prospectus supplement, filed with the Securities and Exchange Commission. On March&nbsp;30, 2017, the Company issued the Option Notes. The Option Notes were
+issued pursuant to a supplemental indenture, dated as of March 22, 2017 (the &#147;<U>Fourth Supplemental Indenture</U>&#148;), supplementing the indenture, dated as of May 22, 2013, by and between the Company and U.S. Bank National Association, as
+trustee. A description of the terms of the Fourth Supplemental Indenture is set forth under Item 8.01 of the Current Report on Form 8-K filed by the Company on March 22, 2017 in connection with the closing of the offering of the Notes and is
+incorporated by reference into this Item 8.01. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The legal opinion as to the legality of the Option Notes sold is being filed as Exhibit
+5.1 to this Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> and is incorporated herein and into the Registration Statement by reference. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Additional Note Hedge Transactions </I></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On
+March&nbsp;27, 2017, in connection with the exercise by the Underwriters of their option to purchase the Option Notes, the Company entered into additional note hedge transactions with each of Goldman, Sachs&nbsp;&amp; Co., Deutsche Bank Securities
+Inc., Citigroup Global Markets Inc., Morgan Stanley&nbsp;&amp; Co. LLC, Barclays Capital Inc. or their respective affiliates (the &#147;<U>Hedge Counterparties</U>&#148;), pursuant to call option confirmations in substantially the form of Exhibit
+10.1 to this Current Report on Form <FONT STYLE="white-space:nowrap">8-K,</FONT> which is incorporated herein by reference. The additional note hedge transactions are expected generally to reduce the potential dilution to the common stock of the
+Company, par value $0.001 per share (the &#147;<U>Common Stock</U>&#148;), and/or offset potential cash payments in excess of the principal amount upon any conversion of the Option Notes in the event that the market value per share of the Common
+Stock, as measured under the terms of the additional note hedge transactions, is greater than the strike prices of the additional note hedge transactions (which correspond to the initial conversion price of the Notes and are subject to certain
+adjustments substantially similar to those contained in the Notes). On March&nbsp;30, 2017, at the closing of the offering of the Option Notes, the Company paid an aggregate amount of approximately $26.6&nbsp;million to the Hedge Counterparties for
+the additional note hedge transactions. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><I>Additional Warrant Transactions </I></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">On March&nbsp;27, 2017, in connection with the exercise by the Underwriters of their option to purchase the Option Notes, the Company entered
+into additional warrant confirmations with the Hedge Counterparties in substantially the form of Exhibit 10.2 to this Current Report on Form <FONT STYLE="white-space:nowrap">8-K,</FONT> which is incorporated herein by reference, pursuant to which
+the Company issued certain warrants (the &#147;<U>Additional Warrants</U>&#148;). The Additional Warrants allow the Hedge Counterparties to acquire, subject to anti-dilution adjustments, up to approximately 0.8&nbsp;million shares of Common Stock at
+a strike price of $655.00 per share in respect of Additional Warrants relating to the Option Notes, which is also subject to adjustment. The Additional Warrants would separately have a dilutive effect to the extent that the market value per share of
+the Common Stock exceeds the strike price of the Additional Warrants </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+unless, subject to the terms of the warrant confirmations, the Company elects to cash settle the Warrants. The Additional Warrants were issued pursuant to the exemption provided by Section
+4(a)(2) of the Securities Act of 1933, as amended. The Additional Warrants are separate transactions, entered into by the Company with the Hedge Counterparties, and are not part of the terms of the Option Notes. Holders of the Option Notes will not
+have any rights with respect to the Additional Warrants. On March&nbsp;30, 2017, at the closing of the offering of the Option Notes, the Company received aggregate proceeds of approximately $6.9&nbsp;million from the sale of the Additional Warrants
+to the Hedge Counterparties. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="12%" VALIGN="top" ALIGN="left"><B>Item&nbsp;9.01</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Financial Statements and Exhibits </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Exhibits. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;5.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Opinion of Wilson Sonsini Goodrich&nbsp;&amp; Rosati, P.C.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Call Option Confirmation (incorporated herein by reference to Exhibit 10.1 to the Registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on March&nbsp;22, 2017).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Warrant Confirmation (incorporated herein by reference to Exhibit 10.2 to the Registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on March&nbsp;22, 2017).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of Wilson Sonsini Goodrich&nbsp;&amp; Rosati, P.C. (included in Exhibit 5.1).</TD></TR>
+</TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"><B>TESLA, INC.</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Deepak Ahuja</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Deepak Ahuja</B></P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman"><B>Chief Financial
+Officer</B></P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Date: March&nbsp;30, 2017 </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXHIBIT INDEX </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;5.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Opinion of Wilson Sonsini Goodrich&nbsp;&amp; Rosati, P.C.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Call Option Confirmation (incorporated herein by reference to Exhibit 10.1 to the Registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on March&nbsp;22, 2017).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Form of Warrant Confirmation (incorporated herein by reference to Exhibit 10.2 to the Registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed on March&nbsp;22, 2017).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Consent of Wilson Sonsini Goodrich&nbsp;&amp; Rosati, P.C. (included in Exhibit 5.1).</TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-5.1
+<SEQUENCE>2
+<FILENAME>d370699dex51.htm
+<DESCRIPTION>EX-5.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-5.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 5.1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="51%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="47%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="margin-top:0pt;margin-bottom:1pt">
+
+
+<IMG SRC="g370699g0330111940325.jpg" ALT="LOGO">
+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">650 Page Mill Road</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">Palo Alto, CA 94304-1050</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">PHONE 650.493.9300</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right">FAX
+650.493.6811</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>www.wsgr.com</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">March 30, 2017 </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Tesla, Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">3500 Deer Creek Road, </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Palo Alto, California 94304 </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B>Re:</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>Registration Statement on Form <FONT STYLE="white-space:nowrap">S-3</FONT> </B></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Ladies and Gentlemen: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We have acted as counsel to Tesla, Inc., a Delaware corporation (the &#147;Company&#148;), in connection with the filing by the Company with
+the Securities and Exchange Commission (the &#147;Commission&#148;) on May&nbsp;18, 2016 of a registration statement on Form <FONT STYLE="white-space:nowrap">S-3</FONT> (the &#147;Registration Statement&#148;), under the Securities Act of 1933, as
+amended (the &#147;Act&#148;), that is automatically effective under the Act pursuant to Rule 462(e) promulgated thereunder. The Registration Statement relates to, among other things, the proposed issuance and sale, from time to time, by the Company
+of debt securities (the &#147;Debt Securities&#148;) and shares of the Company&#146;s common stock (the &#147;Common Stock&#148;), $0.001 par value per share (the &#147;Company Common Stock&#148; and together with the Debt Securities, the
+&#147;Securities&#148;), each with an indeterminate amount as may at various times be issued at indeterminate prices, in reliance on Rule 456(b) and Rule 457(r) under the Act. The Debt Securities and the Common Stock are to be sold from time to time
+as set forth in the Registration Statement, the prospectus contained therein, and the supplements to the prospectus. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the
+Registration Statement, the Company has issued and sold $127,500,000 of Convertible Senior Notes due 2022 (the &#147;Notes&#148;), all of which will be sold to the Note Underwriters (as defined below) pursuant to that certain Underwriting Agreement,
+dated as of March 16, 2017 (the &#147;Underwriting Agreement&#148;), by and among the Company and Goldman, Sachs&nbsp;&amp; Co., Deutsche Bank Securities Inc., Citigroup Global Markets Inc. and Morgan Stanley&nbsp;&amp; Co. LLC, as representatives
+of the several underwriters named in Schedule I thereto (the &#147;Note Underwriters&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The Notes have been issued in the form set
+forth in the Indenture, dated May&nbsp;22, 2013 (the &#147;Base Indenture&#148;), by and between the Company and U.S. Bank National Association, as trustee (the &#147;Trustee&#148;), and the Fourth Supplemental Indenture dated March&nbsp;22, 2017
+(together with the Base Indenture, the &#147;Indenture&#148;), by and between the Company and the Trustee. The Notes are initially convertible into up to 389,309 shares of Common Stock (such number of shares of Common Stock issuable upon conversion
+of the Notes referred to herein as, the &#147;Conversion Shares&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We have examined the Registration Statement, together with the
+exhibits thereto and the documents incorporated by reference therein; the base prospectus, dated May&nbsp;18, 2016, together with the documents incorporated by reference therein, filed with the Registration Statement relating to the offering of the
+Notes (the &#147;Prospectus&#148;); the preliminary prospectus supplement, dated March&nbsp;15, 2017, </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><SMALL>AUSTIN&nbsp;&nbsp;&nbsp;&nbsp;BEIJING&nbsp;&nbsp;&nbsp;&nbsp;BOSTON&nbsp;&nbsp;&nbsp;&nbsp;BRUSSELS&nbsp;&nbsp;&nbsp;&nbsp;
+HONG</SMALL> <SMALL>KONG&nbsp;&nbsp;&nbsp;&nbsp;LOS</SMALL> <SMALL>ANGELES&nbsp;&nbsp;&nbsp;&nbsp;NEW</SMALL> <SMALL>YORK&nbsp;&nbsp;&nbsp;&nbsp;PALO</SMALL> <SMALL>ALTO&nbsp;&nbsp;&nbsp;&nbsp;</SMALL> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><SMALL>SAN</SMALL> <SMALL>DIEGO&nbsp;&nbsp;&nbsp;&nbsp;SAN</SMALL>
+<SMALL>FRANCISCO&nbsp;&nbsp;&nbsp;&nbsp;SEATTLE&nbsp;&nbsp;&nbsp;&nbsp;SHANGHAI&nbsp;&nbsp;&nbsp;&nbsp;WASHINGTON</SMALL>, <SMALL>DC&nbsp;&nbsp;&nbsp;&nbsp;WILMINGTON</SMALL>, <SMALL>DE</SMALL> </B></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g370699g02b29.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Tesla, Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">March 30, 2017
+</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"> Page
+ 2
+ of 3 </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+in the form filed with the Commission pursuant to Rule 424(b) of the Securities Act relating to the offering of the Notes; the final prospectus supplement, dated March 16, 2017, in the form filed
+with the Commission pursuant to Rule 424(b) of the Securities Act relating to the offering of the Notes (together with the Prospectus, the &#147;Prospectus Supplement&#148;); the Indenture and the Notes. In addition, we have examined originals or
+copies, certified or otherwise identified to our satisfaction, of such other instruments, documents, certificates and records which we have deemed relevant and necessary for the basis of our opinion hereinafter expressed. In such examination, we
+have assumed: (i)&nbsp;the authenticity of original documents and the genuineness of all signatures; (ii)&nbsp;the conformity to the originals of all documents submitted to us as copies; (iii)&nbsp;the truth, accuracy and completeness of the
+information, representations and warranties contained in the instruments, documents, certificates and records we have reviewed; (iv)&nbsp;the Underwriting Agreement has been duly authorized and validly executed and delivered by the parties thereto
+(other than the Company); (v) that the shares of Common Stock will be issued and sold in compliance with applicable U.S. federal and state securities laws and in the manner stated in the Registration Statement and the Prospectus Supplement; and
+(vi)&nbsp;the legal capacity of all natural persons.&nbsp;As to any facts material to the opinions expressed herein that were not independently established or verified, we have relied upon oral or written statements and representations of officers
+and other representatives of the Company. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We express no opinion herein as to the laws of any state or jurisdiction, other than the
+Federal laws of the United States of America, the laws of the State of New York and the General Corporation Law of the State of Delaware (the &#147;DGCL&#148;), as such are in effect on the date hereof, and we have made no inquiry into, and we
+express no opinion as to, the statutes, regulations, treaties, common laws or other laws of any other nation, state or jurisdiction. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We
+express no opinion as to (i)&nbsp;the effect of any bankruptcy, insolvency, reorganization, arrangement, fraudulent conveyance, moratorium or other similar laws relating to or affecting the rights of creditors generally, (ii)&nbsp;rights to
+indemnification and contribution which may be limited by applicable law or equitable principles, or (iii)&nbsp;the effect of general principles of equity, including, without limitation, concepts of materiality, reasonableness, good faith and fair
+dealing, the effect of judicial discretion and the possible unavailability of specific performance, injunctive relief or other equitable relief, and the limitations on rights of acceleration, whether considered in a proceeding in equity or at law.
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Based on the foregoing, we are of the opinion that: </P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">1.</TD>
+<TD ALIGN="left" VALIGN="top">The Notes have been validly issued and constitute valid and binding obligations of the Company, enforceable against the Company in accordance with their terms, and entitled to the benefits of the Indenture.
+</TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">2.</TD>
+<TD ALIGN="left" VALIGN="top">When the applicable conversion right has been duly exercised in accordance with the terms of the Notes and the Indenture, and the Conversion Shares have been issued and delivered upon such exercise in accordance with
+the terms of the Notes and the Indenture, the Conversion Shares will be validly issued, fully paid and nonassessable. </TD></TR></TABLE>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt;margin-bottom:0pt">
+
+
+<IMG SRC="g370699g02b29.jpg" ALT="LOGO">
+ </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Tesla, Inc. </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">March 30, 2017
+</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"> Page
+ 3
+ of 3 </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">We hereby consent to the filing of this opinion as an exhibit to the above-referenced
+Registration Statement and to the use of our name wherever it appears in the Registration Statement, the Prospectus, the Prospectus Supplement, and in any amendment or supplement thereto. In giving such consent, we do not believe that we are
+&#147;experts&#148; within the meaning of such term as used in the Act or the rules and regulations of the Commission issued thereunder with respect to any part of the Registration Statement, including this opinion as an exhibit or otherwise. </P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Very truly yours,</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">/s/ Wilson Sonsini Goodrich&nbsp;&amp; Rosati, P.C.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">WILSON SONSINI GOODRICH&nbsp;&amp; ROSATI</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Professional Corporation</TD></TR>
+</TABLE></DIV>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>3
+<FILENAME>g370699g02b29.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g370699g02b29.jpg
+M_]C_X  02D9)1@ !  $ 8 !@  #__@ ?3$5!1"!496-H;F]L;V=I97,@26YC
+M+B!6,2XP,0#_VP"$  @&!@<&!0@'!P<*"0@*#18.#0P,#1L3%! 6(!PB(1\<
+M'QXC*#,K(R8P)AX?+#TM,#4V.3HY(BL_0SXX0S,X.3<!"0H*#0L-&@X.&C<D
+M'R0W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W-S<W
+M-S<W-S<W-__$ :(   $% 0$! 0$!           ! @,$!08'" D*"P$  P$!
+M 0$! 0$! 0        $" P0%!@<("0H+$  " 0,# @0#!04$!    7T! @,
+M!!$%$B$Q008346$'(G$4,H&1H0@C0K'!%5+1\"0S8G*""0H6%Q@9&B4F)R@I
+M*C0U-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H.$A8:'
+MB(F*DI.4E9:7F)F:HJ.DI::GJ*FJLK.TM;:WN+FZPL/$Q<;'R,G*TM/4U=;7
+MV-G:X>+CY.7FY^CIZO'R\_3U]O?X^?H1  (! @0$ P0'!00$  $"=P ! @,1
+M! 4A,08205$'87$3(C*!"!1"D:&QP0DC,U+P%6)RT0H6)#3A)?$7&!D:)B<H
+M*2HU-C<X.3I#1$5&1TA)2E-455976%E:8V1E9F=H:6IS='5V=WAY>H*#A(6&
+MAXB)BI*3E)66EYB9FJ*CI*6FIZBIJK*SM+6VM[BYNL+#Q,7&Q\C)RM+3U-76
+MU]C9VN+CY.7FY^CIZO+S]/7V]_CY^O_  !$( "$ V@,!$0 "$0$#$0'_V@ ,
+M P$  A$#$0 _ /7H/%/G^*;[P^-*NDN;2'SQ(Y0)*O;8=V3S@=!CO0!!;^-(
+M[KPBWB&+2;PQ+(T9MLIYV0^PC&[&=PQC- %C5_$LVDZ9-=MH]TQBFAA*EE4'
+MS"HR#DY +8.!U'XT =!0 4 % &;?:NMIJ%OIT-N]S>SQO*L:D* BD L2>@RP
+M'XT 3:9?/J%D)Y;26TDWLC0RD%E*L1V)&#C(]C0!<H * *\5RTMW<6YMIHQ#
+MMQ*X 23(S\ISSCOTH 6\N#9V<MPMO+<&-=PBA +O[ $CF@!UQ<PV=I+=7,BP
+MP0H7D=S@*H&230!@GQ1<FQCU&'0+Z6P?!#@H)-I(&_RR<XYSZX[4 ='0 4 9
+M.MZRVCMIP%F]P+V[CM=RL (]W\1[GIV_2@#1N9C;6LTZPR3&-"PCC +/@9P,
+M]S0 Z.0R0+)Y;*64-L;@CCH?>@#+\-ZTVOZ1]O:S:T/G2Q>4SAR-CLF<CCDK
+M0!=U#4(-,M#<3AV&<*D:%W<^BJ.2: %T^_M=4L(+VSE$MO.@=& QD'V/(H S
+MM6\0-IFL:;I<>GRW,VH"3RF5U5047<P))R./:@"?0];@URTFEBBEAEMYFMYX
+M90 T4B]0<9!Z@@C@@B@#3H * (+NY-I )%MY;@[U79$ 6Y8#/)' SD^P- $]
+M '%^.+A]"U30_$D432>3*]E,B#EDF&%'_?Q8_P Z ,O0[.XTSQ7<^%)B\L<D
+MT>LF0\@@C]X,_P#7=0<>AH 76-1N)-$\1+=WPG$.NVUO$&POEKO@(7CTW&@"
+MQ=^(-5L/$FI;V>YC\JX;3UMW5X7:.,$PR)C<L@8$YS@@X]* "SU2^%WHKVVN
+M27=OJVG2SSLP5O)945A*HQ\HRQ7:>.GI0 SPMJ6IG4/"[76LSWHU?2GGFCE"
+M!5=1&0RA0"/OD&@#:\1Z/:ZSJ]J+75Y=*U^SB,EO/$5),;'#*R-PZY49';CI
+M0!B:5XAU36[[3=)U2Z^PL\5VKW%F=HN9890@*$YP-N7Q_04 1:;J>MZS)X:M
+MY]:EMQ=+>),\"QJ;A8FVI*N5.,C!XXYH K+XDU<>'M$OYM0>XMHXW^VO;,BW
+M'$VQ)BA&'3Y2&48/S9H NZWK&JV]GXK>'6GBDL]1M8H"$3]TCB(E,$<_ZP\]
+M: &:MJ>K:59>*K:'6YY&LI[1HI950O&)2H9> !CDXXXS0!T/Q!LKF_\  >K6
+M]G"9YO*#B)>L@5@Q4?4 C\: *OB'Q<L?P]G\3:#>VI2.'S4,J[E/^R1D8/;'
+MK0!DZGKNIFQ\0ZA#J3PW^CW:10V@"[)5PA4,O4^9N."#QQCI0 Z37=2ELYM6
+MBOY([ZVU@63:<<;&3S0FS;C.XH=X;^E %6;48]=?P]J<NKR+.=:\I[ 2*$C*
+M-(-I7&=PVCG/?TQ0 Z:[UJW\*>*M87Q-<O-8R7<,*F./8FUQ@XV]1@C\>E &
+MW'=-K'B>^L7UNYL6TEX"D,3HOGJR*Q9]P.X$DKQTP>] &+X=DO-.7P_/!J4K
+MV]]JMY;R6OR^7M+3N".,Y!0'.>YH WO&S17$NBZ1/=O8)?71VWD;['A=$+*$
+M8\!CC'.>,C'- &3X%N+>?5)XKV:T>^TG_B60/$0//7E_,"_[0QZ\J] &AXMB
+MFG\9>%HK6\%I=$79BDV!\'RA_">HYH PM'UB2QT>RTZ:1[+5)]7-OK4V1O65
+ME9@X.,!9"J!3C !P.10!)?:SKEK#J=G!?/>P:??,-R2I'<S0"$.RHQ&UGC9A
+MGU P><T 69O$K2>(=#>RUBYFBGN8K>6)XUCB"O;F3#9Y+_=;CIG% %'2[N[L
+M_#UA<PZY<M-<Z]Y$RS2J_P"[-TZE<8^4D8&1^E 'J- $<UO#<H$FB61 RN P
+MR 0<@_@0#0 GV>'[5]I\I?/V>7YF/FVYSC/IF@"I)H6D2B02Z7:.)7\QPT"G
+M<W]X\<GWH F@TRPM;E[FWLH(IY!AY$C 9OJ>IZ4 ,BT?3(1.(M/MD%P")0L2
+MCS >H/'- !#I&FV\D$D.GVT;VZE(F2)08U/4+QP/84 %[I&FZDZ/>V%O<O'P
+MC2Q!BOT)Z4 .FTO3[FUCM9K&WDMXL;(VC!5,>@[4 #Z7I\DL,KV-NTD"[(G,
+M0S&OHI[#V% $::'I,7D>7IEHGV<DQ;8%'EYY.WCCGTH )=#TF8RF73+20S,'
+MDW0J=[#H3QR?>@ ?1-*E\[S--M7\\@R[H5/F8Z;N.<=LT 7D18T5$4*JC  [
+M"@#.D\.Z++.T\FD63RLVYF:!22WJ>.OO0!8DTRPENX[N2R@:YCP$E,8++CI@
+MT !TVQ-\+XV<!NP,>=Y8W],=>O2@""?0-'N9S/-I5H\QD$ID:%=Q<=&)QR10
+M Y-#TF.":!-,M%BG.94$*XD.<_,,<\^M "OHNER3P3OIMJTUNNR)VA4LB^@.
+M.!0 )HNEQI"D>G6J+"YDC"PJ C'JPXX/O0!+?:?9ZG;&VO[2&Z@)!,<R!UR.
+MAP: $BTVP@N$N(K*WCFCC\I)%B 94_N@]A[4 $^FV-S=PW<]G#+<P_ZJ5T!9
+M/H>HH CNM&TR]NOM-S8P33&/RR[H"63KM/J,\X-  VC:6]O#;OIUJT,+;HT,
+M*D(?4#'!H 231-)ENC=2:9:/<%E8R-"I8E?NG..HH 1M"TAS(6TNS)ED\U\P
+M+\S_ -X\<GWH T* ,7Q(EV\%BMFDSM]K0.(W9/DYSN*\@4 85];Z_::C88GN
+MKI+>W@-S+%N^8B3YRJCAF*\$=<$XYQ0!9E.JSW4^P7L=^EZC0, P@>W++P?X
+M?N;L@_-NZ=J '6]MJ6_7IV-R%5IU@!:3><J-NP$[2,YQ@4 10IJ(\/!(Y+N*
+MZW0DF2*9PWRC*MGYAD@@E>F1[T 2JVJF\TE_(N0GE1":V=WS&=QRPD'#$?Q*
+M_4 8YH 9&=1BMF+QZ@]K_:DOG ;S+Y/S;"H^]LSM^[SC\: %-KJ[V=O'#>7D
+M#"_=K:21"Y\K8<+*.ZEN/FP<8Y!H &;7I]"NH(K>:RU2ZN656,A=(0%&65L'
+M"G'' ^]T!H L_P!H73WVCW\]I?11M9RM/"D3L$DS'A64#K]_&: -#7_MITU#
+M9"7/G1F81?ZSRMPW[??'ISUQSB@"A>&6(6?D1Z@VFFX<7( D,H!7Y2!]_9N]
+M/Y9H R=1M_$+:7:Q6C7<DOFW/EEW9&\O:WE[R/XNF-W?&>] %_4$U/4KK35L
+M);NW\RTDW32*\?EN&CPS+C!; ?@\')[4 )J/]J27=_'&+V.]69&L'CW&!H\+
+MD-CY>N[<&YQT[4 )"=5A\7S32+=_V:;AD!4.PYB3:"O39NWG<.AZX!H L6\N
+MJ7'B*Y6YBN%TN[C:.+;N4Q-&<9/ *[\D@YYVB@"H\%[_ ,(=J,BMJ1O6>58Q
+MND\P*)3LVCJ/EQSZ4 2:N-2DN=2AC%\DGDHVF26^[9NV]'[9W==_!4CWH ;J
+M4>MI>:E/:FYFB,")):J2H)*G+P,>C ]1G!]CU .KB79$BY)PH&3UH ?0 4 %
+M !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0 4 % !0
+/4 % !0 4 % !0 4 ?__9
+
+end
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g370699g0330111940325.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g370699g0330111940325.jpg
+M_]C_X  02D9)1@ ! 0$ 8 !@  #_VP!#  @&!@<&!0@'!P<)"0@*#!0-# L+
+M#!D2$P\4'1H?'AT:'!P@)"XG("(L(QP<*#<I+# Q-#0T'R<Y/3@R/"XS-#+_
+MVP!# 0D)"0P+#!@-#1@R(1PA,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C(R
+M,C(R,C(R,C(R,C(R,C(R,C(R,C(R,C+_P  1"  A 5 # 2(  A$! Q$!_\0
+M'P   04! 0$! 0$           $" P0%!@<("0H+_\0 M1   @$# P($ P4%
+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
+M 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !1110 4444 %%%% !
+>1110 4444 %%%% !1110 4444 %%%% !1110!__9
+
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

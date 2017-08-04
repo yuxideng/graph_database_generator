@@ -1,0 +1,414 @@
+{
+  "relationships": [
+    {
+      "arg1": "Madrona Venture Group, LLC", 
+      "arg1Id": "Q18636323", 
+      "arg2": "Tom A. Alberg", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Tom A. Alberg", 
+      "arg2": "Madrona Investment Group, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Madrona Investment Group, LLC", 
+      "arg2": "Tom A. Alberg", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Tom A. Alberg", 
+      "arg2": "Madrona Venture Group, LLC", 
+      "arg2Id": "Q18636323", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "University of Southern California", 
+      "arg2Id": "Q4614", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Xerox Palo Alto Research Center", 
+      "arg1Id": "Q750428", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Xerox Palo Alto Research Center", 
+      "arg2Id": "Q750428", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Xerox", 
+      "arg2Id": "Q152433", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Corning Incorporated", 
+      "arg2Id": "Q5842736", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Corning Incorporated", 
+      "arg1Id": "Q5842736", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Polycom, Inc.", 
+      "arg1Id": "Q963809", 
+      "arg2": "John Seely Brown", 
+      "arg2Id": "Q6257227", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John Seely Brown", 
+      "arg1Id": "Q6257227", 
+      "arg2": "Polycom, Inc.", 
+      "arg2Id": "Q963809", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William B. Gordon", 
+      "arg2": "Kleiner\nPerkins Caufield & Byers", 
+      "arg2Id": "Q4346838", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kleiner\nPerkins Caufield & Byers", 
+      "arg1Id": "Q4346838", 
+      "arg2": "William B. Gordon", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William B. Gordon", 
+      "arg2": "Electronic Arts, Inc.", 
+      "arg2Id": "Q173941", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Electronic Arts, Inc.", 
+      "arg1Id": "Q173941", 
+      "arg2": "William B. Gordon", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "William B. Gordon", 
+      "arg2": "Zynga Inc.", 
+      "arg2Id": "Q245772", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Zynga Inc.", 
+      "arg1Id": "Q245772", 
+      "arg2": "William B. Gordon", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "United Technologies\nCorporation", 
+      "arg1Id": "Q1045758", 
+      "arg2": "Jamie S. Gorelick", 
+      "arg2Id": "Q376800", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Schlumberger Limited", 
+      "arg1Id": "Q1425316", 
+      "arg2": "Jamie S. Gorelick", 
+      "arg2Id": "Q376800", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Jamie S. Gorelick", 
+      "arg1Id": "Q376800", 
+      "arg2": "United Technologies\nCorporation", 
+      "arg2Id": "Q1045758", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jamie S. Gorelick", 
+      "arg1Id": "Q376800", 
+      "arg2": "Schlumberger Limited", 
+      "arg2Id": "Q1425316", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "arg2Id": "Q324616", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ingram Micro Inc.", 
+      "arg1Id": "Q324616", 
+      "arg2": "Alain Monie", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "arg2Id": "Q324616", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Ingram Micro Inc.", 
+      "arg2Id": "Q324616", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ingram Micro Inc.", 
+      "arg1Id": "Q324616", 
+      "arg2": "Alain Monie", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Alain Monie", 
+      "arg2": "Jones Lang LaSalle", 
+      "arg2Id": "Q1703389", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jones Lang LaSalle", 
+      "arg1Id": "Q1703389", 
+      "arg2": "Alain Monie", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Jonathan J.\nRubinstein", 
+      "arg1Id": "Q869322", 
+      "arg2": "Hewlett-Packard Company", 
+      "arg2Id": "Q80978", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hewlett-Packard Company", 
+      "arg1Id": "Q80978", 
+      "arg2": "Jonathan J.\nRubinstein", 
+      "arg2Id": "Q869322", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Palm, Inc.", 
+      "arg1Id": "Q854437", 
+      "arg2": "Hewlett-Packard Company", 
+      "arg2Id": "Q80978", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "Jonathan J.\nRubinstein", 
+      "arg1Id": "Q869322", 
+      "arg2": "Palm, Inc.", 
+      "arg2Id": "Q854437", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jonathan J.\nRubinstein", 
+      "arg1Id": "Q869322", 
+      "arg2": "Hewlett-Packard Company", 
+      "arg2Id": "Q80978", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Readers Digest Association, Inc.", 
+      "arg2Id": "Q371820", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Readers Digest Association, Inc.", 
+      "arg1Id": "Q371820", 
+      "arg2": "Monie  Thomas O. Ryder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "American Express", 
+      "arg2Id": "Q194360", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Graphics, Inc.", 
+      "arg2Id": "Q7268255", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Starwood Hotels & Resorts Worldwide, Inc.", 
+      "arg1Id": "Q552363", 
+      "arg2": "Monie  Thomas O. Ryder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "RPX Corporation", 
+      "arg2Id": "Q7277601", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "RPX Corporation", 
+      "arg1Id": "Q7277601", 
+      "arg2": "Monie  Thomas O. Ryder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Graphics, Inc.", 
+      "arg1Id": "Q7268255", 
+      "arg2": "Monie  Thomas O. Ryder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Starwood Hotels & Resorts Worldwide, Inc.", 
+      "arg2Id": "Q552363", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Monie  Thomas O. Ryder", 
+      "arg1Id": "Q20685374", 
+      "arg2": "Virgin Mobile USA, Inc.", 
+      "arg2Id": "Q7933973", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Virgin Mobile USA, Inc.", 
+      "arg1Id": "Q7933973", 
+      "arg2": "Monie  Thomas O. Ryder", 
+      "arg2Id": "Q20685374", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Patricia Q. Stonesifer", 
+      "arg2": "Bill and Melinda Gates Foundation", 
+      "arg2Id": "Q655286", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Interactive Media Division", 
+      "arg1Id": "Q7866341", 
+      "arg2": "Patricia Q. Stonesifer", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Patricia Q. Stonesifer", 
+      "arg2": "Interactive Media Division", 
+      "arg2Id": "Q7866341", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Patricia Q. Stonesifer", 
+      "arg2": "Microsoft Corporation", 
+      "arg2Id": "Q2283", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hewlett-Packard Company", 
+      "arg1Id": "Q80978", 
+      "arg2": "Palm", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Restricted stock units", 
+      "arg1Id": "Q7316309", 
+      "arg2": "Leadership\nDevelopment and Compensation Committee", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Leadership Development and Compensation Committee Report", 
+      "arg2": "Board", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Leadership Development and Compensation Committee Report", 
+      "arg2": "Board", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "1180", 
+    "Content-Type": "application/json", 
+    "Date": "Thu, 03 Aug 2017 19:57:42 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "622de857ed0bc865017250878db428bb", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

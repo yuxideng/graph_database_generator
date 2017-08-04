@@ -1,0 +1,835 @@
+{
+  "relationships": [
+    {
+      "arg1": "Marathon Oil Corporation", 
+      "arg1Id": "Q1577587", 
+      "arg2": "Annell R. Bay", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Annell R. Bay", 
+      "arg2": "Marathon Oil Corporation", 
+      "arg2Id": "Q1577587", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Annell R. Bay", 
+      "arg2": "Kerr-McGee", 
+      "arg2Id": "Q6394305", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kerr-McGee", 
+      "arg1Id": "Q6394305", 
+      "arg2": "Annell R. Bay", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Jackson", 
+      "arg2": "University of Texas", 
+      "arg2Id": "Q49213", 
+      "confidence": 0.7072662711143494, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "North\nAmerica", 
+      "arg2Id": "Q49", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "ARCO Oil and Gas", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "Vastar Resources", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "Colorado School of Mines", 
+      "arg2Id": "Q1111367", 
+      "confidence": 0.7388893365859985, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "Colorado School of Mines", 
+      "arg2Id": "Q1111367", 
+      "confidence": 0.7208173274993896, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "Colorado School of Mines", 
+      "arg2Id": "Q1111367", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John J. Christmann", 
+      "arg2": "Southern Methodist University", 
+      "arg2Id": "Q1536258", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joung", 
+      "arg2": "Warburg Pincus LLC", 
+      "arg2Id": "Q1300943", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Warburg Pincus LLC", 
+      "arg1Id": "Q1300943", 
+      "arg2": "Joung", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Joung", 
+      "arg2": "Goldman Sachs", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Joung", 
+      "arg2": "TPH Asset Management, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "William C. Montgomery", 
+      "arg1Id": "Q29364", 
+      "arg2": "Goldman, Sachs & Co.", 
+      "arg2Id": "Q193326", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Goldman, Sachs & Co.", 
+      "arg1Id": "Q193326", 
+      "arg2": "William C. Montgomery", 
+      "arg2Id": "Q29364", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "William C. Montgomery", 
+      "arg1Id": "Q29364", 
+      "arg2": "Quantum Energy Partners", 
+      "arg2Id": "Q21196558", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Quantum Energy Partners", 
+      "arg1Id": "Q21196558", 
+      "arg2": "William C. Montgomery", 
+      "arg2Id": "Q29364", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Enterprise Products Holdings LLC", 
+      "arg2": "partner of Enterprise Products Partners L.P.", 
+      "arg2Id": "Q5380346", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Greenridge Advisors, LLC", 
+      "arg2": "Amy H. Nelson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Greenridge Advisors, LLC", 
+      "arg2": "Amy H. Nelson", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Amy H. Nelson", 
+      "arg2": "Greenridge Advisors, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Amy H. Nelson", 
+      "arg2": "SCF Partners", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "SCF Partners", 
+      "arg2": "Amy H. Nelson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Amy H. Nelson", 
+      "arg2": "Amoco Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ensco plc", 
+      "arg1Id": "Q5379929", 
+      "arg2": "Daniel W.\nRabun", 
+      "arg2Id": "Q503546", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Daniel W.\nRabun", 
+      "arg1Id": "Q503546", 
+      "arg2": "Ensco plc", 
+      "arg2Id": "Q5379929", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Daniel W.\nRabun", 
+      "arg1Id": "Q503546", 
+      "arg2": "Ensco plc", 
+      "arg2Id": "Q5379929", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ensco plc", 
+      "arg1Id": "Q5379929", 
+      "arg2": "Daniel W.\nRabun", 
+      "arg2Id": "Q503546", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Daniel W.\nRabun", 
+      "arg1Id": "Q503546", 
+      "arg2": "Baker & McKenzie LLP", 
+      "arg2Id": "Q804340", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Baker & McKenzie LLP", 
+      "arg1Id": "Q804340", 
+      "arg2": "Daniel W.\nRabun", 
+      "arg2Id": "Q503546", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "International Association", 
+      "arg2": "Daniel W.\nRabun", 
+      "arg2Id": "Q503546", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Golar LNG Ltd.", 
+      "arg1Id": "Q5578424", 
+      "arg2": "Daniel W.\nRabun", 
+      "arg2Id": "Q503546", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Daniel W.\nRabun", 
+      "arg1Id": "Q503546", 
+      "arg2": "Golar LNG Ltd.", 
+      "arg2Id": "Q5578424", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Daniel W.\nRabun", 
+      "arg1Id": "Q503546", 
+      "arg2": "International Association", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Rabuns", 
+      "arg2": "Golar LNG Ltd.", 
+      "arg2Id": "Q5578424", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Golar LNG Ltd.", 
+      "arg1Id": "Q5578424", 
+      "arg2": "Rabuns", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ragauss", 
+      "arg2": "Baker Hughes", 
+      "arg2Id": "Q804353", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "BP Plc", 
+      "arg2": "Ragauss", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ragauss", 
+      "arg2": "BP Plc", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Baker Hughes", 
+      "arg1Id": "Q804353", 
+      "arg2": "BP Plc", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Baker Hughes", 
+      "arg1Id": "Q804353", 
+      "arg2": "Ragauss", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ragauss", 
+      "arg2": "Baker Hughes", 
+      "arg2Id": "Q804353", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "El Paso Energy International", 
+      "arg1Id": "Q1324451", 
+      "arg2": "Ragauss", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ragauss", 
+      "arg2": "El Paso Energy International", 
+      "arg2Id": "Q1324451", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "Companys Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "The Phoenix Resource Companies, Inc.", 
+      "arg2Id": "Q16556", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "The Phoenix Resource Companies, Inc.", 
+      "arg1Id": "Q16556", 
+      "arg2": "Mr. Lawrence", 
+      "arg2Id": "Q4408", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mr. Lawrence", 
+      "arg1Id": "Q4408", 
+      "arg2": "United States Department of Justice", 
+      "arg2Id": "Q1553390", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Companys Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "ConocoPhillips", 
+      "arg2Id": "Q214763", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "ConocoPhillips", 
+      "arg2Id": "Q214763", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Phillips 66", 
+      "arg2Id": "Q1656230", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "TransCanada Corporation", 
+      "arg2Id": "Q1516108", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "DCP Midstream GP, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "DCP Midstream GP, LLC", 
+      "arg2": "DCP Midstream Partners LP", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Chevron Phillips Chemical Co.\nLLC", 
+      "arg2Id": "Q5094438", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Holt & Co.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "DCP Midstream LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Agrium Inc.", 
+      "arg2Id": "Q397223", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Agrium Inc.", 
+      "arg1Id": "Q397223", 
+      "arg2": "DCP Midstream Partners LP", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Rodman D. Patton", 
+      "arg2": "Companys Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Rodman D. Patton", 
+      "arg2": "Audit Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Merrill Lynch Energy Group", 
+      "arg1Id": "Q334122", 
+      "arg2": "Rodman D. Patton", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Rodman D. Patton", 
+      "arg2": "Merrill Lynch Energy Group", 
+      "arg2Id": "Q334122", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "NuStar GP, LLC", 
+      "arg2": "Rodman D. Patton", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Rodman D. Patton", 
+      "arg2": "NuStar GP, LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "NuStar GP LLC", 
+      "arg2": "NuStar Energy L.P.", 
+      "arg2Id": "Q7067712", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "Companys Board of Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "BP Amoco", 
+      "arg2Id": "Q152057", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "Middle East", 
+      "arg2Id": "Q7204", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "Amoco", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "United States Department of State", 
+      "arg2Id": "Q789915", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Urals Energy Public Company Limited", 
+      "arg1Id": "Q35600", 
+      "arg2": "CHARLES J. PITMAN", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "BP Amoco", 
+      "arg2Id": "Q152057", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "Urals Energy Public Company Limited", 
+      "arg2Id": "Q35600", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "CHARLES J. PITMAN", 
+      "arg2": "U.S. State Department", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "JOHN E. LOWE", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JOHN E. LOWE", 
+      "arg2": "Independent", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Independent", 
+      "arg2": "JOHN E. LOWE", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Corporate Risk Committee", 
+      "arg2": "Board", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Non-Employee Directors Restricted Stock Units Program", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Non-Employee Directors Restricted Stock Units Program", 
+      "arg2": "Companys", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "JAMES L. HOUSE", 
+      "arg2": "International New Ventures", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. House", 
+      "arg1Id": "Q6176393", 
+      "arg2": "Amoco Production", 
+      "arg2Id": "Q465952", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "REBECCA A. HOYT", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "REBECCA A. HOYT", 
+      "arg2": "Companys", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Arthur Andersen LLP", 
+      "arg1Id": "Q392730", 
+      "arg2": "REBECCA A. HOYT", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "REBECCA A. HOYT", 
+      "arg2": "Arthur Andersen LLP", 
+      "arg2Id": "Q392730", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kinder\nMorgan Power", 
+      "arg1Id": "Q931032", 
+      "arg2": "P. ANTHONY LANNIE", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "P. ANTHONY LANNIE", 
+      "arg2": "Coral Energy Canada", 
+      "arg2Id": "Q16", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "P. ANTHONY LANNIE", 
+      "arg2": "Kinder\nMorgan Power", 
+      "arg2Id": "Q931032", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Coral Energy Canada", 
+      "arg1Id": "Q16", 
+      "arg2": "P. ANTHONY LANNIE", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "P. ANTHONY LANNIE", 
+      "arg2": "Coral Energy", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Coral Energy", 
+      "arg2": "P. ANTHONY LANNIE", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "STEPHEN J. RINEY", 
+      "arg2": "BP Exploration", 
+      "arg2Id": "Q4946327", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "TIMOTHY J. SULLIVAN", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Canada", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "TIMOTHY J. SULLIVAN", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Cotton Petroleum Corporation", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "TIMOTHY J. SULLIVAN", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Senior Vice President  Operations Support", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Mr. House", 
+      "arg1Id": "Q6176393", 
+      "arg2": "Senior Region Vice", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "TIMOTHY J. SULLIVAN", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Executive Vice President  Operations Support", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James L. House", 
+      "arg2": "Senior Region", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "James L. House", 
+      "arg2": "GOM", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "GOM", 
+      "arg2": "James L. House", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Mid-Con", 
+      "arg1Id": "Q1400411", 
+      "arg2": "James L. House", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "James L. House", 
+      "arg2": "Mid-Con", 
+      "arg2Id": "Q1400411", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Senior Region", 
+      "arg2": "James L. House", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Timothy J. Sullivan", 
+      "arg1Id": "Q7807301", 
+      "arg2": "North Sea", 
+      "arg2Id": "Q1693", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Timothy J. Sullivan", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Scotland", 
+      "arg2Id": "Q22", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Mr. House", 
+      "arg1Id": "Q6176393", 
+      "arg2": "Canada", 
+      "arg2Id": "Q16", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Timothy J. Sullivan", 
+      "arg1Id": "Q7807301", 
+      "arg2": "Canada", 
+      "arg2Id": "Q16", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Mr. House", 
+      "arg1Id": "Q6176393", 
+      "arg2": "Scotland", 
+      "arg2Id": "Q22", 
+      "predicate": "Person Current and Past Location of Residence", 
+      "predicateId": "PER-RESIDENCE"
+    }, 
+    {
+      "arg1": "Companys Board of Directors", 
+      "arg2": "MD&C Committee", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Ernst & Young LLP", 
+      "arg2Id": "Q489097", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Companys", 
+      "arg2": "Ernst & Young LLP", 
+      "arg2Id": "Q489097", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "1068", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:38:17 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "98af8c049723adb0548be177194d4202", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "relationships": [
+    {
+      "arg1": "Dow Chemical Company", 
+      "arg1Id": "Q855639", 
+      "arg2": "KKR & Co. L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Dow Chemical Company", 
+      "arg1Id": "Q855639", 
+      "arg2": "John B. Hess", 
+      "arg2Id": "Q6219986", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "KKR Management LLC", 
+      "arg1Id": "Q1570773", 
+      "arg2": "KKR & Co. L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "KKR Management LLC", 
+      "arg1Id": "Q1570773", 
+      "arg2": "John B. Hess", 
+      "arg2Id": "Q6219986", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "John B. Hess", 
+      "arg1Id": "Q6219986", 
+      "arg2": "Dow Chemical Company", 
+      "arg2Id": "Q855639", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "John B. Hess", 
+      "arg1Id": "Q6219986", 
+      "arg2": "KKR Management LLC", 
+      "arg2Id": "Q1570773", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Weatherford International Ltd.", 
+      "arg1Id": "Q621071", 
+      "arg2": "Samuel W. Bodman", 
+      "arg2Id": "Q1276376", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "AES Corporation", 
+      "arg1Id": "Q291508", 
+      "arg2": "Samuel W. Bodman", 
+      "arg2Id": "Q1276376", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Samuel W. Bodman", 
+      "arg1Id": "Q1276376", 
+      "arg2": "AES Corporation", 
+      "arg2Id": "Q291508", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Samuel W. Bodman", 
+      "arg1Id": "Q1276376", 
+      "arg2": "E.I. duPont de Nemours", 
+      "arg2Id": "Q221062", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Samuel W. Bodman", 
+      "arg1Id": "Q1276376", 
+      "arg2": "Weatherford International Ltd.", 
+      "arg2Id": "Q621071", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "E.I. duPont de Nemours", 
+      "arg1Id": "Q221062", 
+      "arg2": "Samuel W. Bodman", 
+      "arg2Id": "Q1276376", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Craig G. Matthews", 
+      "arg1Id": "Q20656837", 
+      "arg2": "NUI, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Craig G. Matthews", 
+      "arg1Id": "Q20656837", 
+      "arg2": "Republic Financial Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Nicholas F. Brady", 
+      "arg1Id": "Q723444", 
+      "arg2": "Weatherford International Ltd.", 
+      "arg2Id": "Q621071", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Franklin Templeton Investment Fund", 
+      "arg1Id": "Q744683", 
+      "arg2": "Nicholas F. Brady", 
+      "arg2Id": "Q723444", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Holowesko Partners Ltd.", 
+      "arg2": "Nicholas F. Brady", 
+      "arg2Id": "Q723444", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Nicholas F. Brady", 
+      "arg1Id": "Q723444", 
+      "arg2": "Franklin Templeton Investment Fund", 
+      "arg2Id": "Q744683", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Nicholas F. Brady", 
+      "arg1Id": "Q723444", 
+      "arg2": "Holowesko Partners Ltd.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Weatherford International Ltd.", 
+      "arg1Id": "Q621071", 
+      "arg2": "Nicholas F. Brady", 
+      "arg2Id": "Q723444", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Franklin Resources, Inc.", 
+      "arg2": "Frank A. Olson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Frank A. Olson", 
+      "arg2": "Franklin Resources, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Samuel W. Bodman", 
+      "arg1Id": "Q1276376", 
+      "arg2": "United States Department of Energy", 
+      "arg2Id": "Q217810", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gregory P. Hill", 
+      "arg2": "Royal Dutch Shell plc", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robert N. Wilson", 
+      "arg2": "Caxton Health Holdings LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Caxton Health Holdings LLC", 
+      "arg2": "Robert N. Wilson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Craig G. Matthews", 
+      "arg1Id": "Q20656837", 
+      "arg2": "audit committee financial", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Hill", 
+      "arg2": "Royal Dutch Shell", 
+      "arg2Id": "Q154950", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Thomas H. Kean", 
+      "arg1Id": "Q436412", 
+      "arg2": "Hess Foundation, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Hess Corporation", 
+      "arg1Id": "Q1615684", 
+      "arg2": "Hess Corporation", 
+      "arg2Id": "Q1615684", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "744", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:09:52 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "1bc7c83f8afc7db6ddfa9c0009e7abf0", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}

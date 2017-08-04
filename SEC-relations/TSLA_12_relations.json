@@ -1,0 +1,820 @@
+{
+  "relationships": [
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "Messrs. Elon Musk", 
+      "arg2Id": "Q317521", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "SpaceX", 
+      "arg2": "Messrs. Elon Musk", 
+      "arg2Id": "Q317521", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "SpaceX", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "PayPal", 
+      "arg1Id": "Q483959", 
+      "arg2": "eBay", 
+      "arg2Id": "Q58024", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "Zip2 Corporation", 
+      "arg2": "eBay", 
+      "arg2Id": "Q58024", 
+      "predicate": "Organization Acquired By", 
+      "predicateId": "ORG-ACQUIRED-BY"
+    }, 
+    {
+      "arg1": "Messrs. Elon Musk", 
+      "arg1Id": "Q317521", 
+      "arg2": "University of Pennsylvania", 
+      "arg2Id": "Q49117", 
+      "confidence": 0.8891822099685669, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Brad W. Buss", 
+      "arg2": "SolarCity Corporation", 
+      "arg2Id": "Q7555824", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Altera Corp.", 
+      "arg2": "Brad W. Buss", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Brad W. Buss", 
+      "arg2": "Altera Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brad W. Buss", 
+      "arg2": "Zaffire, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Brad W. Buss", 
+      "arg2": "McMaster University", 
+      "arg2Id": "Q632891", 
+      "confidence": 0.7781407833099365, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Brad W. Buss", 
+      "arg2": "Advance Auto Parts", 
+      "arg2Id": "Q4686051", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Advance Auto Parts", 
+      "arg1Id": "Q4686051", 
+      "arg2": "Brad W. Buss", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Juniper Networks, Inc.", 
+      "arg1Id": "Q1049080", 
+      "arg2": "Robyn M. Denholm", 
+      "arg2Id": "Q229445", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Juniper Networks, Inc.", 
+      "arg2Id": "Q1049080", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "at Sun Microsystems, Inc.", 
+      "arg2Id": "Q14647", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Toyota Motor Corporation Australia", 
+      "arg1Id": "Q2447054", 
+      "arg2": "Arthur Andersen & Company", 
+      "arg2Id": "Q392730", 
+      "predicate": "Organization Provider To", 
+      "predicateId": "ORG-PROVIDER-TO"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Toyota Motor Corporation Australia", 
+      "arg2Id": "Q2447054", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Arthur Andersen & Company", 
+      "arg2Id": "Q392730", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Institute of Chartered Accountants of Australia", 
+      "arg2Id": "Q408", 
+      "confidence": 0.6788328886032104, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Institute of Chartered Accountants of Australia", 
+      "arg2Id": "Q408", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "University of California, Los Angeles", 
+      "arg2Id": "Q174710", 
+      "confidence": 0.7256889343261719, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "Valor Management Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "SpaceX", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "SolarCity Corporation", 
+      "arg2Id": "Q7555824", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "SolarCity Corporation", 
+      "arg1Id": "Q7555824", 
+      "arg2": "Antonio J. Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "SpaceX", 
+      "arg2": "Antonio J. Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fisher Jurvetson", 
+      "arg2": "Wave Systems Inc.", 
+      "arg2Id": "Q5203294", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Wave Systems Inc.", 
+      "arg1Id": "Q5203294", 
+      "arg2": "Fisher Jurvetson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fisher Jurvetson", 
+      "arg2": "SpaceX", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fisher Jurvetson", 
+      "arg2": "Synthetic Genomics Inc.", 
+      "arg2Id": "Q4050516", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Synthetic Genomics Inc.", 
+      "arg1Id": "Q4050516", 
+      "arg2": "Fisher Jurvetson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "SpaceX", 
+      "arg2": "Fisher Jurvetson", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fisher Jurvetson", 
+      "arg2": "Stanford University", 
+      "arg2Id": "Q41506", 
+      "confidence": 0.9293391108512878, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "SpaceX", 
+      "arg2": "Kimbal Musk", 
+      "arg2Id": "Q6409751", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kimbal Musk", 
+      "arg1Id": "Q6409751", 
+      "arg2": "SpaceX", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "University of Colorado School of Medicine", 
+      "arg1Id": "Q736674", 
+      "arg2": "Kimbal Musk", 
+      "arg2Id": "Q6409751", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Wellness Center", 
+      "arg2": "Kimbal Musk", 
+      "arg2Id": "Q6409751", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kimbal Musk", 
+      "arg1Id": "Q6409751", 
+      "arg2": "University of Colorado School of Medicine", 
+      "arg2Id": "Q736674", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kimbal Musk", 
+      "arg1Id": "Q6409751", 
+      "arg2": "Wellness Center", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Zip2 Corporation", 
+      "arg2": "Kimbal Musk", 
+      "arg2Id": "Q6409751", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Lucien Bebchuk", 
+      "arg2": "Harvard Law School", 
+      "arg2Id": "Q49122", 
+      "confidence": 0.9064239263534546, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Alma Cohen", 
+      "arg2": "Harvard Law School", 
+      "arg2Id": "Q49122", 
+      "confidence": 0.902778148651123, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Allen Ferrell", 
+      "arg2": "Harvard Law School", 
+      "arg2Id": "Q49122", 
+      "confidence": 0.911293625831604, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Messrs. Elon Musk", 
+      "arg2": "Tesla", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Buss", 
+      "arg2": "SolarCity", 
+      "arg2Id": "Q7555824", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "DBL Partners Fund III", 
+      "arg2Id": "Q1400146", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "DBL Partners Fund III", 
+      "arg1Id": "Q1400146", 
+      "arg2": "Ehrenpreis", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "SpaceX", 
+      "arg2Id": "Q193701", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "SpaceX", 
+      "arg1Id": "Q193701", 
+      "arg2": "Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gracias", 
+      "arg2": "SpaceX", 
+      "arg2Id": "Q193701", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "SolarCity", 
+      "arg1Id": "Q7555824", 
+      "arg2": "Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gracias", 
+      "arg2": "SolarCity", 
+      "arg2Id": "Q7555824", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Messrs. Elon Musk", 
+      "arg2": "Valor Equity Partners, L.P.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Valor Equity Partners, L.P.", 
+      "arg2": "Messrs. Elon Musk", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Valor Equity Partners, L.P.", 
+      "arg2": "Valor Equity Partners II, L.P.", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Valor Equity Partners II, L.P.", 
+      "arg2": "Kimbal Musk", 
+      "arg2Id": "Q6409751", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Kimbal Musk", 
+      "arg1Id": "Q6409751", 
+      "arg2": "Valor Equity Partners II, L.P.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jurvetson", 
+      "arg2": "Draper Fisher Jurvetson", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Draper Fisher Jurvetson Fund X,\nL.P.", 
+      "arg1Id": "Q4354870", 
+      "arg2": "Messrs. Elon Musk", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Messrs. Elon Musk", 
+      "arg2": "Draper Fisher Jurvetson Fund X,\nL.P.", 
+      "arg2Id": "Q4354870", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Lead Independent", 
+      "arg2": "Messrs. Elon Musk", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Messrs. Elon Musk", 
+      "arg2": "Lead Independent", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Tesla", 
+      "arg2": "Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Lead Independent Director", 
+      "arg2": "Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Gracias", 
+      "arg2": "Lead Independent Director", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gracias", 
+      "arg2": "Tesla", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "Compensation Committee  The Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Denholm", 
+      "arg2": "Compensation Committee  The Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Gracias", 
+      "arg2": "Compensation Committee  The Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Compensation Committee", 
+      "arg2": "Ehrenpreis", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ehrenpreis", 
+      "arg2": "Nominating and Corporate Governance Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Nominating and Corporate Governance Committee", 
+      "arg2": "Ehrenpreis", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Denholm", 
+      "arg2": "Compensation Committee", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jason Wheeler", 
+      "arg2": "Google Inc.", 
+      "arg2Id": "Q95", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jason Wheeler", 
+      "arg2": "Booz Allen Hamilton Inc.", 
+      "arg2Id": "Q893221", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jason Wheeler", 
+      "arg2": "Google Inc.", 
+      "arg2Id": "Q95", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jason Wheeler", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "confidence": 0.702927827835083, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jason Wheeler", 
+      "arg2": "Harvard Business School", 
+      "arg2Id": "Q49126", 
+      "confidence": 0.8473842144012451, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jeffrey B. Straubel", 
+      "arg2": "Drive Systems", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Volacom Inc.", 
+      "arg2": "Jeffrey B. Straubel", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Jeffrey B. Straubel", 
+      "arg2": "Volacom Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jeffrey B. Straubel", 
+      "arg2": "Stanford University", 
+      "arg2Id": "Q41506", 
+      "confidence": 0.8955115675926208, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Jon McNeill", 
+      "arg2": "Enservio, Inc.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Sterling Collision Centers", 
+      "arg2": "First Notice Systems", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Sterling Collision Centers", 
+      "arg2": "Jon McNeill", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "First Notice Systems", 
+      "arg2": "Jon McNeill", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Jon McNeill", 
+      "arg2": "First Notice Systems", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon McNeill", 
+      "arg2": "Bain & Company", 
+      "arg2Id": "Q764850", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Jon McNeill", 
+      "arg2": "Northwestern University", 
+      "arg2Id": "Q309350", 
+      "confidence": 0.8099538683891296, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Apple Inc.", 
+      "arg1Id": "Q312", 
+      "arg2": "Doug Field", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Doug Field", 
+      "arg2": "Macintosh Hardware Engineering", 
+      "arg2Id": "Q75687", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Doug Field", 
+      "arg2": "Apple Inc.", 
+      "arg2Id": "Q312", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Macintosh Hardware Engineering", 
+      "arg1Id": "Q75687", 
+      "arg2": "Doug Field", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Doug Field", 
+      "arg2": "M.B.A.", 
+      "arg2Id": "Q191701", 
+      "confidence": 0.5775943994522095, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Doug Field", 
+      "arg2": "Massachusetts Institute of Technology", 
+      "arg2Id": "Q49108", 
+      "confidence": 0.8418577909469604, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "SunPower Corporation", 
+      "arg1Id": "Q645525", 
+      "arg2": "Greg Reichow", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Greg Reichow", 
+      "arg2": "SunPower Corporation", 
+      "arg2Id": "Q645525", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Greg Reichow", 
+      "arg2": "University of Minnesota, Twin Cities", 
+      "arg2Id": "Q238101", 
+      "confidence": 0.714706301689148, 
+      "predicate": "Educated At", 
+      "predicateId": "EDU_AT(e1,e2)"
+    }, 
+    {
+      "arg1": "Elon Musk", 
+      "arg2": "SolarCity", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Elon Musk", 
+      "arg2": "SpaceX", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Kimbal Musk", 
+      "arg1Id": "Q6409751", 
+      "arg2": "Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Ira Ehrenpreis", 
+      "arg2": "Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Tesla", 
+      "arg2": "Mapbox Inc.", 
+      "arg2Id": "Q17068357", 
+      "predicate": "Organization Collaboration", 
+      "predicateId": "ORG-COLLABORATORS"
+    }, 
+    {
+      "arg1": "Robyn M. Denholm", 
+      "arg1Id": "Q229445", 
+      "arg2": "Directors", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Tesla", 
+      "arg2": "United States Securities and Exchange Commission", 
+      "predicate": "Organization Founded By", 
+      "predicateId": "ORG-FOUNDED"
+    }, 
+    {
+      "arg1": "Abigail P. Johnson", 
+      "arg1Id": "Q321125", 
+      "arg2": "Fidelity Management & Research Company", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Fidelity Management & Research Company", 
+      "arg2": "Abigail P. Johnson", 
+      "arg2Id": "Q321125", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Fidelity Management & Research Company", 
+      "arg2": "Fidelity Management & Research Company", 
+      "predicate": "Organization Subsidiary Of", 
+      "predicateId": "ORG-SUBSIDIARY-OF"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "AJG Growth Fund LLC", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "VEP II.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "VEP II.", 
+      "arg2": "Antonio J. Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Antonio J. Gracias", 
+      "arg2": "Valor Management Corp.", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }, 
+    {
+      "arg1": "AJG Growth Fund LLC", 
+      "arg2": "Antonio J. Gracias", 
+      "predicate": "Organization top employees", 
+      "predicateId": "ORG-TOP-EMPLOYEES"
+    }, 
+    {
+      "arg1": "Nominees", 
+      "arg2": "For Against", 
+      "arg2Id": "Q5466644", 
+      "predicate": "Person Employee or Member of", 
+      "predicateId": "PER-EMPLOYEE-MEMBER-OF"
+    }
+  ], 
+  "responseHeaders": {
+    "Connection": "keep-alive", 
+    "Content-Encoding": "gzip", 
+    "Content-Length": "1050", 
+    "Content-Type": "application/json", 
+    "Date": "Mon, 31 Jul 2017 14:06:51 GMT", 
+    "Server": "openresty", 
+    "Strict-Transport-Security": "max-age=63072000; includeSubdomains; preload", 
+    "Vary": "Accept-Encoding", 
+    "X-RosetteAPI-App-Id": "1409615304782", 
+    "X-RosetteAPI-Concurrency": "2", 
+    "X-RosetteAPI-ProcessedLanguage": "eng", 
+    "X-RosetteAPI-Request-Id": "e0976be81cd7ff1568ba8610b0b1bc03", 
+    "X-RosetteAPI-Stats-RequestRelaxAccuracyMode": "precision"
+  }
+}
